@@ -15,10 +15,10 @@
 
 ## Version History
 
-| Version | Date | Focus | Key Outcomes |
-|---------|------|-------|--------------|
-| v1 | YYYY-MM-DD | [What we focused on] | [What we accomplished/decided] |
-| v2 | YYYY-MM-DD | [What we focused on] | [What we accomplished/decided] |
+| Version | Date       | Focus                | Key Outcomes                   |
+| ------- | ---------- | -------------------- | ------------------------------ |
+| v1      | YYYY-MM-DD | [What we focused on] | [What we accomplished/decided] |
+| v2      | YYYY-MM-DD | [What we focused on] | [What we accomplished/decided] |
 
 ---
 
@@ -26,10 +26,10 @@
 
 Decisions that shaped the project direction:
 
-| # | Decision | Date | Version | Confidence | Notes |
-|---|----------|------|---------|------------|-------|
-| 1 | [Decision statement] | YYYY-MM-DD | v1 | High/Med/Low | [Any relevant context] |
-| 2 | [Decision statement] | YYYY-MM-DD | v2 | High/Med/Low | [Any relevant context] |
+| #   | Decision             | Date       | Version | Confidence   | Notes                  |
+| --- | -------------------- | ---------- | ------- | ------------ | ---------------------- |
+| 1   | [Decision statement] | YYYY-MM-DD | v1      | High/Med/Low | [Any relevant context] |
+| 2   | [Decision statement] | YYYY-MM-DD | v2      | High/Med/Low | [Any relevant context] |
 
 ---
 
@@ -37,8 +37,8 @@ Decisions that shaped the project direction:
 
 [Document any major shifts in thinking and why they happened]
 
-| Date | From | To | Reason |
-|------|------|-----|--------|
+| Date       | From            | To              | Reason                     |
+| ---------- | --------------- | --------------- | -------------------------- |
 | YYYY-MM-DD | [Old direction] | [New direction] | [What prompted the change] |
 
 ---

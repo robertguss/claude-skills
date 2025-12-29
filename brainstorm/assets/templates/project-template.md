@@ -12,9 +12,9 @@
 
 ## Session Log
 
-| Version | Date | Duration | Energy | Mode | Methods Used | Summary |
-|---------|------|----------|--------|------|--------------|---------|
-| v1 | YYYY-MM-DD | Xm | Deep/Quick | Connected/Clean | [Methods] | [One-line summary] |
+| Version | Date       | Duration | Energy     | Mode            | Methods Used | Summary            |
+| ------- | ---------- | -------- | ---------- | --------------- | ------------ | ------------------ |
+| v1      | YYYY-MM-DD | Xm       | Deep/Quick | Connected/Clean | [Methods]    | [One-line summary] |
 
 ---
 
@@ -50,32 +50,38 @@ Questions that need thinking before next session:
 ## Ideas Inventory
 
 ### Raw
-*Just captured, unexamined*
 
-- 
+_Just captured, unexamined_
+
+-
 
 ### Developing
-*Being explored, has potential*
 
-- 
+_Being explored, has potential_
+
+-
 
 ### Refined
-*Shaped and tested, ready for evaluation*
 
-- 
+_Shaped and tested, ready for evaluation_
+
+-
 
 ### Ready
-*Decision made, ready to execute*
 
-- 
+_Decision made, ready to execute_
+
+-
 
 ### Parked
-*Not now, but worth keeping*
 
-- 
+_Not now, but worth keeping_
+
+-
 
 ### Eliminated
-*Killed, with reasoning*
+
+_Killed, with reasoning_
 
 - [Idea]: Eliminated because [reason]
 
@@ -83,8 +89,8 @@ Questions that need thinking before next session:
 
 ## Decisions Made
 
-| Decision | Date | Reasoning | Confidence |
-|----------|------|-----------|------------|
+| Decision             | Date       | Reasoning             | Confidence      |
+| -------------------- | ---------- | --------------------- | --------------- |
 | [Decision statement] | YYYY-MM-DD | [Why we decided this] | High/Medium/Low |
 
 ---

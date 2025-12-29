@@ -48,6 +48,7 @@ This skill suite replicates that infrastructure using Claude, creating a "book f
 ### The Author Context
 
 Robert Guss is:
+
 - A technologist at Westminster Theological Seminary
 - An elder in the Orthodox Presbyterian Church
 - Grounded in Reformed theology and Van Tillian presuppositional apologetics
@@ -146,6 +147,7 @@ Robert Guss is:
 **Purpose:** Generic, multi-purpose brainstorming for any creative or analytical challenge. Not book-specific.
 
 **Key Features:**
+
 - Multi-session continuity via versioned markdown documents
 - 25+ brainstorming methods catalog
 - Connected mode (cross-project awareness) vs. clean-slate mode
@@ -153,6 +155,7 @@ Robert Guss is:
 - Disagreement protocol and decision logging
 
 **Outputs:**
+
 - Versioned brainstorm documents
 - Parking lot for cross-project ideas
 - Decision log with reasoning
@@ -172,18 +175,19 @@ Robert Guss is:
 
 **The Eight Elements:**
 
-| Element | Core Question |
-|---------|---------------|
-| 1. The Reader | Who specifically is this for? (Beyond demographics—their situation, beliefs, struggles) |
-| 2. The Transformation | Where will they be after reading? (Before/after states) |
-| 3. The Core Thesis | What's the one big idea? (Must be a claim someone can disagree with) |
-| 4. The Author Angle | Why are you the one to write this? (Experience, expertise, access, perspective) |
-| 5. The Stakes | Why does this matter? Why now? (Cost of inaction, timeliness) |
-| 6. The Key Concepts | What are the 3-7 major ideas supporting the thesis? |
-| 7. The Enemy | What is this book arguing against? (Mindset, practice, conventional wisdom) |
-| 8. The Promise | In one sentence, what does the reader get? |
+| Element               | Core Question                                                                           |
+| --------------------- | --------------------------------------------------------------------------------------- |
+| 1. The Reader         | Who specifically is this for? (Beyond demographics—their situation, beliefs, struggles) |
+| 2. The Transformation | Where will they be after reading? (Before/after states)                                 |
+| 3. The Core Thesis    | What's the one big idea? (Must be a claim someone can disagree with)                    |
+| 4. The Author Angle   | Why are you the one to write this? (Experience, expertise, access, perspective)         |
+| 5. The Stakes         | Why does this matter? Why now? (Cost of inaction, timeliness)                           |
+| 6. The Key Concepts   | What are the 3-7 major ideas supporting the thesis?                                     |
+| 7. The Enemy          | What is this book arguing against? (Mindset, practice, conventional wisdom)             |
+| 8. The Promise        | In one sentence, what does the reader get?                                              |
 
 **Key Features:**
+
 - Multi-session development with versioned documents
 - Collaboration behaviors (surface insights, challenge weakness, push for specificity)
 - Quick Capture Mode for rapid ideas
@@ -191,12 +195,14 @@ Robert Guss is:
 - Nonfiction structural frameworks reference
 
 **Inputs:**
+
 - Raw idea (one sentence)
 - Brainstorm document
 - Zettelkasten notes
 - Existing partial concept
 
 **Outputs:**
+
 - Book Concept Document (versioned, with all eight elements and readiness assessment)
 
 **Handoff:** Book Concept Document feeds into `idea-validator` and `market-research`.
@@ -206,6 +212,7 @@ Robert Guss is:
 ## Phase 2: Validation
 
 This phase answers two critical questions before significant investment:
+
 1. **Is the thesis intellectually sound?** (idea-validator)
 2. **Is this book commercially viable?** (market-research)
 
@@ -216,6 +223,7 @@ This phase answers two critical questions before significant investment:
 **Purpose:** Stress-test the core ideas from the Book Concept Document against existing research before committing to architecture and drafting.
 
 **Key Activities:**
+
 - Identify the 3-5 core claims/theses from the Book Concept Document
 - Research each claim: What does existing literature say? Are there counterarguments?
 - Flag weak spots, contradictions, areas needing more evidence
@@ -224,9 +232,11 @@ This phase answers two critical questions before significant investment:
 - Assess the strength of the author's angle—is there a credibility gap?
 
 **Inputs:**
+
 - Book Concept Document (from `book-ideation`)
 
 **Outputs:**
+
 - Validation Report containing:
   - Confidence levels for each core claim (Strong / Needs Work / Weak)
   - Research bibliography for promising threads
@@ -236,6 +246,7 @@ This phase answers two critical questions before significant investment:
   - List of experts, books, or sources to engage with
 
 **Design Considerations:**
+
 - Should use web search to find current research, competing books, expert opinions
 - Must be honest about weaknesses—the goal is to surface problems early, not validate ego
 - Should distinguish between "this needs more research" vs. "this thesis is fundamentally flawed"
@@ -251,6 +262,7 @@ This phase answers two critical questions before significant investment:
 **Purpose:** Determine if this book is worth writing from a business perspective, specifically for Amazon KDP self-publishing.
 
 **Key Activities:**
+
 - Define the target reader precisely (refine from Book Concept Document)
 - Analyze Amazon KDP competition:
   - Search for similar books by keyword
@@ -264,10 +276,12 @@ This phase answers two critical questions before significant investment:
 - Evaluate timing: Is there a trend or moment that makes this book timely?
 
 **Inputs:**
+
 - Book Concept Document (from `book-ideation`)
 - Validation Report (from `idea-validator`)
 
 **Outputs:**
+
 - Market Research Report containing:
   - Market viability scorecard (1-10 with criteria)
   - Competitive landscape analysis (top 5-10 competing titles)
@@ -279,6 +293,7 @@ This phase answers two critical questions before significant investment:
   - Go/No-Go recommendation with rationale
 
 **Design Considerations:**
+
 - Must use web search to access Amazon, analyze real books
 - Should be realistic, not optimistic—better to kill a bad idea early
 - Consider the author's goals: Is this book for income, authority-building, or passion?
@@ -291,6 +306,7 @@ This phase answers two critical questions before significant investment:
 ### The Go/No-Go Gate
 
 After validation, the author makes an explicit decision:
+
 - **GO:** Proceed to architecture with confidence
 - **REVISE:** Return to `book-ideation` to address weaknesses
 - **KILL:** Abandon this book idea (captured in parking lot for potential future revival)
@@ -312,24 +328,28 @@ This gate prevents wasted effort on books that are intellectually weak or commer
 **Key Activities (Multi-Session):**
 
 **Session 1: Reader Deep-Dive**
+
 - Go deeper than the Book Concept Document's reader definition
 - Map the reader's emotional and intellectual state at the start
 - Identify the key "aha moments" they need to experience
 - Understand their resistance points—where will they push back?
 
 **Session 2: Book Promise & Transformation Arc**
+
 - Articulate the book's core promise in one sentence
 - Map the reader's transformation journey (before → after)
 - Sequence the insights: what must come before what?
 - Identify the emotional arc (not just informational)
 
 **Session 3: Framework Selection**
+
 - Explore structural frameworks (see Framework Catalog below)
 - Test-fit 2-3 frameworks against the content and reader journey
 - Select and justify the best structure
 - Identify how the framework serves the reader
 
 **Session 4+: Chapter Architecture**
+
 - Build each chapter with:
   - Reader state at entry ("They arrive believing/feeling/knowing X")
   - Chapter's job (What does this chapter DO for the reader?)
@@ -340,6 +360,7 @@ This gate prevents wasted effort on books that are intellectually weak or commer
 - Identify where the reader might get lost, bored, or overwhelmed
 
 **Final Session: Integration & Gap Analysis**
+
 - Polish the Table of Contents (reader-facing language)
 - Stress-test the structure
 - Identify research gaps (specific questions for `research-assistant`)
@@ -347,27 +368,29 @@ This gate prevents wasted effort on books that are intellectually weak or commer
 
 **Structural Framework Catalog:**
 
-| Framework | Best For | Reader Experience |
-|-----------|----------|-------------------|
-| Problem → Solution | Business, self-help | "I had a problem, now I have a solution" |
-| Transformation Arc | Personal development | "I am different now than when I started" |
-| Teaching Progression | How-to, technical | "I built capability step by step" |
-| Concentric Circles | Philosophy, deep ideas | "I understand at increasingly profound levels" |
-| Case Study Mosaic | Business, psychology | "I see the principle through multiple lenses" |
-| Before/During/After | Process-oriented | "I understand the full journey" |
-| Myth & Counter-Myth | Contrarian takes | "I've had my assumptions shattered" |
-| The Quest | Narrative nonfiction | "I went on a journey with the author" |
-| Modular/Reference | Guides, handbooks | "I can find what I need when I need it" |
-| Dialectical | Philosophical, analytical | "I held tension and reached synthesis" |
+| Framework            | Best For                  | Reader Experience                              |
+| -------------------- | ------------------------- | ---------------------------------------------- |
+| Problem → Solution   | Business, self-help       | "I had a problem, now I have a solution"       |
+| Transformation Arc   | Personal development      | "I am different now than when I started"       |
+| Teaching Progression | How-to, technical         | "I built capability step by step"              |
+| Concentric Circles   | Philosophy, deep ideas    | "I understand at increasingly profound levels" |
+| Case Study Mosaic    | Business, psychology      | "I see the principle through multiple lenses"  |
+| Before/During/After  | Process-oriented          | "I understand the full journey"                |
+| Myth & Counter-Myth  | Contrarian takes          | "I've had my assumptions shattered"            |
+| The Quest            | Narrative nonfiction      | "I went on a journey with the author"          |
+| Modular/Reference    | Guides, handbooks         | "I can find what I need when I need it"        |
+| Dialectical          | Philosophical, analytical | "I held tension and reached synthesis"         |
 
 **Hybrid Approaches:** Most successful nonfiction books combine frameworks.
 
 **Inputs:**
+
 - Book Concept Document (from `book-ideation`)
 - Validation Report (from `idea-validator`)
 - Market Research Report (from `market-research`)
 
 **Outputs:**
+
 - Architecture Document containing:
   - Reader Profile (deep, specific)
   - Book Promise Statement (one sentence)
@@ -391,6 +414,7 @@ This gate prevents wasted effort on books that are intellectually weak or commer
 **Purpose:** Conduct deep, targeted research to fill specific gaps identified during architecture. Unlike `idea-validator` (which stress-tests existing ideas), this skill generates new material the book needs.
 
 **Key Activities:**
+
 - Receive specific research questions from the Architecture Document
 - Conduct thorough research using web search, academic sources, books
 - Gather evidence, examples, case studies, statistics
@@ -401,10 +425,12 @@ This gate prevents wasted effort on books that are intellectually weak or commer
 - Create annotated bibliography
 
 **Inputs:**
+
 - Architecture Document (specifically the Research Gap List)
 - Book Concept Document (for context on thesis and angle)
 
 **Outputs:**
+
 - Research Dossier organized by chapter/section containing:
   - Answers to specific research questions
   - Supporting evidence with citations
@@ -416,6 +442,7 @@ This gate prevents wasted effort on books that are intellectually weak or commer
   - Suggested experts to interview or cite
 
 **Design Considerations:**
+
 - Research should be organized to match the chapter structure
 - Quality over quantity—curated, relevant material
 - Must include source citations for fact-checking later
@@ -434,6 +461,7 @@ This gate prevents wasted effort on books that are intellectually weak or commer
 **Purpose:** Guide the author through the drafting process, chapter by chapter, maintaining momentum and quality while respecting the author's voice.
 
 **Key Activities:**
+
 - Work through chapters in sequence according to the Architecture Document
 - For each chapter:
   - Review the chapter's job, entry/exit states, key concepts
@@ -448,17 +476,20 @@ This gate prevents wasted effort on books that are intellectually weak or commer
 - Ensure the author's voice remains consistent
 
 **Inputs:**
+
 - Architecture Document (chapter blueprint)
 - Research Dossier (organized by chapter)
 - Book Concept Document (for tone, reader, promise)
 
 **Outputs:**
+
 - Completed first draft (chapter by chapter)
 - Chapter feedback notes
 - Progress tracking
 - List of issues to address in revision
 
 **Design Considerations:**
+
 - This skill coaches and provides feedback—it does NOT ghostwrite
 - Should help the author find their voice, not impose one
 - Must balance encouragement with honest feedback
@@ -479,6 +510,7 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 **Purpose:** Big-picture editing focused on structure, argument, content gaps, and overall effectiveness. This is the "macro" edit.
 
 **Key Activities:**
+
 - Evaluate the manuscript against the original Book Concept Document
 - Assess whether the book delivers on its promise
 - Identify structural problems (chapters in wrong order, pacing issues)
@@ -490,11 +522,13 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 - Suggest specific revisions (move, cut, expand, add)
 
 **Inputs:**
+
 - Complete first draft (from `draft-coach`)
 - Architecture Document (to compare against original plan)
 - Book Concept Document (reader, promise, thesis)
 
 **Outputs:**
+
 - Developmental Editorial Letter containing:
   - Overall assessment (what's working, what's not)
   - Structural recommendations
@@ -504,6 +538,7 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 - Marked-up manuscript with inline comments
 
 **Design Considerations:**
+
 - Does not focus on sentence-level issues—that comes later
 - Should be honest but constructive
 - Recommendations should be actionable
@@ -520,6 +555,7 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 **Purpose:** Sentence-level editing focused on style, voice, flow, and clarity. This is the "micro" edit for prose quality.
 
 **Key Activities:**
+
 - Review every sentence for clarity and impact
 - Improve flow and transitions between paragraphs
 - Refine word choice for precision and rhythm
@@ -531,15 +567,18 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 - Check that the author's voice is preserved, not homogenized
 
 **Inputs:**
+
 - Revised manuscript (after developmental edit)
 - Book Concept Document (for tone and voice guidance)
 
 **Outputs:**
+
 - Line-edited manuscript with tracked changes
 - Style notes (patterns to continue or avoid)
 - Line editing summary
 
 **Design Considerations:**
+
 - Must preserve the author's voice while improving prose
 - Balance between polishing and over-editing
 - Focus on making each sentence as powerful as possible
@@ -555,6 +594,7 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 **Purpose:** Technical editing focused on grammar, punctuation, consistency, and adherence to style guide.
 
 **Key Activities:**
+
 - Correct all grammatical errors
 - Fix punctuation and spelling
 - Ensure consistency (capitalization, hyphenation, number formatting)
@@ -565,15 +605,18 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 - Flag potential factual inconsistencies
 
 **Inputs:**
+
 - Line-edited manuscript
 - Style sheet (if exists from previous work)
 
 **Outputs:**
+
 - Copy-edited manuscript with tracked changes
 - Style sheet (comprehensive list of style decisions)
 - Query list (questions for the author)
 
 **Design Considerations:**
+
 - This is detailed, technical work
 - Must be consistent across the entire manuscript
 - Style sheet ensures consistency for future editions
@@ -589,6 +632,7 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 **Purpose:** Verify all factual claims, statistics, quotes, and citations for accuracy.
 
 **Key Activities:**
+
 - Identify all factual claims in the manuscript
 - Verify statistics, dates, names, and data
 - Check quotes against original sources
@@ -599,11 +643,13 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 - Create a fact-check report with findings
 
 **Inputs:**
+
 - Copy-edited manuscript
 - Research Dossier (for source material)
 - Any author-provided source documents
 
 **Outputs:**
+
 - Fact-checked manuscript with annotations
 - Fact-check report containing:
   - Verified claims
@@ -614,6 +660,7 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 - Updated bibliography/notes
 
 **Design Considerations:**
+
 - Critical for nonfiction credibility
 - Must use web search to verify claims
 - Should note confidence levels (verified, likely accurate, uncertain)
@@ -630,6 +677,7 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 **Purpose:** Final quality check for any remaining errors before publication.
 
 **Key Activities:**
+
 - Read the manuscript with fresh eyes
 - Catch typos and spelling errors missed earlier
 - Find punctuation mistakes
@@ -640,14 +688,17 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 - Final consistency check
 
 **Inputs:**
+
 - Fact-checked manuscript (should be near-final)
 
 **Outputs:**
+
 - Proofread manuscript with corrections
 - Proofreading checklist (completed)
 - Final quality report
 
 **Design Considerations:**
+
 - This is the last line of defense
 - Should not be making substantive changes at this stage
 - Focus on catching what everyone else missed
@@ -665,6 +716,7 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 **Purpose:** Create a professional back-of-book index for nonfiction works.
 
 **Key Activities:**
+
 - Read the manuscript and identify indexable terms
 - Create main entries and subentries
 - Develop cross-references (see also)
@@ -674,13 +726,16 @@ The editing pipeline moves from big-picture to fine-grained, each skill building
 - Include names, concepts, topics as appropriate
 
 **Inputs:**
+
 - Final manuscript with page numbers
 
 **Outputs:**
+
 - Complete index (formatted for publishing)
 - Index style notes
 
 **Design Considerations:**
+
 - Not all books need an index (depends on type)
 - Requires final page numbers, so this happens late
 - Good indexes balance comprehensiveness with usability
@@ -696,6 +751,7 @@ These principles apply across ALL skills in the factory:
 ### 1. Reader-First Decision Making
 
 Every decision—structural, stylistic, content—is evaluated from the reader's perspective:
+
 - Will this help the reader understand?
 - Will this keep the reader engaged?
 - Will this move the reader toward transformation?
@@ -707,6 +763,7 @@ All major artifacts are versioned (v1, v2, v3) so progress can be tracked and ea
 ### 3. Explicit Handoffs
 
 Each skill produces structured output that the next skill consumes. The handoff should be clear:
+
 - What document is being passed?
 - What should the next skill do with it?
 - What decisions have already been made?
@@ -714,6 +771,7 @@ Each skill produces structured output that the next skill consumes. The handoff 
 ### 4. Session Continuity
 
 Skills that span multiple sessions should:
+
 - Begin by asking if continuing or starting new
 - Request the latest version of relevant documents
 - Log session progress
@@ -722,6 +780,7 @@ Skills that span multiple sessions should:
 ### 5. Honest Feedback
 
 Skills should:
+
 - Challenge weak thinking
 - Surface problems early
 - Not validate ego
@@ -730,6 +789,7 @@ Skills should:
 ### 6. Author Voice Preservation
 
 Editing skills should:
+
 - Preserve the author's unique voice
 - Improve without homogenizing
 - Suggest, not impose
@@ -772,12 +832,15 @@ description: [What it does and when to use it. Be specific about triggers.]
 ## Session Flow
 
 ### Session Start
+
 [How to begin]
 
 ### During Session
+
 [Key activities and behaviors]
 
 ### Session End
+
 [How to conclude, what to produce]
 
 ## Inputs
@@ -796,6 +859,7 @@ description: [What it does and when to use it. Be specific about triggers.]
 ### Consistency with Existing Skills
 
 New skills should:
+
 - Use similar session flow structure as `brainstorm` and `book-ideation`
 - Produce versioned markdown documents
 - Include readiness criteria before handoff
@@ -807,14 +871,14 @@ New skills should:
 
 For context when building/testing skills:
 
-| Book | Status | Notes |
-|------|--------|-------|
-| **Thinking with Paper** | Most developed (30 chapters outlined) | Zettelkasten method, contrarian thesis about paper vs. digital |
-| **A Critique of Truth** | Seed stage, high energy | Epistemological failure of philosophy, Van Tillian perspective |
-| **Recovering Thinking** | Concept outline | History and vocation of intellectual life |
-| **The Ancient Paths** | Detailed outline | Practices for deep thinking (overlaps with Thinking with Paper) |
-| **Your Brain on Dopamine** | Future idea | Dopamine hijacking and attention |
+| Book                       | Status                                | Notes                                                           |
+| -------------------------- | ------------------------------------- | --------------------------------------------------------------- |
+| **Thinking with Paper**    | Most developed (30 chapters outlined) | Zettelkasten method, contrarian thesis about paper vs. digital  |
+| **A Critique of Truth**    | Seed stage, high energy               | Epistemological failure of philosophy, Van Tillian perspective  |
+| **Recovering Thinking**    | Concept outline                       | History and vocation of intellectual life                       |
+| **The Ancient Paths**      | Detailed outline                      | Practices for deep thinking (overlaps with Thinking with Paper) |
+| **Your Brain on Dopamine** | Future idea                           | Dopamine hijacking and attention                                |
 
 ---
 
-*This document should be updated as skills are built and the factory evolves.*
+_This document should be updated as skills are built and the factory evolves._

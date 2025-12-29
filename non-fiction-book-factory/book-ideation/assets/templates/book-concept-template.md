@@ -16,9 +16,9 @@
 
 ## Session Log
 
-| Version | Date | Focus | Key Discovery |
-|---------|------|-------|---------------|
-| v1 | YYYY-MM-DD | [Which elements developed] | [One-line insight] |
+| Version | Date       | Focus                      | Key Discovery      |
+| ------- | ---------- | -------------------------- | ------------------ |
+| v1      | YYYY-MM-DD | [Which elements developed] | [One-line insight] |
 
 ---
 
@@ -34,11 +34,11 @@
 
 **Current beliefs that aren't serving them:**
 
-- 
+-
 
 **What they've already tried:**
 
-- 
+-
 
 **The trigger moment** (why they pick up THIS book):
 
@@ -52,15 +52,15 @@
 
 **Point A (Before):**
 
-- Believes: 
-- Feels: 
-- Does: 
+- Believes:
+- Feels:
+- Does:
 
 **Point B (After):**
 
-- Believes: 
-- Feels: 
-- Does: 
+- Believes:
+- Feels:
+- Does:
 
 **The gap:**
 
@@ -78,9 +78,9 @@
 
 **Template check:** "Most people believe [conventional wisdom], but actually [your thesis], because [key insight]."
 
-- Conventional wisdom being challenged: 
-- Your counter-claim: 
-- Key insight that supports it: 
+- Conventional wisdom being challenged:
+- Your counter-claim:
+- Key insight that supports it:
 
 **Contrarian test:** Can someone reasonably disagree? [Yes/No — if No, thesis needs work]
 
@@ -92,12 +92,12 @@
 
 **Why are you the one to write this?**
 
-| Credibility Type | Your Claim |
-|------------------|------------|
-| Experience (lived it) | |
-| Expertise (studied/practiced it) | |
-| Access (unique information) | |
-| Perspective (unique viewpoint) | |
+| Credibility Type                 | Your Claim |
+| -------------------------------- | ---------- |
+| Experience (lived it)            |            |
+| Expertise (studied/practiced it) |            |
+| Access (unique information)      |            |
+| Perspective (unique viewpoint)   |            |
 
 **The compelling hook:**
 
@@ -129,17 +129,17 @@
 
 **The 3-7 major ideas that support the thesis:**
 
-| # | Concept | One-Sentence Description | Essential? |
-|---|---------|--------------------------|------------|
-| 1 | | | Yes/No |
-| 2 | | | Yes/No |
-| 3 | | | Yes/No |
-| 4 | | | Yes/No |
-| 5 | | | Yes/No |
+| #   | Concept | One-Sentence Description | Essential? |
+| --- | ------- | ------------------------ | ---------- |
+| 1   |         |                          | Yes/No     |
+| 2   |         |                          | Yes/No     |
+| 3   |         |                          | Yes/No     |
+| 4   |         |                          | Yes/No     |
+| 5   |         |                          | Yes/No     |
 
 **Parking lot** (ideas that didn't make the cut):
 
-- 
+-
 
 ---
 
@@ -150,7 +150,7 @@
 **What is this book arguing against?**
 
 - Type: [Mindset / Practice / Conventional Wisdom / Competing Approach]
-- Named: 
+- Named:
 
 **Why is the enemy wrong?**
 
@@ -171,6 +171,7 @@
 [Template: "This book will help [reader] achieve [transformation] by [method/insight]."]
 
 **Promise test:**
+
 - Specific? [Yes/No]
 - Believable? [Yes/No]
 - Compelling? [Yes/No]
@@ -184,7 +185,7 @@ Based on current elements, potential frameworks include:
 - [Framework 1]: Because [reason]
 - [Framework 2]: Because [reason]
 
-*Full structural decisions belong to `book-architect`.*
+_Full structural decisions belong to `book-architect`._
 
 ---
 
@@ -192,8 +193,8 @@ Based on current elements, potential frameworks include:
 
 Questions that need thinking before next session:
 
-1. 
-2. 
+1.
+2.
 
 **Overnight question:**
 
@@ -203,16 +204,16 @@ Questions that need thinking before next session:
 
 ## Readiness Assessment
 
-| Element | Status | Blocker |
-|---------|--------|---------|
-| Reader | 🔴/🟡/🟢 | |
-| Transformation | 🔴/🟡/🟢 | |
-| Thesis | 🔴/🟡/🟢 | |
-| Author Angle | 🔴/🟡/🟢 | |
-| Stakes | 🔴/🟡/🟢 | |
-| Key Concepts | 🔴/🟡/🟢 | |
-| Enemy | 🔴/🟡/🟢 | |
-| Promise | 🔴/🟡/🟢 | |
+| Element        | Status   | Blocker |
+| -------------- | -------- | ------- |
+| Reader         | 🔴/🟡/🟢 |         |
+| Transformation | 🔴/🟡/🟢 |         |
+| Thesis         | 🔴/🟡/🟢 |         |
+| Author Angle   | 🔴/🟡/🟢 |         |
+| Stakes         | 🔴/🟡/🟢 |         |
+| Key Concepts   | 🔴/🟡/🟢 |         |
+| Enemy          | 🔴/🟡/🟢 |         |
+| Promise        | 🔴/🟡/🟢 |         |
 
 **Ready for validation?** [Yes / No — if No, list what's missing]
 
@@ -226,8 +227,8 @@ Questions that need thinking before next session:
 
 ## Next Steps
 
-- [ ] 
-- [ ] 
+- [ ]
+- [ ]
 
 **Next session focus:**
 

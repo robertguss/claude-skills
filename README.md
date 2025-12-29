@@ -112,7 +112,6 @@ python build.py --all
    ```
 
 3. Add optional resources:
-
    - `references/` — Documentation to load as needed
    - `assets/` — Templates, examples, files for output
 
@@ -151,12 +150,14 @@ This is genuine intellectual partnership, not idea generation on demand:
 ### Session Flow
 
 **Session Start** — Claude asks:
+
 1. New or continuing project?
 2. Deep exploration or quick progress today?
 3. Connected mode (cross-project awareness) or clean-slate mode (fresh thinking)?
 4. Confirms the brainstorming context and recommends appropriate methods
 
 **During Session:**
+
 - Proactively offers observations: "I notice you keep circling back to X—want to dig into why?"
 - Challenges weak reasoning: "I'm not convinced by that reasoning. Here's why..."
 - Marks decision points: "This feels like a decision point. Should we log: [decision]?"
@@ -164,6 +165,7 @@ This is genuine intellectual partnership, not idea generation on demand:
 - Captures parking lot ideas for other projects
 
 **Session End:**
+
 - Exit summary with current state, decisions made, open questions
 - The overnight test: "What question should you sit with before our next session?"
 - Generates versioned project document
@@ -192,14 +194,14 @@ Presuppositional Analysis, Telos Examination, Stewardship Frame
 
 Each idea is tracked through maturity levels:
 
-| Level | Meaning |
-|-------|---------|
-| Raw | Just captured, unexamined |
-| Developing | Being explored, has potential |
-| Refined | Shaped, tested, ready for evaluation |
-| Ready | Decision made, ready to execute |
-| Parked | Not now, but worth keeping |
-| Eliminated | Killed, with documented reasoning |
+| Level      | Meaning                              |
+| ---------- | ------------------------------------ |
+| Raw        | Just captured, unexamined            |
+| Developing | Being explored, has potential        |
+| Refined    | Shaped, tested, ready for evaluation |
+| Ready      | Decision made, ready to execute      |
+| Parked     | Not now, but worth keeping           |
+| Eliminated | Killed, with documented reasoning    |
 
 ### File Structure Created
 

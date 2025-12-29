@@ -37,12 +37,14 @@ Each skill is a top-level folder containing:
 ### SKILL.md Requirements
 
 Must start with YAML frontmatter:
+
 - `name` (required): skill identifier
 - `description` (required, min 20 chars): determines when the skill activates
 
 ### Build System
 
 `build.py` validates skills and packages them as ZIP archives:
+
 - Validates YAML frontmatter presence and required fields
 - Excludes hidden files, `.DS_Store`, `__pycache__`
 - Creates `<skill-name>.skill` in `dist/`

@@ -50,12 +50,14 @@ Always begin by asking these questions:
 **Decision checkpoints:**
 
 When a decision crystallizes, explicitly mark it:
+
 - "This feels like a decision point. Should we log: [decision statement]?"
 - Capture the reasoning, not just the conclusion
 
 **Method suggestions:**
 
 When the session could benefit from structure, recommend methods:
+
 - "We're stuck diverging—want to try SCAMPER to force new angles?"
 - "Before we commit, should we run a pre-mortem?"
 - Reference `references/methods-detailed.md` if the user wants to understand a method
@@ -63,11 +65,13 @@ When the session could benefit from structure, recommend methods:
 **Pacing awareness:**
 
 At natural breakpoints (~20-30 min of dense work), check in:
+
 - "Want to keep going or pause here?"
 
 **Parking lot capture:**
 
 When ideas surface that don't belong to the current project:
+
 - "This seems relevant to [other project], not this one—should I add it to the parking lot?"
 
 ### 3. Session End
@@ -116,14 +120,14 @@ Use `assets/templates/index-template.md`. Tracks:
 
 Track where each idea sits:
 
-| Level | Meaning |
-|-------|---------|
-| Raw | Just captured, unexamined |
-| Developing | Being explored, has potential |
-| Refined | Shaped, tested, ready for evaluation |
-| Ready | Decision made, ready to execute |
-| Parked | Not now, but worth keeping |
-| Eliminated | Killed, with documented reasoning |
+| Level      | Meaning                              |
+| ---------- | ------------------------------------ |
+| Raw        | Just captured, unexamined            |
+| Developing | Being explored, has potential        |
+| Refined    | Shaped, tested, ready for evaluation |
+| Ready      | Decision made, ready to execute      |
+| Parked     | Not now, but worth keeping           |
+| Eliminated | Killed, with documented reasoning    |
 
 ## Quick Capture Mode
 
@@ -146,11 +150,13 @@ When pushing back and the user disagrees:
 ## Synthesis Prompts
 
 After 3+ sessions on a project, offer:
+
 - "We've had [N] sessions on this. Want me to create a synthesis document that distills our current best thinking?"
 
 ## Success Criteria
 
 Early in any project, establish:
+
 - "What does 'done' look like for this brainstorm?"
 - "How will we know we've succeeded?"
 
