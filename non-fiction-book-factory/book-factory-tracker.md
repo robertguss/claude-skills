@@ -51,9 +51,9 @@
 
 ### Phase 3: Architecture
 
-| Skill            | Status    | Version | Date Completed | Location | Dependencies                                         | Notes/Blockers                                                 |
-| ---------------- | --------- | ------- | -------------- | -------- | ---------------------------------------------------- | -------------------------------------------------------------- |
-| `book-architect` | ⬜ Future | —       | —              | —        | `book-ideation`, `idea-validator`, `market-research` | Designs reader journey, chapter blueprint, TOC. Multi-session. |
+| Skill            | Status  | Version | Date Completed | Location | Dependencies                                         | Notes/Blockers                                                 |
+| ---------------- | ------- | ------- | -------------- | -------- | ---------------------------------------------------- | -------------------------------------------------------------- |
+| `book-architect` | ✅ Done | —       | —              | —        | `book-ideation`, `idea-validator`, `market-research` | Designs reader journey, chapter blueprint, TOC. Multi-session. |
 
 ---
 
