@@ -17,14 +17,15 @@ Anticipates what skeptical readers will search for while reading. If they Google
 ### Claim [#]: [Claim Statement]
 
 **What They'll Google:**
+
 - "[Search query 1]"
 - "[Search query 2]"
 
 **What They'll Find:**
 
-| Source | Position | Threat Level |
-|--------|----------|--------------|
-| [Top result] | [What it says] | [High/Med/Low] |
+| Source          | Position       | Threat Level   |
+| --------------- | -------------- | -------------- |
+| [Top result]    | [What it says] | [High/Med/Low] |
 | [Second result] | [What it says] | [High/Med/Low] |
 
 **Must Address in Book?** [Yes / No]
@@ -44,9 +45,9 @@ Anticipates what skeptical readers will search for while reading. If they Google
 
 Claims where Google results are most damaging and must be addressed preemptively:
 
-| Claim | Search | Top Counter | Your Response |
-|-------|--------|-------------|---------------|
-| [#] | "[Query]" | [What they find] | [How you address] |
+| Claim | Search    | Top Counter      | Your Response     |
+| ----- | --------- | ---------------- | ----------------- |
+| [#]   | "[Query]" | [What they find] | [How you address] |
 
 ---
 
@@ -63,4 +64,4 @@ Claims where Google results are most damaging and must be addressed preemptively
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

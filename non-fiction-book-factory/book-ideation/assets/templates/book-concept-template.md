@@ -34,13 +34,9 @@
 
 **Current beliefs that aren't serving them:**
 
--
+- **What they've already tried:**
 
-**What they've already tried:**
-
--
-
-**The trigger moment** (why they pick up THIS book):
+- **The trigger moment** (why they pick up THIS book):
 
 [What search did they just do? What section are they browsing? What conversation did they just have?]
 
@@ -139,9 +135,7 @@
 
 **Parking lot** (ideas that didn't make the cut):
 
--
-
----
+- ***
 
 ### 7. The Enemy
 

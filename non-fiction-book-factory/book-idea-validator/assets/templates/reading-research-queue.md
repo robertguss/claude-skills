@@ -16,10 +16,10 @@ Prioritized list of books and sources the author should engage with before or du
 
 These will significantly shape your argument or must be addressed:
 
-| # | Title | Author | Why Essential | Status |
-|---|-------|--------|---------------|--------|
-| 1 | *[Title]* | [Author] | [Reason] | [ ] Not started |
-| 2 | *[Title]* | [Author] | [Reason] | [ ] Not started |
+| #   | Title     | Author   | Why Essential | Status          |
+| --- | --------- | -------- | ------------- | --------------- |
+| 1   | _[Title]_ | [Author] | [Reason]      | [ ] Not started |
+| 2   | _[Title]_ | [Author] | [Reason]      | [ ] Not started |
 
 ---
 
@@ -27,10 +27,10 @@ These will significantly shape your argument or must be addressed:
 
 Important context, useful quotes, or strengthen specific claims:
 
-| # | Title | Author | Relevant To | Status |
-|---|-------|--------|-------------|--------|
-| 1 | *[Title]* | [Author] | [Claim/Chapter] | [ ] Not started |
-| 2 | *[Title]* | [Author] | [Claim/Chapter] | [ ] Not started |
+| #   | Title     | Author   | Relevant To     | Status          |
+| --- | --------- | -------- | --------------- | --------------- |
+| 1   | _[Title]_ | [Author] | [Claim/Chapter] | [ ] Not started |
+| 2   | _[Title]_ | [Author] | [Claim/Chapter] | [ ] Not started |
 
 ---
 
@@ -38,9 +38,9 @@ Important context, useful quotes, or strengthen specific claims:
 
 Good to know about, consult as needed:
 
-| Title | Author | Use Case |
-|-------|--------|----------|
-| *[Title]* | [Author] | [When you'd consult this] |
+| Title     | Author   | Use Case                  |
+| --------- | -------- | ------------------------- |
+| _[Title]_ | [Author] | [When you'd consult this] |
 
 ---
 
@@ -48,18 +48,18 @@ Good to know about, consult as needed:
 
 Specific investigations needed:
 
-| Task | Purpose | Claim Supported | Status |
-|------|---------|-----------------|--------|
-| [Task description] | [Why needed] | [Claim #] | [ ] Not started |
+| Task               | Purpose      | Claim Supported | Status          |
+| ------------------ | ------------ | --------------- | --------------- |
+| [Task description] | [Why needed] | [Claim #]       | [ ] Not started |
 
 ---
 
 ## Completed
 
 | Title/Task | Date Completed | Key Takeaways |
-|------------|----------------|---------------|
-| *[Title]* | [Date] | [Brief notes] |
+| ---------- | -------------- | ------------- |
+| _[Title]_  | [Date]         | [Brief notes] |
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

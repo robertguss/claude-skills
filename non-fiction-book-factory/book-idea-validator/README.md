@@ -34,6 +34,7 @@ book-ideation → idea-validator → market-research → book-architect
 ## Documents Produced
 
 ### Core (Always)
+
 - Master Claim List
 - Landscape Scan Notes
 - Deep Research Log
@@ -42,24 +43,27 @@ book-ideation → idea-validator → market-research → book-architect
 - Validation Report
 
 ### Optional (Based on Book Type)
+
 27 optional document types recommended based on book characteristics. See SKILL.md for full list.
 
 ## Validation Report Recommendation
 
 Each validation concludes with one of three recommendations:
 
-| Recommendation | Meaning |
-|----------------|---------|
-| **Go** | Proceed to market-research and architecture |
-| **Revise** | Return to book-ideation to address specific issues |
-| **Kill** | Abandon this concept (or park for later) |
+| Recommendation | Meaning                                            |
+| -------------- | -------------------------------------------------- |
+| **Go**         | Proceed to market-research and architecture        |
+| **Revise**     | Return to book-ideation to address specific issues |
+| **Kill**       | Abandon this concept (or park for later)           |
 
 ## Usage
 
 ### Claude.ai (Projects)
+
 Add `SKILL.md` to your project's custom instructions or knowledge.
 
 ### Claude Code
+
 Place the `idea-validator/` folder in your `.claude/skills/` directory.
 
 ## Related Skills

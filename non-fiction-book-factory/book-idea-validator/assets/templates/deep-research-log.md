@@ -8,9 +8,9 @@
 
 ## Research Queue
 
-| # | Claim | Status | Assigned | Returned |
-|---|-------|--------|----------|----------|
-| 1 | [Claim] | [Pending/Complete] | [Date] | [Date] |
+| #   | Claim   | Status             | Assigned | Returned |
+| --- | ------- | ------------------ | -------- | -------- |
+| 1   | [Claim] | [Pending/Complete] | [Date]   | [Date]   |
 
 ---
 
@@ -30,11 +30,13 @@
 [The specific question to answer]
 
 **Suggested Prompt:**
+
 ```
 [Ready to copy/paste prompt for Claude, Gemini, or other tool]
 ```
 
 **Suggested Sources:**
+
 - [Specific databases, books, experts, or search strategies]
 
 **Status:** [Pending / In Progress / Complete]
@@ -57,6 +59,7 @@
 [What the user found]
 
 **Key Sources Discovered:**
+
 - [Author, "Title" (Year) — relevance]
 
 **How This Affects the Claim:**  
@@ -76,4 +79,4 @@
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

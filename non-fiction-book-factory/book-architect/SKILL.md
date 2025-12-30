@@ -24,11 +24,13 @@ Design the reader's journey and create a comprehensive structural blueprint for 
 ### Session Start
 
 **If continuing previous work:**
+
 1. Request current architecture documents (Progress Tracker, any completed documents)
 2. Read and synthesize: "Here's where we are..."
 3. Confirm the plan for this session before proceeding
 
 **If starting new:**
+
 1. Request upstream documents:
    - Book Concept Document (required)
    - Validation Report (if available)
@@ -58,6 +60,7 @@ Read all provided documents and produce:
    - What to tackle first
 
 **Readiness Signals (Green):**
+
 - Thesis implies structure (a strong thesis suggests its own shape)
 - Transformation has verbs (reader will START doing X, STOP doing Y)
 - Key concepts have relationships (dependencies, sequence, hierarchy)
@@ -65,6 +68,7 @@ Read all provided documents and produce:
 - Reader beliefs to overturn are identified
 
 **Red Flags (needs upstream work):**
+
 - Multiple books hiding as one
 - Validation concerns noted but unresolved
 - Market positioning contradicts concept
@@ -74,6 +78,7 @@ Read all provided documents and produce:
 ### During Session
 
 **Building Book-Level Architecture:**
+
 - Refine thesis and promise statement
 - Map transformation arc (stages the reader moves through)
 - Select structural framework (see references/structural-frameworks.md)
@@ -83,6 +88,7 @@ Read all provided documents and produce:
 - Design pacing strategy
 
 **Building Chapter-Level Architecture:**
+
 - Work section by section
 - For each chapter, define all blueprint elements (see references/chapter-architecture.md)
 - Ensure hook chain flows (each chapter's exit pulls into next chapter's entry)
@@ -92,6 +98,7 @@ Read all provided documents and produce:
 
 **Structural Research:**
 When architectural decisions depend on unverified assumptions, pause to research. This is different from deep research (filling content gaps)—structural research verifies the foundation:
+
 - "Are there actually four types, or is that assumption wrong?"
 - "Has someone else created a better framework for this?"
 - "What's the strongest counterargument to this structure?"
@@ -99,6 +106,7 @@ When architectural decisions depend on unverified assumptions, pause to research
 ### Session End
 
 Always conclude by:
+
 1. Updating the Progress Tracker
 2. Summarizing decisions made (add to Decision Log)
 3. Listing open questions
@@ -108,9 +116,11 @@ Always conclude by:
 ## Inputs
 
 **Required:**
+
 - Book Concept Document (from book-ideation)
 
 **Optional but valuable:**
+
 - Validation Report (from idea-validator)
 - Market Research Report (from market-research)
 - Any existing outline, notes, or structural thinking
@@ -118,6 +128,7 @@ Always conclude by:
 ## Outputs
 
 **Master Architecture Document** — Book-level elements:
+
 - Book Identity (title, subtitle, promise, thesis, enemy)
 - Reader Profile and Transformation Arc
 - Structural Framework Rationale
@@ -129,6 +140,7 @@ Always conclude by:
 - Risk Assessment
 
 **Section Blueprint Documents** — One per section, containing detailed chapter blueprints:
+
 - Chapter number, title, type, one-line description
 - Chapter weight (Heavy/Medium/Light)
 - Incoming hook, outgoing hook
@@ -144,12 +156,14 @@ Always conclude by:
 - Research gaps
 
 **Research Gaps Document** — Consolidated gaps with:
+
 - Priority (P1/P2/P3)
 - Affected chapters
 - What's needed
 - Ready-to-use research prompts with full context
 
 **Progress Tracker** — Session continuity:
+
 - Current status and phase
 - Completed items
 - In-progress items
@@ -157,6 +171,7 @@ Always conclude by:
 - Next session plan
 
 **Decision Log** — Architectural choices:
+
 - Decision with clear statement
 - Reasoning
 - Alternatives considered
@@ -167,6 +182,7 @@ Always conclude by:
 ## Readiness Criteria
 
 Architecture is complete when:
+
 1. Master Architecture Document is finalized
 2. All Section Blueprints are complete with every field filled
 3. Hook chain flows end-to-end
@@ -179,6 +195,7 @@ Architecture is complete when:
 ## Handoff
 
 Completed architecture feeds:
+
 - **research-assistant** — Uses Research Gaps Document to fill content gaps
 - **draft-coach** — Uses Section Blueprints to guide chapter-by-chapter drafting
 
@@ -197,6 +214,7 @@ Load as needed based on the work at hand:
 ## Templates
 
 Output document templates in `assets/templates/`:
+
 - `master-architecture-template.md`
 - `section-blueprint-template.md`
 - `research-gaps-template.md`

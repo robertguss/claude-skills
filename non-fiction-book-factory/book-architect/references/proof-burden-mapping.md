@@ -7,6 +7,7 @@ Different claims require different levels of evidence. A claim that's intuitivel
 **Proof burden is proportional to claim difficulty.**
 
 Difficulty comes from:
+
 1. How counterintuitive the claim is
 2. How much it contradicts existing beliefs
 3. How threatening it is to the reader's identity
@@ -24,6 +25,7 @@ Difficulty comes from:
 **What It Needs:** Clear statement. Maybe a brief example.
 
 **Example Claims:**
+
 - "Meetings waste a lot of time."
 - "Most people struggle with focus."
 - "Clear communication matters in relationships."
@@ -39,6 +41,7 @@ Difficulty comes from:
 **What It Needs:** A supporting example, brief reference to research, or logical argument.
 
 **Example Claims:**
+
 - "Multitasking reduces productivity by roughly 40%."
 - "First impressions form within seconds."
 - "Companies with diverse leadership perform better."
@@ -54,6 +57,7 @@ Difficulty comes from:
 **What It Needs:** Multiple sources, varied evidence types (study + example + logical argument), acknowledgment of complexity.
 
 **Example Claims:**
+
 - "More choices lead to less satisfaction."
 - "Praise can undermine motivation."
 - "Your intuitions about risk are systematically wrong."
@@ -69,6 +73,7 @@ Difficulty comes from:
 **What It Needs:** Extensive evidence from multiple sources, anticipation and response to objections, acknowledgment of limitations, credible authorities cited.
 
 **Example Claims:**
+
 - "The entire field of [X] is based on a flawed premise."
 - "The standard advice about [Y] does more harm than good."
 - "Everything you've been taught about [Z] is wrong."
@@ -84,6 +89,7 @@ Difficulty comes from:
 **What It Needs:** Everything from Level 4, plus emotional safety, acknowledgment of the cost of acceptance, time and space to process.
 
 **Example Claims:**
+
 - "Your career has been built on a false premise."
 - "The tools you've invested in are making you worse."
 - "Your expertise may be holding you back."
@@ -98,6 +104,7 @@ Difficulty comes from:
 Different evidence serves different purposes. Mix them for strong proof:
 
 ### Empirical Evidence
+
 - Research studies
 - Statistics and data
 - Experiments
@@ -106,6 +113,7 @@ Different evidence serves different purposes. Mix them for strong proof:
 **Limits:** Can feel cold, may not resonate emotionally.
 
 ### Case Studies / Examples
+
 - Stories of specific instances
 - Named individuals or companies
 - Detailed narratives
@@ -114,6 +122,7 @@ Different evidence serves different purposes. Mix them for strong proof:
 **Limits:** Cherry-picking concerns, "that's just one case."
 
 ### Logical Argument
+
 - If A then B reasoning
 - First principles analysis
 - Logical implications
@@ -122,6 +131,7 @@ Different evidence serves different purposes. Mix them for strong proof:
 **Limits:** Abstract, requires reader to follow reasoning.
 
 ### Authority / Expert Testimony
+
 - Quotes from recognized experts
 - References to established authorities
 - Endorsements
@@ -130,6 +140,7 @@ Different evidence serves different purposes. Mix them for strong proof:
 **Limits:** Appeals to authority can backfire, experts can be wrong.
 
 ### Personal Experience
+
 - Author's own story
 - First-hand observation
 - Lessons learned
@@ -138,6 +149,7 @@ Different evidence serves different purposes. Mix them for strong proof:
 **Limits:** "That's just you," limited generalizability.
 
 ### Analogies and Metaphors
+
 - Comparison to familiar domains
 - Mental models
 
@@ -153,6 +165,7 @@ For architectural planning:
 ### Step 1: List Major Claims
 
 Extract every significant claim in the book. Focus on:
+
 - The core thesis
 - Key supporting arguments
 - Controversial assertions
@@ -161,6 +174,7 @@ Extract every significant claim in the book. Focus on:
 ### Step 2: Assess Each Claim
 
 For each claim, ask:
+
 - How counterintuitive is this? (1-5 scale)
 - How much does it contradict existing beliefs?
 - How threatening is it to identity/practice?
@@ -173,6 +187,7 @@ Based on assessment, assign Level 1-5.
 ### Step 4: Check Evidence Availability
 
 Do you have (or can you find) evidence that meets the burden?
+
 - Yes → Plan where in the book evidence appears
 - No → Either soften claim or flag as critical research gap
 
@@ -187,6 +202,7 @@ Where in the book does each claim appear? Is the evidence in place BEFORE the re
 ### Front-Load Foundation
 
 For Level 4-5 claims that come later:
+
 - Build credibility in early chapters
 - Establish trust before making big asks
 - Introduce supporting evidence before the main claim
@@ -194,6 +210,7 @@ For Level 4-5 claims that come later:
 ### Layered Evidence
 
 Don't dump all evidence at once:
+
 - First mention: assertion + brief support
 - Second mention: add depth
 - Third mention: full evidence array
@@ -202,6 +219,7 @@ Don't dump all evidence at once:
 ### Emotional Preparation
 
 For identity-threatening claims:
+
 - Normalize the discomfort early
 - Share your own resistance
 - Create off-ramps ("If this is true, it's not your fault")
@@ -211,6 +229,7 @@ For identity-threatening claims:
 ### Credibility Deposits
 
 Make credibility deposits before making withdrawals:
+
 - Demonstrate accuracy on easily verified claims
 - Show nuance and fairness
 - Acknowledge limitations
@@ -223,26 +242,31 @@ Then spend that credibility on harder claims.
 ## Common Mistakes
 
 ### Under-Proving Critical Claims
+
 - Heavy claim with light evidence
 - Reader's trust breaks
 - Fix: Either strengthen evidence or soften claim
 
 ### Over-Proving Obvious Claims
+
 - Light claim with heavy evidence
 - Reader feels patronized, pace drags
 - Fix: Trim evidence, trust the reader
 
 ### Evidence in Wrong Location
+
 - Claim appears before evidence
 - Reader has already rejected it by the time proof comes
 - Fix: Move evidence earlier or delay claim
 
 ### Missing Counterarguments
+
 - Strong claim without acknowledging objections
 - Reader thinks of them anyway, loses trust
 - Fix: Anticipate and address (see references/reader-resistance.md)
 
 ### Single Evidence Type
+
 - All studies, no stories; or all stories, no studies
 - Doesn't resonate with all readers
 - Fix: Mix evidence types
@@ -257,6 +281,7 @@ In the Master Architecture Document:
 ## Proof Burden Map
 
 ### Level 5 (Extraordinary)
+
 - Claim: "[Identity-threatening claim]"
   - Chapters: 4, 7, 11
   - Evidence: [Study A], [Expert B], [Case studies C, D, E]
@@ -264,15 +289,18 @@ In the Master Architecture Document:
   - Status: ✓ Evidence in place / ⚠ Gap exists
 
 ### Level 4 (Heavy)
+
 - Claim: "[Strongly counterintuitive claim]"
   - Chapters: 5, 6
   - Evidence: [List]
   - Status: ...
 
 ### Level 3 (Substantial)
+
 ...
 
 ### Gaps to Address
+
 - [Claim X] needs stronger evidence for [Y] by Chapter [Z]
 - [Claim A] may need to be softened—evidence unavailable
 ```

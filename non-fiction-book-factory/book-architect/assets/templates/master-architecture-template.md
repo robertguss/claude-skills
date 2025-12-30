@@ -9,19 +9,24 @@
 ## Book Identity
 
 ### Title (Working)
+
 [Working title]
 
 ### Subtitle (Working)
+
 [Working subtitle]
 
 ### Book Promise
-*After reading this book, the reader will:*
+
+_After reading this book, the reader will:_
 [One sentence describing the transformation/outcome]
 
 ### Core Thesis
+
 [The central argument—something someone could disagree with]
 
 ### The Enemy
+
 [What this book argues against—mindset, practice, belief, system]
 
 ---
@@ -29,12 +34,14 @@
 ## Reader
 
 ### Reader Profile
-*Not demographics—their situation, beliefs, and struggles:*
+
+_Not demographics—their situation, beliefs, and struggles:_
 
 **Who they are:**
 [Specific description of the reader]
 
 **Where they're starting:**
+
 - They believe: [Current beliefs]
 - They feel: [Emotional state]
 - They're struggling with: [Specific struggles]
@@ -45,20 +52,21 @@
 
 ### Transformation Arc
 
-| Stage | Reader Experience |
-|-------|-------------------|
-| **Start** | [Where they begin] |
-| **[Stage 2]** | [Description] |
-| **[Stage 3]** | [Description] |
-| **[Stage 4]** | [Description] |
-| **[Stage ...]** | [Description] |
-| **Arrive** | [Where they end—the transformation complete] |
+| Stage           | Reader Experience                            |
+| --------------- | -------------------------------------------- |
+| **Start**       | [Where they begin]                           |
+| **[Stage 2]**   | [Description]                                |
+| **[Stage 3]**   | [Description]                                |
+| **[Stage 4]**   | [Description]                                |
+| **[Stage ...]** | [Description]                                |
+| **Arrive**      | [Where they end—the transformation complete] |
 
 ---
 
 ## Structure
 
 ### Framework Rationale
+
 **Primary Framework:** [Framework name]
 
 **Why this framework:**
@@ -69,11 +77,11 @@
 
 ### Section Overview
 
-| Section | Title | Type | Purpose | Chapters |
-|---------|-------|------|---------|----------|
-| 1 | [Title] | [Narrative/Argument/Instruction/Encouragement] | [What this section does for reader] | Ch X-Y |
-| 2 | [Title] | [Type] | [Purpose] | Ch X-Y |
-| ... | ... | ... | ... | ... |
+| Section | Title   | Type                                           | Purpose                             | Chapters |
+| ------- | ------- | ---------------------------------------------- | ----------------------------------- | -------- |
+| 1       | [Title] | [Narrative/Argument/Instruction/Encouragement] | [What this section does for reader] | Ch X-Y   |
+| 2       | [Title] | [Type]                                         | [Purpose]                           | Ch X-Y   |
+| ...     | ...     | ...                                            | ...                                 | ...      |
 
 ### Pacing Map
 
@@ -89,6 +97,7 @@ Section 2: [Type]
 ```
 
 ### Dependency Statement
+
 **Reading Mode:** Linear / Modular / Hybrid
 
 [Explanation: Must chapters be read in order? Can readers skip ahead? What dependencies exist?]
@@ -97,26 +106,32 @@ Section 2: [Type]
 
 ## Through-Lines
 
-*Themes woven throughout the book, surfacing at key moments:*
+_Themes woven throughout the book, surfacing at key moments:_
 
 ### 1. [Through-Line Name]
+
 [Description: What it is and why it matters]
 
 **Key moments:**
+
 - Chapter X: [How it surfaces]
 - Chapter Y: [How it develops]
 - Chapter Z: [How it resolves/culminates]
 
 ### 2. [Through-Line Name]
+
 [Description]
 
 **Key moments:**
+
 - [...]
 
 ### 3. [Through-Line Name]
+
 [Description]
 
 **Key moments:**
+
 - [...]
 
 ---
@@ -125,15 +140,16 @@ Section 2: [Type]
 
 ### Objection Map
 
-| Objection | Type | Chapter(s) | Strategy |
-|-----------|------|------------|----------|
-| [Objection 1] | [Logical/Practical/Emotional/etc.] | Ch X | [Pre-empt/Delay/Steelman/Concede] |
-| [Objection 2] | [Type] | Ch X, Y | [Strategy] |
-| ... | ... | ... | ... |
+| Objection     | Type                               | Chapter(s) | Strategy                          |
+| ------------- | ---------------------------------- | ---------- | --------------------------------- |
+| [Objection 1] | [Logical/Practical/Emotional/etc.] | Ch X       | [Pre-empt/Delay/Steelman/Concede] |
+| [Objection 2] | [Type]                             | Ch X, Y    | [Strategy]                        |
+| ...           | ...                                | ...        | ...                               |
 
 ### Proof Burden Map
 
 **Level 5 (Extraordinary):**
+
 - Claim: [Identity-threatening claim]
   - Chapters: X, Y, Z
   - Evidence needed: [List]
@@ -141,24 +157,27 @@ Section 2: [Type]
   - Status: ✓ Planned / ⚠ Gap
 
 **Level 4 (Heavy):**
+
 - Claim: [Strongly counterintuitive claim]
   - Chapters: X, Y
   - Evidence needed: [List]
   - Status: [...]
 
 **Level 3 (Substantial):**
+
 - [Continue as needed...]
 
 ### Question Chain Overview
 
 | Chapter | Answers Question | Raises Question |
-|---------|------------------|-----------------|
-| 1 | [Question] | [Question] |
-| 2 | [Question] | [Question] |
-| ... | ... | ... |
+| ------- | ---------------- | --------------- |
+| 1       | [Question]       | [Question]      |
+| 2       | [Question]       | [Question]      |
+| ...     | ...              | ...             |
 
 ### Aha Inventory
-*5-7 moments where something clicks for the reader:*
+
+_5-7 moments where something clicks for the reader:_
 
 1. **[Aha 1]** — Chapter X
 2. **[Aha 2]** — Chapter Y
@@ -170,18 +189,22 @@ Section 2: [Type]
 ## Risk Assessment
 
 ### Structural Risks
-| Risk | Likelihood | Impact | Mitigation |
-|------|------------|--------|------------|
-| [Risk 1] | H/M/L | H/M/L | [How to address] |
-| [Risk 2] | H/M/L | H/M/L | [How to address] |
+
+| Risk     | Likelihood | Impact | Mitigation       |
+| -------- | ---------- | ------ | ---------------- |
+| [Risk 1] | H/M/L      | H/M/L  | [How to address] |
+| [Risk 2] | H/M/L      | H/M/L  | [How to address] |
 
 ### Content Risks
-| Risk | Likelihood | Impact | Mitigation |
-|------|------------|--------|------------|
-| [Risk 1] | H/M/L | H/M/L | [How to address] |
+
+| Risk     | Likelihood | Impact | Mitigation       |
+| -------- | ---------- | ------ | ---------------- |
+| [Risk 1] | H/M/L      | H/M/L  | [How to address] |
 
 ### Open Questions
-*Unresolved issues to monitor:*
+
+_Unresolved issues to monitor:_
+
 - [Question 1]
 - [Question 2]
 
@@ -189,23 +212,27 @@ Section 2: [Type]
 
 ## Research Gaps Summary
 
-*Full details in research-gaps.md*
+_Full details in research-gaps.md_
 
 **P1 (Blocks Drafting):**
+
 - [Gap 1] — affects Ch X, Y
 - [Gap 2] — affects Ch Z
 
 **P2 (Strengthens Argument):**
+
 - [Gap 3] — affects Ch X
 
 **P3 (Nice to Have):**
+
 - [Gap 4]
 
 ---
 
 ## Section Blueprints
 
-*Detailed chapter blueprints in separate documents:*
+_Detailed chapter blueprints in separate documents:_
+
 - `section-1-blueprint.md`
 - `section-2-blueprint.md`
 - `section-3-blueprint.md`
@@ -215,7 +242,8 @@ Section 2: [Type]
 
 ## Appendix / Back Matter
 
-*If applicable:*
+_If applicable:_
+
 - [ ] Appendix A: [Title]
 - [ ] Appendix B: [Title]
 - [ ] Notes / Bibliography
@@ -225,7 +253,7 @@ Section 2: [Type]
 
 ## Version History
 
-| Version | Date | Changes |
-|---------|------|---------|
-| v1 | [Date] | Initial architecture |
-| v2 | [Date] | [What changed] |
+| Version | Date   | Changes              |
+| ------- | ------ | -------------------- |
+| v1      | [Date] | Initial architecture |
+| v2      | [Date] | [What changed]       |

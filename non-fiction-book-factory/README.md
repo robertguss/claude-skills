@@ -48,6 +48,7 @@ A suite of Claude skills that replicate the traditional publishing infrastructur
 **Use when:** You have a book idea, brainstorm documents to refine, or need to articulate your book's core elements before validation.
 
 **Core Elements Developed:**
+
 - The Reader (who specifically)
 - Transformation (before/after state)
 - Thesis (the central argument)
@@ -68,6 +69,7 @@ A suite of Claude skills that replicate the traditional publishing infrastructur
 **Use when:** You have a Book Concept Document and want to verify your thesis is defensible and understand the competitive intellectual landscape.
 
 **What it does:**
+
 - Two-layer research model (landscape scan + deep dive)
 - Identifies strengths and weaknesses
 - Surfaces "kill signals" if they exist
@@ -84,6 +86,7 @@ A suite of Claude skills that replicate the traditional publishing infrastructur
 **Use when:** You have a Book Concept Document and want to understand market demand, competition, pricing, and positioning before committing to write.
 
 **What it does:**
+
 - Separates commercial viability from intellectual merit
 - Accounts for author intent (income vs. authority vs. passion)
 - Offers quick assessment or deep dive modes
@@ -100,12 +103,14 @@ A suite of Claude skills that replicate the traditional publishing infrastructur
 **Use when:** You have a validated concept and need to create the blueprint before drafting.
 
 **What it does:**
+
 - Maps the reader's journey through the book
 - Creates chapter-level blueprints with hooks and emotional arcs
 - Every structural decision justified by reader experience
 - Identifies research gaps to fill before drafting
 
 **Outputs:**
+
 - Master Architecture Document
 - Section Blueprints
 - Research Gaps Document

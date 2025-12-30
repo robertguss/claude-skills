@@ -18,17 +18,17 @@ Categories: [X]
 
 ### [Category Name]
 
-| # | Claim | Status | Notes |
-|---|-------|--------|-------|
-| 1 | [Claim statement] | Not started | |
-| 2 | [Claim statement] | Not started | |
+| #   | Claim             | Status      | Notes |
+| --- | ----------------- | ----------- | ----- |
+| 1   | [Claim statement] | Not started |       |
+| 2   | [Claim statement] | Not started |       |
 
 ### [Category Name]
 
-| # | Claim | Status | Notes |
-|---|-------|--------|-------|
-| 3 | [Claim statement] | Not started | |
-| 4 | [Claim statement] | Not started | |
+| #   | Claim             | Status      | Notes |
+| --- | ----------------- | ----------- | ----- |
+| 3   | [Claim statement] | Not started |       |
+| 4   | [Claim statement] | Not started |       |
 
 ---
 
@@ -44,10 +44,10 @@ Categories: [X]
 
 ## Session History
 
-| Date | Session | Changes |
-|------|---------|---------|
-| [Date] | 1 | Initial claim extraction |
+| Date   | Session | Changes                  |
+| ------ | ------- | ------------------------ |
+| [Date] | 1       | Initial claim extraction |
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

@@ -11,6 +11,7 @@
 This log captures significant architectural decisions—choices that shape the book's structure, content, or approach. Each entry records what was decided, why, and what alternatives were considered.
 
 **When to log a decision:**
+
 - Framework or structure choices
 - Chapter ordering or sequencing
 - What to include or exclude
@@ -21,6 +22,7 @@ This log captures significant architectural decisions—choices that shape the b
 - Any choice you might want to revisit or explain later
 
 **Status definitions:**
+
 - **Active:** Current decision in effect
 - **Superseded:** Replaced by a later decision (note which one)
 - **Under Review:** Being reconsidered
@@ -29,11 +31,11 @@ This log captures significant architectural decisions—choices that shape the b
 
 ## Decision Index
 
-| # | Date | Decision | Impact | Confidence | Status |
-|---|------|----------|--------|------------|--------|
-| 1 | [Date] | [Brief] | Book/Section/Chapter | H/M/L | Active |
-| 2 | [Date] | [Brief] | [Scope] | H/M/L | Active |
-| ... | ... | ... | ... | ... | ... |
+| #   | Date   | Decision | Impact               | Confidence | Status |
+| --- | ------ | -------- | -------------------- | ---------- | ------ |
+| 1   | [Date] | [Brief]  | Book/Section/Chapter | H/M/L      | Active |
+| 2   | [Date] | [Brief]  | [Scope]              | H/M/L      | Active |
+| ... | ...    | ...      | ...                  | ...        | ...    |
 
 ---
 
@@ -55,6 +57,7 @@ This log captures significant architectural decisions—choices that shape the b
 [Why this decision was made. What factors were considered. What makes this the right choice for the reader.]
 
 **Alternatives Considered:**
+
 - [Alternative 1]: [Why rejected]
 - [Alternative 2]: [Why rejected]
 
@@ -62,6 +65,7 @@ This log captures significant architectural decisions—choices that shape the b
 
 **Dependencies:**  
 [Does this decision depend on other decisions? Does it affect other decisions?]
+
 - Depends on: [Decision #X, or "None"]
 - Affects: [Decisions #Y, #Z, or "None"]
 
@@ -84,11 +88,13 @@ This log captures significant architectural decisions—choices that shape the b
 [...]
 
 **Alternatives Considered:**
+
 - [...]: [...]
 
 **Initiated By:** [...]
 
 **Dependencies:**
+
 - Depends on: [...]
 - Affects: [...]
 
@@ -105,7 +111,7 @@ This log captures significant architectural decisions—choices that shape the b
 
 ## Superseded Decisions
 
-*Decisions that have been replaced. Kept for historical reference.*
+_Decisions that have been replaced. Kept for historical reference._
 
 ### Decision X (Superseded)
 
@@ -118,7 +124,7 @@ This log captures significant architectural decisions—choices that shape the b
 
 ## Decisions Under Review
 
-*Decisions being reconsidered. Include current thinking.*
+_Decisions being reconsidered. Include current thinking._
 
 ### Decision X (Under Review)
 
@@ -132,7 +138,7 @@ This log captures significant architectural decisions—choices that shape the b
 
 ## Decision Patterns
 
-*Observations about decision-making for future reference:*
+_Observations about decision-making for future reference:_
 
 - [Pattern observed—e.g., "Reader experience consistently trumps author preference"]
 - [Pattern observed]
@@ -141,7 +147,7 @@ This log captures significant architectural decisions—choices that shape the b
 
 ## Quick Reference: Key Structural Decisions
 
-*The most important decisions shaping this book's architecture:*
+_The most important decisions shaping this book's architecture:_
 
 1. **Framework:** [Decision #X] — [Brief]
 2. **Section Structure:** [Decision #Y] — [Brief]

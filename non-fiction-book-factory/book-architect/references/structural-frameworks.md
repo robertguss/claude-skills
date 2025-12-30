@@ -19,6 +19,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** Reader holds a wrong mental model that blocks transformation. You can't build new understanding on a faulty foundation.
 
 **The Structure:**
+
 1. Establish the dominant paradigm (what most people believe)
 2. Create dissonance (show cracks, problems, failures)
 3. Dismantle systematically (why the old model is wrong)
@@ -29,12 +30,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "Everything I thought I knew was wrong—but now I see clearly."
 
 **Best For:**
+
 - Contrarian arguments
 - "Everything you know is wrong" books
 - Challenging industry orthodoxy
 - Scientific revolutions for lay audiences
 
 **Risks:**
+
 - Reader may resist early chapters (their worldview is under attack)
 - Must earn trust before dismantling beliefs
 - Need overwhelming evidence, not just assertions
@@ -48,6 +51,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** Reader needs to build skills that depend on each other. Can't do Step 5 without mastering Steps 1-4.
 
 **The Structure:**
+
 1. Foundational capability (simplest building block)
 2. Build capability 2 (requires capability 1)
 3. Build capability 3 (requires 1 and 2)
@@ -58,12 +62,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "I built this skill piece by piece, and now I can do something I couldn't before."
 
 **Best For:**
+
 - How-to books
 - Craft development
 - Technical skills
 - Learning methodologies
 
 **Risks:**
+
 - Early chapters may feel too basic for some readers
 - Readers may skip ahead and get lost
 - Requires very clear dependencies
@@ -77,6 +83,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** Abstract principle needs concrete proof from multiple angles. One example isn't enough; patterns must emerge.
 
 **The Structure:**
+
 1. Introduce the principle (briefly)
 2. Case study 1 (reveals facet A)
 3. Case study 2 (reveals facet B, connects to A)
@@ -88,12 +95,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "I see the same principle playing out everywhere—it must be true."
 
 **Best For:**
+
 - Business books
 - Psychology and behavior
 - Social science
 - Leadership and management
 
 **Risks:**
+
 - Cases can feel repetitive if not carefully varied
 - Reader may get lost in stories and miss the principle
 - Selection bias concerns (cherry-picked examples)
@@ -107,6 +116,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** The idea is simple on the surface but profound underneath. Quick explanation isn't enough; reader needs to sit with it.
 
 **The Structure:**
+
 1. Simple statement of core idea
 2. First layer of depth (immediate implications)
 3. Second layer (non-obvious implications)
@@ -117,12 +127,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "I thought I understood this at first—but it goes so much deeper than I realized."
 
 **Best For:**
+
 - Philosophy and big ideas
 - Spiritual and contemplative books
 - Single-concept books
 - Wisdom literature
 
 **Risks:**
+
 - Can feel slow or repetitive
 - Reader may think they "got it" early and disengage
 - Requires genuinely deep idea (shallow ideas exposed)
@@ -136,6 +148,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** Reader has a specific pain point and wants relief. They don't need theory—they need answers.
 
 **The Structure:**
+
 1. Establish the problem (make reader feel it)
 2. Why it matters / cost of inaction
 3. Why existing solutions fail
@@ -147,12 +160,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "I had a problem. Now I have a solution."
 
 **Best For:**
+
 - Self-help
 - Business problems
 - Health and wellness
 - Productivity
 
 **Risks:**
+
 - Can feel formulaic
 - Solution must genuinely work
 - Reader skepticism if problem is oversimplified
@@ -166,6 +181,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** Information alone isn't compelling. Reader needs to be carried through by story.
 
 **The Structure:**
+
 1. The inciting incident (why the journey began)
 2. Early exploration (first attempts, early learning)
 3. Deepening journey (obstacles, discoveries)
@@ -177,12 +193,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "I went on a journey with the author and discovered something important."
 
 **Best For:**
+
 - Narrative nonfiction
 - Memoir with ideas
 - Investigative books
 - Personal transformation stories
 
 **Risks:**
+
 - Story can overshadow ideas
 - Requires genuine narrative (can't be manufactured)
 - Reader may not see themselves in author's journey
@@ -196,6 +214,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** Reader believes things that aren't true. Each false belief is a barrier to transformation.
 
 **The Structure:**
+
 1. Identify the myths (what people wrongly believe)
 2. Myth 1: State it fairly → Dismantle it → Replace with truth
 3. Myth 2: Same pattern
@@ -206,12 +225,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "My assumptions have been systematically shattered—and I see more clearly now."
 
 **Best For:**
+
 - Contrarian takes
 - Industry myth-busting
 - Cultural criticism
 - Corrective books
 
 **Risks:**
+
 - Can feel negative/destructive
 - Reader may hold myths as identity (resistance)
 - Need constructive replacement, not just demolition
@@ -225,6 +246,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** Reader doesn't know they have the problem you're solving. They need to recognize themselves before accepting solutions.
 
 **The Structure:**
+
 1. Signs and symptoms (help reader self-identify)
 2. The underlying condition (what's really going on)
 3. How it develops / root causes
@@ -236,12 +258,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "I didn't know I had this problem—but now I see it, and I know what to do."
 
 **Best For:**
+
 - Health (physical, mental)
 - Relationships
 - Organizational dysfunction
 - Self-help for unrecognized issues
 
 **Risks:**
+
 - Reader may not self-identify (book feels irrelevant)
 - Can feel clinical or pathologizing
 - Prescription must be accessible
@@ -255,6 +279,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** Reader doesn't need to read linearly. They need to find what they need when they need it.
 
 **The Structure:**
+
 1. Orientation (how to use this book)
 2. Core concepts (brief, essential foundation)
 3. Module A (standalone, addresses specific need)
@@ -266,12 +291,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "I can find exactly what I need when I need it."
 
 **Best For:**
+
 - Reference guides
 - Handbooks
 - Resource books
 - Toolkits
 
 **Risks:**
+
 - Can lack compelling through-line
 - Reader may never read most of book
 - Modules must truly stand alone
@@ -285,6 +312,7 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **The Problem It Solves:** The truth isn't simple. Reader needs to hold tension between competing ideas to reach synthesis.
 
 **The Structure:**
+
 1. Thesis (first position, presented fairly)
 2. Antithesis (opposing position, presented fairly)
 3. Tension (why both have merit, why both are incomplete)
@@ -295,12 +323,14 @@ Frameworks are not templates to fill—they are solved problems. Each framework 
 **Reader Experience:** "I held two opposing ideas in tension and arrived at deeper understanding."
 
 **Best For:**
+
 - Philosophy
 - Ethics
 - Complex policy issues
 - Intellectual history
 
 **Risks:**
+
 - Reader may want simple answers
 - Synthesis must be genuine (not just compromise)
 - Requires intellectual stamina from reader

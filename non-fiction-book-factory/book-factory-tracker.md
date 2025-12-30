@@ -59,9 +59,9 @@
 
 ### Phase 4: Deep Research
 
-| Skill                | Status    | Version | Date Completed | Location | Dependencies     | Notes/Blockers                                                       |
-| -------------------- | --------- | ------- | -------------- | -------- | ---------------- | -------------------------------------------------------------------- |
-| `research-assistant` | ⬜ Future | —       | —              | —        | `book-architect` | Fills gaps from Architecture Document. Distinct from idea-validator. |
+| Skill                | Status  | Version | Date Completed | Location | Dependencies     | Notes/Blockers                                                       |
+| -------------------- | ------- | ------- | -------------- | -------- | ---------------- | -------------------------------------------------------------------- |
+| `research-assistant` | ✅ Done | —       | —              | —        | `book-architect` | Fills gaps from Architecture Document. Distinct from idea-validator. |
 
 ---
 

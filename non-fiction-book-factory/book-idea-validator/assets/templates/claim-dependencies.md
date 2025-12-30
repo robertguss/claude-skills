@@ -18,9 +18,9 @@ Maps logical dependencies between claims. Some claims are foundational; others b
 
 These claims stand on their own and support other claims:
 
-| Claim # | Claim | Supports |
-|---------|-------|----------|
-| [#] | [Claim] | [List of claim #s that depend on this] |
+| Claim # | Claim   | Supports                               |
+| ------- | ------- | -------------------------------------- |
+| [#]     | [Claim] | [List of claim #s that depend on this] |
 
 ---
 
@@ -28,11 +28,12 @@ These claims stand on their own and support other claims:
 
 These claims require other claims to be established first:
 
-| Claim # | Claim | Depends On | Strength of Dependency |
-|---------|-------|------------|------------------------|
-| [#] | [Claim] | [Claim #s] | [Essential / Supporting] |
+| Claim # | Claim   | Depends On | Strength of Dependency   |
+| ------- | ------- | ---------- | ------------------------ |
+| [#]     | [Claim] | [Claim #s] | [Essential / Supporting] |
 
 **Dependency Strength:**
+
 - **Essential** — If the foundation fails, this claim collapses
 - **Supporting** — Foundation strengthens but isn't required
 
@@ -65,9 +66,9 @@ Sequences where claims build on each other:
 **Most Critical Claims:**  
 Claims that, if they fail, cause multiple other claims to fall:
 
-| Claim # | Claim | Claims That Fall If This Fails |
-|---------|-------|-------------------------------|
-| [#] | [Claim] | [List] |
+| Claim # | Claim   | Claims That Fall If This Fails |
+| ------- | ------- | ------------------------------ |
+| [#]     | [Claim] | [List]                         |
 
 **Implication for Validation:**  
 [Which claims need the strongest evidence?]
@@ -78,10 +79,10 @@ Claims that, if they fail, cause multiple other claims to fall:
 
 Claims that don't depend on others and nothing depends on them:
 
-| Claim # | Claim | Notes |
-|---------|-------|-------|
-| [#] | [Claim] | [Could be cut without affecting argument?] |
+| Claim # | Claim   | Notes                                      |
+| ------- | ------- | ------------------------------------------ |
+| [#]     | [Claim] | [Could be cut without affecting argument?] |
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

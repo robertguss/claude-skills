@@ -11,11 +11,13 @@
 Each gap includes a ready-to-use prompt for deep research. Copy the prompt into Claude, ChatGPT, Perplexity, or any research tool. Paste findings back into the relevant section blueprint under the chapter's content notes.
 
 **Priority Levels:**
+
 - **P1 (Blocks Drafting):** Cannot write the chapter without this
 - **P2 (Strengthens Argument):** Chapter works without it, but weaker
 - **P3 (Nice to Have):** Would enrich but not essential
 
 **Status Options:**
+
 - Not Started
 - In Progress
 - Complete
@@ -25,11 +27,11 @@ Each gap includes a ready-to-use prompt for deep research. Copy the prompt into 
 
 ## Summary
 
-| Gap ID | Priority | Affects | Description | Status |
-|--------|----------|---------|-------------|--------|
-| 1.1 | P1 | Ch 3, 4 | [Brief] | Not Started |
-| 1.2 | P2 | Ch 5 | [Brief] | Not Started |
-| ... | ... | ... | ... | ... |
+| Gap ID | Priority | Affects | Description | Status      |
+| ------ | -------- | ------- | ----------- | ----------- |
+| 1.1    | P1       | Ch 3, 4 | [Brief]     | Not Started |
+| 1.2    | P2       | Ch 5    | [Brief]     | Not Started |
+| ...    | ...      | ...     | ...         | ...         |
 
 ---
 
@@ -50,7 +52,7 @@ Each gap includes a ready-to-use prompt for deep research. Copy the prompt into 
 ```
 BOOK CONTEXT:
 Title: [Book title]
-Subtitle: [Book subtitle]  
+Subtitle: [Book subtitle]
 Core Thesis: [The book's central argument]
 Target Reader: [Who they are, where they're starting, what they want]
 
@@ -147,7 +149,7 @@ DEPTH: [...]
 
 ## Cross-Cutting Gaps
 
-*Gaps that affect multiple sections or the book as a whole:*
+_Gaps that affect multiple sections or the book as a whole:_
 
 #### Gap X.1: [Gap Title]
 
@@ -178,8 +180,8 @@ DEPTH: [...]
 
 ## Research Log
 
-| Date | Gap ID | Action | Notes |
-|------|--------|--------|-------|
-| [Date] | [ID] | Started research | [Notes] |
-| [Date] | [ID] | Completed | [Key findings summary] |
-| [Date] | [ID] | Incorporated | [Added to Ch X blueprint] |
+| Date   | Gap ID | Action           | Notes                     |
+| ------ | ------ | ---------------- | ------------------------- |
+| [Date] | [ID]   | Started research | [Notes]                   |
+| [Date] | [ID]   | Completed        | [Key findings summary]    |
+| [Date] | [ID]   | Incorporated     | [Added to Ch X blueprint] |

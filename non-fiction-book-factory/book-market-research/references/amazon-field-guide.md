@@ -4,17 +4,17 @@ How to find the data fields for competitor analysis.
 
 ## Quick Reference
 
-| Field | What It Is | Where to Find It |
-|-------|-----------|------------------|
-| BSR | Best Sellers Rank | Product Details section |
-| Kindle $ | Kindle ebook price | Right side, under formats |
-| Paperback $ | Paperback price | Right side, under formats |
-| Hardcover $ | Hardcover price | Right side, under formats |
-| Reviews | Total review count | Near star rating at top |
-| Rating | Average stars (e.g., 4.6) | Near top of page |
-| Pages | Page count | Product Details → Print length |
-| KU | Kindle Unlimited available | Look for "Read for Free" badge |
-| Top Category | Best category ranking | In BSR section, lowest number |
+| Field        | What It Is                 | Where to Find It               |
+| ------------ | -------------------------- | ------------------------------ |
+| BSR          | Best Sellers Rank          | Product Details section        |
+| Kindle $     | Kindle ebook price         | Right side, under formats      |
+| Paperback $  | Paperback price            | Right side, under formats      |
+| Hardcover $  | Hardcover price            | Right side, under formats      |
+| Reviews      | Total review count         | Near star rating at top        |
+| Rating       | Average stars (e.g., 4.6)  | Near top of page               |
+| Pages        | Page count                 | Product Details → Print length |
+| KU           | Kindle Unlimited available | Look for "Read for Free" badge |
+| Top Category | Best category ranking      | In BSR section, lowest number  |
 
 ## Detailed Instructions
 
@@ -27,6 +27,7 @@ How to find the data fields for competitor analysis.
 5. If multiple formats shown, use the Kindle rank
 
 **What BSR means:**
+
 - Under 10,000 = Strong seller
 - 10,000–50,000 = Solid seller
 - 50,000–100,000 = Moderate sales
@@ -56,6 +57,7 @@ How to find the data fields for competitor analysis.
 ### Checking Kindle Unlimited Status
 
 Look for any of these indicators:
+
 - "Read for Free" button
 - "Kindle Unlimited" badge near the price
 - "$0.00" with "Kindle Unlimited" mentioned

@@ -15,14 +15,17 @@ Maps the reader's emotional journey—not just what they'll think, but how they'
 ## Starting State
 
 **How the reader feels when they pick up the book:**
+
 - [Emotion]: [Description]
 - [Emotion]: [Description]
 
 **What they believe:**
+
 - [Belief]
 - [Belief]
 
 **What they want:**
+
 - [Desire]
 
 ---
@@ -48,6 +51,7 @@ Maps the reader's emotional journey—not just what they'll think, but how they'
 [How should they feel?]
 
 **Emotional Turning Points:**
+
 1. [Moment]: [From X feeling to Y feeling]
 2. [Moment]: [From X feeling to Y feeling]
 
@@ -69,14 +73,17 @@ Maps the reader's emotional journey—not just what they'll think, but how they'
 ## Ending State
 
 **How the reader feels when they finish:**
+
 - [Emotion]: [Description]
 - [Emotion]: [Description]
 
 **What they now believe:**
+
 - [New belief]
 - [New belief]
 
 **What they want to do:**
+
 - [Action/change]
 
 ---
@@ -93,11 +100,11 @@ Maps the reader's emotional journey—not just what they'll think, but how they'
 
 ## Risks and Mitigations
 
-| Risk | Consequence | Mitigation |
-|------|-------------|------------|
-| [Reader feels X too early] | [They quit] | [How to prevent] |
-| [Reader never feels Y] | [No transformation] | [How to ensure] |
+| Risk                       | Consequence         | Mitigation       |
+| -------------------------- | ------------------- | ---------------- |
+| [Reader feels X too early] | [They quit]         | [How to prevent] |
+| [Reader never feels Y]     | [No transformation] | [How to ensure]  |
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

@@ -30,20 +30,20 @@ When brainstorming, read and follow `/path/to/claude-skills/brainstorm/SKILL.md`
 
 ### Standalone Skills
 
-| Skill | Description |
-| ----- | ----------- |
+| Skill                     | Description                                                                                                     |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [brainstorm](brainstorm/) | Collaborative multi-session brainstorming with versioned documents, 25+ thinking methods, and decision tracking |
 
 ### Non-Fiction Book Factory
 
 A pipeline of skills for developing nonfiction books from idea to architecture. See [full documentation](non-fiction-book-factory/).
 
-| Skill | Description |
-| ----- | ----------- |
-| book-ideation | Develop raw ideas into structured Book Concept Documents |
-| book-idea-validator | Stress-test concepts against existing research (Go/Revise/Kill) |
-| book-market-research | Assess commercial viability for Amazon KDP |
-| book-architect | Design structural and emotional architecture for drafting |
+| Skill                | Description                                                     |
+| -------------------- | --------------------------------------------------------------- |
+| book-ideation        | Develop raw ideas into structured Book Concept Documents        |
+| book-idea-validator  | Stress-test concepts against existing research (Go/Revise/Kill) |
+| book-market-research | Assess commercial viability for Amazon KDP                      |
+| book-architect       | Design structural and emotional architecture for drafting       |
 
 ## License
 

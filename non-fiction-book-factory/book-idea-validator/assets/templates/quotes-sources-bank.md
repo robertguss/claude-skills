@@ -17,18 +17,20 @@ Captures powerful quotes with full citations during research. When drafting, the
 ### Theme: [Theme Name]
 
 **Quote [#]:**
+
 > "[Exact quote]"
 
-**Source:** [Author], *[Title]* ([Year]), p. [Page]  
+**Source:** [Author], _[Title]_ ([Year]), p. [Page]  
 **Context:** [Brief note on context]  
 **Useful For:** [Which claim or chapter this supports]
 
 ---
 
 **Quote [#]:**
+
 > "[Exact quote]"
 
-**Source:** [Author], *[Title]* ([Year]), p. [Page]  
+**Source:** [Author], _[Title]_ ([Year]), p. [Page]  
 **Context:** [Brief note on context]  
 **Useful For:** [Which claim or chapter this supports]
 
@@ -44,17 +46,17 @@ Captures powerful quotes with full citations during research. When drafting, the
 
 ### [Author Name]
 
-| Quote | Work | Page | Theme |
-|-------|------|------|-------|
-| "[Brief excerpt]..." | *[Title]* | [p.] | [Theme] |
+| Quote                | Work      | Page | Theme   |
+| -------------------- | --------- | ---- | ------- |
+| "[Brief excerpt]..." | _[Title]_ | [p.] | [Theme] |
 
 ---
 
 ## Statistics and Data
 
-| Fact | Source | Date | Claim Supported |
-|------|--------|------|-----------------|
-| [Statistic] | [Source] | [Year] | [Claim #] |
+| Fact        | Source   | Date   | Claim Supported |
+| ----------- | -------- | ------ | --------------- |
+| [Statistic] | [Source] | [Year] | [Claim #]       |
 
 ---
 
@@ -62,8 +64,8 @@ Captures powerful quotes with full citations during research. When drafting, the
 
 People whose quotes support your argument:
 
-| Person | Relevance | Key Quote |
-|--------|-----------|-----------|
+| Person | Relevance         | Key Quote    |
+| ------ | ----------------- | ------------ |
 | [Name] | [Why they matter] | "[Brief]..." |
 
 ---
@@ -72,10 +74,10 @@ People whose quotes support your argument:
 
 People whose quotes you're arguing against (useful for contrast):
 
-| Person | Relevance | Key Quote |
-|--------|-----------|-----------|
+| Person | Relevance         | Key Quote    |
+| ------ | ----------------- | ------------ |
 | [Name] | [Why they matter] | "[Brief]..." |
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

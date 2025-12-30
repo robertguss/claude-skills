@@ -19,6 +19,7 @@ Every chapter has a cognitive weight: how much mental energy it demands from the
 ### Heavy Chapters
 
 **Characteristics:**
+
 - Dense with new concepts
 - Challenges existing beliefs
 - Abstract or theoretical
@@ -28,6 +29,7 @@ Every chapter has a cognitive weight: how much mental energy it demands from the
 **Reader Experience:** Requires full attention. May need to re-read sections. Mentally tired afterward.
 
 **Architectural Notes:**
+
 - Never sequence more than two heavy chapters back-to-back
 - Follow with lighter material
 - Consider breaking into multiple chapters
@@ -38,6 +40,7 @@ Every chapter has a cognitive weight: how much mental energy it demands from the
 ### Medium Chapters
 
 **Characteristics:**
+
 - Mix of new and familiar
 - Builds on established concepts
 - Practical application of ideas
@@ -47,6 +50,7 @@ Every chapter has a cognitive weight: how much mental energy it demands from the
 **Reader Experience:** Engaged but not exhausted. Can read at normal pace.
 
 **Architectural Notes:**
+
 - Workhorses of most books
 - Can sequence 2-3 in a row
 - Good for building momentum
@@ -57,6 +61,7 @@ Every chapter has a cognitive weight: how much mental energy it demands from the
 ### Light Chapters
 
 **Characteristics:**
+
 - Primarily story or example
 - Consolidation of previous learning
 - Emotional payoff or relief
@@ -66,6 +71,7 @@ Every chapter has a cognitive weight: how much mental energy it demands from the
 **Reader Experience:** Enjoyable, even relaxing. Feels like progress. Builds confidence.
 
 **Architectural Notes:**
+
 - Strategic placement after heavy chapters
 - Not filler—must serve the arc
 - Good for wins and validation
@@ -134,6 +140,7 @@ Weight isn't just chapter-level. Within chapters:
 **Density Distribution:** Front-load the most demanding content while reader attention is highest. Back-load stories and examples.
 
 **Texture Variation:**
+
 - Concept → Story → Concept → Application
 - Claim → Evidence → Implication → Example
 - Problem → Analysis → Solution → Case Study
@@ -171,6 +178,7 @@ These decrease cognitive load:
 ## The First Win
 
 Readers need a win early. Some moment where they:
+
 - Feel the book "gets" them
 - Learn something useful immediately
 - Feel smart or validated
@@ -189,6 +197,7 @@ Strategic moments to consolidate and rest:
 ### Chapter Endings
 
 Every chapter ending is a natural pause. Consider:
+
 - Brief summary of key insight (optional—don't be condescending)
 - Transitional hook (pulls them forward)
 - A closing image or line that resonates
@@ -196,6 +205,7 @@ Every chapter ending is a natural pause. Consider:
 ### Section Endings
 
 Larger breathing points between major sections. Consider:
+
 - Consolidation chapter: "What we've learned so far"
 - Bridge chapter: "How this connects to what's next"
 - Or simply: white space and a new section header
@@ -242,7 +252,7 @@ Section 1: [Narrative]
   Ch 1: Medium  ████████░░
   Ch 2: Light   ████░░░░░░
 
-Section 2: [Argument]  
+Section 2: [Argument]
   Ch 3: Medium  ████████░░
   Ch 4: Heavy   ██████████
   Ch 5: Light   ████░░░░░░

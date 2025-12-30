@@ -8,9 +8,9 @@
 
 ## Scan Progress
 
-| Category | Claims | Scanned | Remaining |
-|----------|--------|---------|-----------|
-| [Category] | [X] | [X] | [X] |
+| Category   | Claims | Scanned | Remaining |
+| ---------- | ------ | ------- | --------- |
+| [Category] | [X]    | [X]     | [X]       |
 
 ---
 
@@ -21,25 +21,31 @@
 **Scan Status:** [Complete / In Progress / Not Started]
 
 **Existing Coverage:**
+
 - [What's already been said? By whom? How recently?]
 
 **Key Voices:**
+
 - [Name] — [Their position/relevance]
 - [Name] — [Their position/relevance]
 
 **Territory Assessment:**
+
 - [ ] Well-trodden — many have said this
 - [ ] Moderately covered — some existing work
 - [ ] Underexplored — genuine gap
 - [ ] Novel — no one has framed it this way
 
 **Supporting Sources:**
+
 - [Author, "Title" (Year) — brief relevance note]
 
 **Challenging Sources:**
+
 - [Author, "Title" (Year) — brief relevance note]
 
 **Gaps Identified:**
+
 - [What's missing from existing coverage?]
 
 **Initial Assessment:** [Strong / Needs Work / Weak / Uncertain]
@@ -64,14 +70,17 @@ If yes, reason: [Brief explanation]
 ## Sources Bibliography
 
 ### Must Engage
+
 - [Author, "Title" (Year) — why essential]
 
 ### Should Read
+
 - [Author, "Title" (Year) — why important]
 
 ### Awareness
+
 - [Author, "Title" (Year) — useful context]
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

@@ -45,11 +45,11 @@ Maps where readers will push back hardest. Essential for sequencing—you must e
 
 Order of claims from least to most resistance:
 
-| Order | Claim | Resistance Level | Builds On |
-|-------|-------|------------------|-----------|
-| 1 | [Claim] | Low | — |
-| 2 | [Claim] | Low | #1 |
-| 3 | [Claim] | Medium | #1, #2 |
+| Order | Claim   | Resistance Level | Builds On |
+| ----- | ------- | ---------------- | --------- |
+| 1     | [Claim] | Low              | —         |
+| 2     | [Claim] | Low              | #1        |
+| 3     | [Claim] | Medium           | #1, #2    |
 
 ---
 
@@ -57,10 +57,10 @@ Order of claims from least to most resistance:
 
 For each high-resistance point, how might the book address it?
 
-| Resistance | Strategy |
-|------------|----------|
-| [Point] | [How to soften or pre-empt] |
+| Resistance | Strategy                    |
+| ---------- | --------------------------- |
+| [Point]    | [How to soften or pre-empt] |
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

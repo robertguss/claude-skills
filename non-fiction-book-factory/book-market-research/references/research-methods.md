@@ -7,12 +7,14 @@ How Claude conducts market research for book viability assessment.
 ### Competitor Discovery
 
 **Search patterns:**
+
 - `[topic] books Amazon`
 - `best [topic] books`
 - `[topic] books for [audience]`
 - `books like [known competitor]`
 
 **What to capture:**
+
 - Titles and subtitles (positioning signals)
 - Author names and credentials
 - Publisher (traditional vs. self-published)
@@ -22,11 +24,13 @@ How Claude conducts market research for book viability assessment.
 ### Review Analysis
 
 **Search patterns:**
+
 - `[book title] review`
 - `[book title] Goodreads`
 - `[topic] book recommendations Reddit`
 
 **What to capture from reviews:**
+
 - Common praise themes (what readers value)
 - Common complaints (gap opportunities)
 - Unmet needs mentioned
@@ -35,6 +39,7 @@ How Claude conducts market research for book viability assessment.
 ### Gap Identification
 
 Look for patterns in complaints:
+
 - "I wish this book covered..."
 - "The only problem is..."
 - "Great but missing..."
@@ -45,6 +50,7 @@ These signal positioning opportunities.
 ### Author Credibility Signals
 
 Search for:
+
 - Author's other books
 - Author's credentials, background
 - Author's platform (podcast, newsletter, social)
@@ -55,6 +61,7 @@ Assess fit between author's background and book's claims.
 ### Market Timing
 
 Search for:
+
 - Trend articles about the topic
 - Google Trends data
 - Recent news or cultural moments
@@ -75,20 +82,24 @@ Claude cannot directly access Amazon product pages due to technical restrictions
 ### Quantitative Indicators
 
 **BSR Analysis:**
+
 - Average BSR across competitors = demand signal
 - BSR spread = market consistency
 - Low BSR + high reviews = proven demand
 
 **Price Analysis:**
+
 - Price range establishes market expectations
 - Median price = likely sweet spot
 - Outliers may indicate premium positioning
 
 **Review Velocity:**
+
 - Reviews ÷ months since publication ≈ monthly review rate
 - Higher velocity = active market
 
 **KU Saturation:**
+
 - High KU presence = readers expect free access
 - Low KU presence = opportunity or signal of premium market
 
@@ -96,18 +107,19 @@ Claude cannot directly access Amazon product pages due to technical restrictions
 
 Combine qualitative and quantitative findings:
 
-| Signal | Positive | Negative |
-|--------|----------|----------|
-| BSR | Under 50K average | Over 100K average |
-| Reviews | Many, with clear complaint patterns | Few, or no clear gaps |
-| Competition | Differentiation possible | Crowded, no white space |
-| Timing | Trending or stable evergreen | Declining interest |
-| Credibility | Author fits the topic | Credibility gap |
-| Platform | Existing audience | Starting from zero |
+| Signal      | Positive                            | Negative                |
+| ----------- | ----------------------------------- | ----------------------- |
+| BSR         | Under 50K average                   | Over 100K average       |
+| Reviews     | Many, with clear complaint patterns | Few, or no clear gaps   |
+| Competition | Differentiation possible            | Crowded, no white space |
+| Timing      | Trending or stable evergreen        | Declining interest      |
+| Credibility | Author fits the topic               | Credibility gap         |
+| Platform    | Existing audience                   | Starting from zero      |
 
 ## Limitations
 
 **Claude cannot access:**
+
 - Amazon product pages directly
 - Real-time BSR data
 - Exact sales figures
@@ -115,6 +127,7 @@ Combine qualitative and quantitative findings:
 - Kindle Unlimited royalty rates
 
 **Claude can assess:**
+
 - Market presence and positioning
 - Review sentiment and gaps
 - Author-market fit

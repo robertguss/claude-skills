@@ -25,19 +25,20 @@
 
 ## Viability Scorecard
 
-| Criterion | Weight | Score | Reasoning |
-|-----------|--------|-------|-----------|
-| Market Demand | 25% | /10 | |
-| Review Landscape | 15% | /10 | |
-| Competition Gap | 15% | /10 | |
-| Author Credibility | 15% | /10 | |
-| Pricing Viability | 10% | /10 | |
-| Author Platform | 10% | /10 | |
-| Timing | 5% | /10 | |
-| Production Feasibility | 5% | /10 | |
-| **Weighted Total** | 100% | **/10** | |
+| Criterion              | Weight | Score   | Reasoning |
+| ---------------------- | ------ | ------- | --------- |
+| Market Demand          | 25%    | /10     |           |
+| Review Landscape       | 15%    | /10     |           |
+| Competition Gap        | 15%    | /10     |           |
+| Author Credibility     | 15%    | /10     |           |
+| Pricing Viability      | 10%    | /10     |           |
+| Author Platform        | 10%    | /10     |           |
+| Timing                 | 5%     | /10     |           |
+| Production Feasibility | 5%     | /10     |           |
+| **Weighted Total**     | 100%   | **/10** |           |
 
 **Score Interpretation:**
+
 - 7.0+: Strong Go
 - 5.5–6.9: Conditional Go
 - 4.0–5.4: Revise
@@ -50,10 +51,10 @@
 ### Top Competitors
 
 | Title | Author | Positioning | Strength | Weakness |
-|-------|--------|-------------|----------|----------|
-| | | | | |
-| | | | | |
-| | | | | |
+| ----- | ------ | ----------- | -------- | -------- |
+|       |        |             |          |          |
+|       |        |             |          |          |
+|       |        |             |          |          |
 
 ### Market Gaps Identified
 
@@ -87,9 +88,10 @@
 [Based on market gaps, how should this book position itself?]
 
 **Key differentiators to emphasize:**
-- 
-- 
-- 
+
+-
+-
+-
 
 ---
 
@@ -99,6 +101,7 @@
 **Market median:** $[median]
 
 **Recommended price points:**
+
 - Kindle: $
 - Paperback: $
 - Hardcover: $ (if applicable)
@@ -114,6 +117,7 @@
 
 **Market-informed suggestions:**
 Based on what's working in this category:
+
 - [Suggestion 1]
 - [Suggestion 2]
 - [Suggestion 3]
@@ -142,6 +146,7 @@ Based on what's working in this category:
 ## Timing Assessment
 
 **Market timing:**
+
 - [ ] Trending up
 - [ ] Stable evergreen
 - [ ] Declining interest
@@ -156,11 +161,11 @@ Based on what's working in this category:
 
 ## Key Risks
 
-| Risk | Severity | Mitigation |
-|------|----------|------------|
-| | High/Med/Low | |
-| | | |
-| | | |
+| Risk | Severity     | Mitigation |
+| ---- | ------------ | ---------- |
+|      | High/Med/Low |            |
+|      |              |            |
+|      |              |            |
 
 ---
 
@@ -172,12 +177,14 @@ Based on what's working in this category:
 [Synthesize the key factors driving this recommendation]
 
 **If Conditional Go, conditions are:**
-- 
-- 
+
+-
+-
 
 **If Revise, suggested changes:**
-- 
-- 
+
+-
+-
 
 **Next step:**
 [What should the author do now?]
@@ -187,10 +194,12 @@ Based on what's working in this category:
 ## Appendix: Data Sources
 
 ### Qualitative Research
+
 - Searches performed: [list key searches]
 - Review sources: [Goodreads, Reddit, etc.]
 
 ### Quantitative Data (if Deep Dive)
+
 - Competitors analyzed: [count]
 - Data gathering date: [date]
 - See attached: competitor-analysis.csv

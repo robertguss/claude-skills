@@ -26,6 +26,7 @@ This document records key decisions made during validation, with reasoning. It e
 [What prompted this decision?]
 
 **Options Considered:**
+
 1. [Option A] — [Pros/cons]
 2. [Option B] — [Pros/cons]
 3. [Option C] — [Pros/cons]
@@ -48,9 +49,9 @@ This document records key decisions made during validation, with reasoning. It e
 
 Questions raised but not yet resolved:
 
-| # | Question | Raised | Status |
-|---|----------|--------|--------|
-| 1 | [Question] | [Date] | [Open / Resolved] |
+| #   | Question   | Raised | Status            |
+| --- | ---------- | ------ | ----------------- |
+| 1   | [Question] | [Date] | [Open / Resolved] |
 
 ---
 
@@ -62,4 +63,4 @@ Ideas or tangents noted for later consideration:
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

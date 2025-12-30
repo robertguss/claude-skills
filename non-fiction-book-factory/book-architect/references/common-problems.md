@@ -15,6 +15,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Readers abandon before reaching the good stuff.
 
 **How to Fix:**
+
 - Move the hook to page 1 or 2
 - Cut the throat-clearing
 - Start with the most compelling element (story, statistic, question, bold claim)
@@ -31,6 +32,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Confusion. No clear throughline. Sections feel disconnected.
 
 **How to Fix:**
+
 - Identify the ONE core thesis
 - Ask: "Which parts don't serve this thesis?"
 - Cut ruthlessly (save ideas for another book)
@@ -47,6 +49,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Reader puts book down and doesn't pick it back up.
 
 **How to Fix:**
+
 - Add a mid-book climax or turning point
 - Move a compelling chapter to the middle
 - Check pacing—too many heavy chapters in sequence?
@@ -64,6 +67,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Reader loses patience waiting for payoff.
 
 **How to Fix:**
+
 - Interleave setup with value delivery
 - Give readers usable insights early
 - Reduce setup to essentials—trust reader to catch up
@@ -80,6 +84,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Reader feels lost, doesn't see the architecture.
 
 **How to Fix:**
+
 - Add explicit bridges between sections
 - Ensure each chapter's closing hook points to next chapter
 - Add a transition sentence or paragraph
@@ -96,6 +101,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Confusion, frustration, loss of trust.
 
 **How to Fix:**
+
 - Map dependencies explicitly
 - Check: For each concept, is it introduced before it's needed?
 - Move prerequisite material earlier
@@ -114,6 +120,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Bloated chapters. Reader overwhelmed. Key insights buried.
 
 **How to Fix:**
+
 - Apply "one job" rule to every chapter
 - Ask: "Does this serve the chapter's job?"
 - Cut tangents (save for appendix, blog posts, or another book)
@@ -130,6 +137,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Redundancy, boredom, bloat.
 
 **How to Fix:**
+
 - State each chapter's "one job"—are any duplicates?
 - Merge similar chapters
 - Differentiate: If they must be separate, make the distinction clear
@@ -146,6 +154,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Loss of credibility. Skeptical readers reject the book.
 
 **How to Fix:**
+
 - Match proof burden to claim difficulty (see references/proof-burden-mapping.md)
 - Add evidence before making the claim
 - Soften the claim if evidence is unavailable
@@ -162,6 +171,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Sophisticated readers lose respect. Book preaches to choir but convinces no one.
 
 **How to Fix:**
+
 - Steelman opponents: present their strongest case
 - Research: what do smart people who disagree actually say?
 - Address the real objections, not easy ones
@@ -180,6 +190,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Reader feels beaten up. Defensive. Exhausted. Gives up.
 
 **How to Fix:**
+
 - Add chapters that validate the reader
 - Provide wins: "You're already doing this right"
 - Include relief chapters after challenging ones
@@ -197,6 +208,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Reader abandonment. "This book isn't giving me anything."
 
 **How to Fix:**
+
 - Move first win to Chapter 1 or 2
 - Even in setup chapters, provide usable insights
 - Early validation: "If you've felt this, you're right"
@@ -213,6 +225,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Reader feels patronized. Pace drags.
 
 **How to Fix:**
+
 - Trust the reader
 - If recap is needed, make it brief (1-2 sentences)
 - Callback to earlier material naturally, not as formal summary
@@ -229,6 +242,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Reader unsatisfied. Sense that something is missing.
 
 **How to Fix:**
+
 - Design conclusion explicitly
 - Land the transformation: where is reader now?
 - Consolidate the through-lines
@@ -248,6 +262,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Major structural problems discovered in editing (expensive). Or published with structural flaws.
 
 **How to Fix:**
+
 - Architecture first, drafting second
 - If already drafted without architecture, do architecture now—then revise draft against it
 
@@ -262,6 +277,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Draft struggles against flawed structure.
 
 **How to Fix:**
+
 - Architecture is a tool, not a contract
 - If drafting reveals problems, revise architecture
 - Allow chapters to merge, split, reorder, or be cut
@@ -278,6 +294,7 @@ Patterns that break books—and how to fix them.
 **The Effect:** Blind spots remain hidden. Author's logic makes sense only to author.
 
 **How to Fix:**
+
 - Get feedback on architecture before drafting
 - Ask: "Does this sequence make sense? Where do you get lost?"
 - Use Claude or other tools as collaborators

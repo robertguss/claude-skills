@@ -30,9 +30,11 @@ Books making similar arguments to similar audiences.
 [How do they make their argument?]
 
 **Strengths:**
+
 - [What do they do well?]
 
 **Weaknesses/Gaps:**
+
 - [What do they miss or do poorly?]
 
 **How Your Book Differs:**  
@@ -78,8 +80,8 @@ Books in related space but different angle or audience.
 
 Books you'll engage with, cite, or build upon.
 
-| Book | Author | Year | Relationship |
-|------|--------|------|--------------|
+| Book    | Author   | Year   | Relationship                           |
+| ------- | -------- | ------ | -------------------------------------- |
 | [Title] | [Author] | [Year] | [Ally / Foil / Foundation / Extension] |
 
 ---
@@ -87,9 +89,11 @@ Books you'll engage with, cite, or build upon.
 ## Positioning Map
 
 **Crowded Territory:**
+
 - [Topics/angles with many existing books]
 
 **Open Space:**
+
 - [Gaps in the market your book could fill]
 
 **Your Unique Position:**  
@@ -101,10 +105,10 @@ Books you'll engage with, cite, or build upon.
 
 For each major competitor, a clear statement of differentiation:
 
-| Competitor | Their Focus | Your Differentiation |
-|------------|-------------|---------------------|
-| [Book] | [What they do] | [What you do differently] |
+| Competitor | Their Focus    | Your Differentiation      |
+| ---------- | -------------- | ------------------------- |
+| [Book]     | [What they do] | [What you do differently] |
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_

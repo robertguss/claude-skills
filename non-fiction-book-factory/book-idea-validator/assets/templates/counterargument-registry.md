@@ -50,9 +50,9 @@ Tracks objections to each claim—who makes them, how strong they are, and wheth
 
 ## Summary Table
 
-| Claim | Objection | Who | Strength | Must Address? |
-|-------|-----------|-----|----------|---------------|
-| [#] | [Brief] | [Who] | [S/M/W] | [Y/N] |
+| Claim | Objection | Who   | Strength | Must Address? |
+| ----- | --------- | ----- | -------- | ------------- |
+| [#]   | [Brief]   | [Who] | [S/M/W]  | [Y/N]         |
 
 ---
 
@@ -64,4 +64,4 @@ Objections marked "Must Address" that don't yet have responses:
 
 ---
 
-*Updated by idea-validator skill*
+_Updated by idea-validator skill_
