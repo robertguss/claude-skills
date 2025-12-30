@@ -44,6 +44,7 @@ A pipeline of skills for developing nonfiction books from idea to architecture. 
 | book-idea-validator  | Stress-test concepts against existing research (Go/Revise/Kill) |
 | book-market-research | Assess commercial viability for Amazon KDP                      |
 | book-architect       | Design structural and emotional architecture for drafting       |
+| book-research-assistant | Plan, orchestrate, and validate deep research before outlining |
 
 ## License
 

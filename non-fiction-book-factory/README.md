@@ -33,6 +33,13 @@ A suite of Claude skills that replicate the traditional publishing infrastructur
 │  └────────────────┘                                                     │
 │          │ Outputs: Master Architecture, Section Blueprints             │
 │          ▼                                                              │
+│  PHASE 4: RESEARCH                                                      │
+│  ┌─────────────────────┐                                                │
+│  │ book-research-      │ Plan & validate deep research                  │
+│  │ assistant           │                                                │
+│  └─────────────────────┘                                                │
+│          │ Outputs: Research Synthesis, Chapter Summaries               │
+│          ▼                                                              │
 │                                                                         │
 │                    [READY TO DRAFT]                                     │
 │                                                                         │
@@ -117,11 +124,35 @@ A suite of Claude skills that replicate the traditional publishing infrastructur
 
 ---
 
+### 5. Book Research Assistant
+
+**Purpose:** Plan, orchestrate, and validate deep research for nonfiction books before outlining chapters.
+
+**Use when:** You have completed book architecture and need to fill research gaps before drafting.
+
+**What it does:**
+
+- Reviews and expands research gaps from book-architect
+- Generates self-contained research prompts for Claude and Gemini
+- Validates research outputs gap by gap
+- Produces chapter summaries and final synthesis
+
+**Outputs:**
+
+- Book-Level Research Tracker
+- Chapter Research Trackers
+- Research Prompt Files
+- Chapter Research Summaries
+- Final Research Synthesis
+
+---
+
 ## Workflow
 
 1. **Start with ideation** — Run `book-ideation` to develop your raw idea into a structured concept
 2. **Validate the concept** — Run `book-idea-validator` to stress-test against research, then `book-market-research` to assess commercial viability
 3. **Make the Go/No-Go decision** — Review both reports and decide whether to proceed
 4. **Architect the book** — Run `book-architect` to design the complete structure before drafting
+5. **Conduct research** — Run `book-research-assistant` to plan research prompts, execute deep research externally, then validate findings
 
 Each skill produces documents that the next skill consumes, creating a consistent, repeatable workflow.
