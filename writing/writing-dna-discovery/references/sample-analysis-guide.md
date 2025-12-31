@@ -32,6 +32,7 @@ Before analyzing, know:
 ### Ideal Sample Characteristics
 
 **More reliable:**
+
 - Recent (last 1-2 years)
 - Self-edited (not heavily touched by others)
 - Typical of what they normally write
@@ -39,6 +40,7 @@ Before analyzing, know:
 - Multiple samples (2-3 minimum)
 
 **Less reliable:**
+
 - Old (style may have evolved)
 - Heavily edited by others
 - Written for unusual circumstances
@@ -54,6 +56,7 @@ Before analyzing, know:
 Read the sample quickly. Note immediate impressions.
 
 **Ask yourself:**
+
 - What 3 things jump out about this writing?
 - What's the overall temperature? (warm, cool, neutral)
 - What register/mode is this?
@@ -62,6 +65,7 @@ Read the sample quickly. Note immediate impressions.
 **Capture gut impressions before they fade.** First reactions often identify the most distinctive patterns.
 
 **Example gut notes:**
+
 > "Short sentences. Very direct. Almost aggressive. Lots of 'But' at sentence starts. No hedging at all."
 
 ---
@@ -72,31 +76,31 @@ Measure objective patterns.
 
 #### Sentence Metrics
 
-| Metric | How to Measure |
-|--------|----------------|
-| Average sentence length | Word count / sentence count |
-| Length range | Shortest to longest sentence |
-| Length distribution | How often short (<10), medium (10-20), long (20+) |
+| Metric                  | How to Measure                                    |
+| ----------------------- | ------------------------------------------------- |
+| Average sentence length | Word count / sentence count                       |
+| Length range            | Shortest to longest sentence                      |
+| Length distribution     | How often short (<10), medium (10-20), long (20+) |
 
 #### Punctuation Count
 
-| Mark | Count per 1000 words |
-|------|---------------------|
-| Em-dashes | |
-| Semicolons | |
-| Colons | |
-| Parentheses (pairs) | |
-| Exclamation points | |
-| Question marks | |
+| Mark                | Count per 1000 words |
+| ------------------- | -------------------- |
+| Em-dashes           |                      |
+| Semicolons          |                      |
+| Colons              |                      |
+| Parentheses (pairs) |                      |
+| Exclamation points  |                      |
+| Question marks      |                      |
 
 #### Word Patterns
 
-| Pattern | Count/Observe |
-|---------|--------------|
-| "I" sentences | How many start with "I"? |
-| "And"/"But" openers | How many sentences start with these? |
-| Contractions | Present? Frequent? |
-| Paragraph lengths | Short (1-2 sentences), medium (3-5), long (6+) |
+| Pattern             | Count/Observe                                  |
+| ------------------- | ---------------------------------------------- |
+| "I" sentences       | How many start with "I"?                       |
+| "And"/"But" openers | How many sentences start with these?           |
+| Contractions        | Present? Frequent?                             |
+| Paragraph lengths   | Short (1-2 sentences), medium (3-5), long (6+) |
 
 #### Quick Vocabulary Check
 
@@ -119,6 +123,7 @@ This is where you find the distinctive patterns.
 - **Fragments:** Present? Intentional?
 
 **Look for:**
+
 - Unusual constructions
 - Signature rhythms
 - Consistent patterns across the sample
@@ -164,17 +169,18 @@ When you have multiple samples:
 
 ### Consistency Check
 
-| Pattern | Sample 1 | Sample 2 | Sample 3 | Consistent? |
-|---------|----------|----------|----------|-------------|
-| Sentence length | | | | |
-| Punctuation style | | | | |
-| Paragraph length | | | | |
-| Tone | | | | |
-| First person presence | | | | |
+| Pattern               | Sample 1 | Sample 2 | Sample 3 | Consistent? |
+| --------------------- | -------- | -------- | -------- | ----------- |
+| Sentence length       |          |          |          |             |
+| Punctuation style     |          |          |          |             |
+| Paragraph length      |          |          |          |             |
+| Tone                  |          |          |          |             |
+| First person presence |          |          |          |             |
 
 **Consistent patterns** = High confidence, can include in profile without caveat
 
 **Inconsistent patterns** = Need investigation:
+
 - Different registers?
 - Evolution over time?
 - Context-dependent variation?
@@ -249,12 +255,12 @@ After analysis, note what you CAN'T determine from samples:
 
 For each gap, identify the interview question that would fill it:
 
-| Gap | Question to Ask |
-|-----|-----------------|
-| Why short sentences? | "Do you consciously write short sentences? Why?" |
-| Is this formality typical? | "Is this your usual level of formality?" |
-| Why no contractions? | "Do you avoid contractions intentionally?" |
-| Edited by others? | "Was this piece edited by someone else?" |
+| Gap                        | Question to Ask                                  |
+| -------------------------- | ------------------------------------------------ |
+| Why short sentences?       | "Do you consciously write short sentences? Why?" |
+| Is this formality typical? | "Is this your usual level of formality?"         |
+| Why no contractions?       | "Do you avoid contractions intentionally?"       |
+| Edited by others?          | "Was this piece edited by someone else?"         |
 
 ---
 
@@ -349,13 +355,13 @@ RED FLAGS
 
 ### Translating Findings
 
-| Analysis Finding | DNA Document Entry |
-|-----------------|-------------------|
-| "Avg sentence length 12 words, range 4-28" | "Short sentences (avg 12 words) with occasional longer ones for rhythm" |
-| "Em-dash count: 8 per 1000 words" | "Heavy em-dash user—deployed for parenthetical insertions and dramatic pivots" |
-| "All paragraphs 2-4 sentences" | "Short paragraphs (2-4 sentences); uses single-sentence paragraphs for emphasis" |
-| "No semicolons found" | "Never uses semicolons" (confirm in interview) |
-| "'Actually' appears 6 times" | "Pet word: 'actually'—appears frequently for emphasis" |
+| Analysis Finding                           | DNA Document Entry                                                               |
+| ------------------------------------------ | -------------------------------------------------------------------------------- |
+| "Avg sentence length 12 words, range 4-28" | "Short sentences (avg 12 words) with occasional longer ones for rhythm"          |
+| "Em-dash count: 8 per 1000 words"          | "Heavy em-dash user—deployed for parenthetical insertions and dramatic pivots"   |
+| "All paragraphs 2-4 sentences"             | "Short paragraphs (2-4 sentences); uses single-sentence paragraphs for emphasis" |
+| "No semicolons found"                      | "Never uses semicolons" (confirm in interview)                                   |
+| "'Actually' appears 6 times"               | "Pet word: 'actually'—appears frequently for emphasis"                           |
 
 ### Confidence Levels
 

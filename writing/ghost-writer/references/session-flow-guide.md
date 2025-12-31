@@ -25,12 +25,14 @@ A ghost writing session moves through these phases:
 **Action:** Request or receive the Voice DNA Document.
 
 **Checks:**
+
 - Is this a valid DNA document from writing-dna-discovery?
 - What is the Readiness Level? (Minimum Viable / Solid / Strong)
 - How old is the profile? (Flag if >6 months)
 - What dimensions are Strong vs. Emerging?
 
 **If no DNA document provided:**
+
 > "I need a Voice DNA Document to match your voice. Have you completed a session with the writing-dna-discovery skill? If not, I'd recommend starting there."
 
 **Do not proceed without a DNA document.**
@@ -40,19 +42,20 @@ A ghost writing session moves through these phases:
 **Action:** Accept the task description. Use hybrid approach.
 
 **Accept free-form descriptions like:**
+
 - "Write a blog post about why I left my corporate job"
 - "I need a newsletter intro about our product launch"
 - "Essay exploring the decline of physical bookstores"
 
 **Ask targeted follow-ups only if key information is missing:**
 
-| Missing | Follow-up Question |
-|---------|-------------------|
-| Topic unclear | "What specifically should this piece be about?" |
-| Audience unknown | "Who's the intended audience for this?" |
-| Purpose unclear | "What should readers think, feel, or do after reading?" |
+| Missing          | Follow-up Question                                             |
+| ---------------- | -------------------------------------------------------------- |
+| Topic unclear    | "What specifically should this piece be about?"                |
+| Audience unknown | "Who's the intended audience for this?"                        |
+| Purpose unclear  | "What should readers think, feel, or do after reading?"        |
 | Format uncertain | "What format is this—blog, newsletter, essay, something else?" |
-| Length needed | "Any length requirements or preferences?" |
+| Length needed    | "Any length requirements or preferences?"                      |
 
 **One question at a time.** Don't stack multiple questions.
 
@@ -62,6 +65,7 @@ A ghost writing session moves through these phases:
 
 **Register Match Check:**
 If DNA document register (e.g., "Blog") differs from task format (e.g., newsletter):
+
 > "Your DNA document captures your blog voice, but you're asking for a newsletter. Should I apply your blog voice here, or did you mean to use a different profile?"
 
 - If intentional cross-pollination: Note and proceed
@@ -69,6 +73,7 @@ If DNA document register (e.g., "Blog") differs from task format (e.g., newslett
 
 **Research Check:**
 If research is provided or implied:
+
 1. Review the research for sufficiency
 2. Identify gaps: "Your research covers X and Y, but I don't see Z. Should I proceed without it, or do you have more?"
 3. Summarize understanding: "My take on your research: [summary]. Accurate?"
@@ -76,28 +81,35 @@ If research is provided or implied:
 
 **Sensitive Topic Check:**
 If topic is controversial, personal, or high-stakes:
+
 > "This touches on [topic], which can be sensitive. How bold should I be?
+>
 > - Full-throated: Your direct voice without pulling punches
 > - Measured: Your voice, but more careful framing
 > - Your guidance: [let them specify]"
 
 **Multiple Audience Check:**
 If piece seems aimed at different readers:
+
 > "This seems like it needs to work for both [audience A] and [audience B]. Should I:
+>
 > - Prioritize one (which?)
 > - Balance both
 > - Generate separate versions for each audience"
 
 **Series Check:**
 If piece seems part of a series:
+
 > "Is this part of a series? If so, share prior parts or established patterns so I can maintain consistency."
 
 **Derivative Work Check:**
 If continuing or expanding existing content:
+
 > "To match your existing content closely, please share what you've already written. I'll analyze it alongside your DNA document."
 
 **Tone Modifier Check:**
 If user requests a deviation:
+
 > "You said 'more urgent than usual'—I'll layer that on top of your DNA patterns. I'll note where I adjusted."
 
 ---
@@ -109,6 +121,7 @@ If user requests a deviation:
 **Action:** Share your assessment of DNA document strength.
 
 > "Based on your DNA document:
+>
 > - **Strong:** [dimensions with detailed coverage]
 > - **Moderate:** [dimensions with decent coverage]
 > - **Light:** [dimensions with minimal or no coverage]
@@ -122,6 +135,7 @@ If user requests a deviation:
 **Action:** Summarize your understanding.
 
 > "Here's my understanding:
+>
 > - **Topic:** [core subject]
 > - **Audience:** [who they're writing for]
 > - **Purpose:** [inform/persuade/entertain/inspire]
@@ -136,6 +150,7 @@ If user requests a deviation:
 **Action:** Raise any tensions or issues.
 
 Examples:
+
 > "One concern: Your DNA shows a casual tone, but this topic might need some authority. I'll try to balance, but review carefully."
 
 > "Note: The research doesn't include counterarguments. Want me to address them speculatively, or skip that angle?"
@@ -157,12 +172,14 @@ Examples:
 **Action:** Create two meaningfully different versions.
 
 **Differences can be:**
+
 - Structural (narrative vs. analytical)
 - Opening strategy (anecdote vs. thesis-first)
 - Emphasis (different aspects of topic)
 - Tone variation (within documented range)
 
 **Both drafts should:**
+
 - Apply DNA patterns fully
 - Suppress anti-patterns
 - Include 2-3 headline options
@@ -171,6 +188,7 @@ Examples:
 ### Step 3.2: Apply Voice Patterns
 
 **During drafting:**
+
 - Reference DNA document's "Do This" items actively
 - Avoid "Don't Do This" items strictly
 - Use "When Uncertain" rules for ambiguous choices
@@ -180,6 +198,7 @@ Examples:
 ### Step 3.3: Suppress Anti-Patterns
 
 **During drafting:**
+
 - Check DNA document's specific anti-patterns
 - Apply baseline anti-AI patterns (from `references/anti-ai-patterns.md`)
 - If you write something that feels like AI, revise immediately
@@ -187,6 +206,7 @@ Examples:
 ### Step 3.4: Long-Form Considerations
 
 **For pieces over 2,000 words:**
+
 - Re-ground in DNA patterns at section breaks
 - After drafting, do a voice consistency check
 - Monitor for rhythm monotony
@@ -224,6 +244,7 @@ Examples:
 **After user reviews drafts:**
 
 > "Before we continue, I'd like to capture what worked and what didn't:
+>
 > 1. What felt most authentically 'you' in these drafts?
 > 2. Anything that felt off or not quite your voice?
 > 3. Any patterns I should lean into more, or avoid going forward?"
@@ -232,17 +253,18 @@ Examples:
 
 **Map feedback to categories:**
 
-| Feedback Type | What It Means |
-|--------------|---------------|
-| "That part was great" | Pattern confirmed, DNA accurate |
-| "That felt off" | Potential anti-pattern surfaced |
-| "I'd never say it that way" | Word choice or phrasing issue |
-| "The tone wasn't right" | Temperature/formality mismatch |
-| "You missed my [thing]" | Gap in DNA document |
+| Feedback Type               | What It Means                   |
+| --------------------------- | ------------------------------- |
+| "That part was great"       | Pattern confirmed, DNA accurate |
+| "That felt off"             | Potential anti-pattern surfaced |
+| "I'd never say it that way" | Word choice or phrasing issue   |
+| "The tone wasn't right"     | Temperature/formality mismatch  |
+| "You missed my [thing]"     | Gap in DNA document             |
 
 ### Step 5.3: Clarify If Needed
 
 If feedback is vague, ask for specifics:
+
 > "When you say it felt 'off'—was it the word choice, the tone, the structure, or something else?"
 
 ---
@@ -258,15 +280,19 @@ If feedback is vague, ask for specifics:
 > "Based on your feedback, consider these updates to your Voice DNA Document:
 >
 > **Add to Anti-Patterns:**
+>
 > - "[Pattern]" — [Reasoning]
 >
 > **Strengthen in Voice Profile:**
+>
 > - [Dimension]: [What to add or emphasize]
 >
 > **Add to 'Do This':**
+>
 > - [Specific instruction]
 >
 > **Add to 'When Uncertain':**
+>
 > - [Decision rule]
 >
 > You can apply these yourself or run a refinement session with the writing-dna-discovery skill."
@@ -285,18 +311,19 @@ If feedback is vague, ask for specifics:
 
 **Listen for signals:**
 
-| User Says | Action |
-|-----------|--------|
-| "Draft A is close, but [specific note]" | Revise A with that note |
-| "Can you make it shorter/longer?" | Adjust length |
-| "Neither is quite right" | Probe deeper: "What's missing?" |
-| "Let's try a different angle" | Generate Draft C with new approach |
-| "Good enough, I'll take it from here" | End session, offer final feedback opportunity |
-| "Let's keep iterating" | Continue until satisfied |
+| User Says                               | Action                                        |
+| --------------------------------------- | --------------------------------------------- |
+| "Draft A is close, but [specific note]" | Revise A with that note                       |
+| "Can you make it shorter/longer?"       | Adjust length                                 |
+| "Neither is quite right"                | Probe deeper: "What's missing?"               |
+| "Let's try a different angle"           | Generate Draft C with new approach            |
+| "Good enough, I'll take it from here"   | End session, offer final feedback opportunity |
+| "Let's keep iterating"                  | Continue until satisfied                      |
 
 ### Step 7.2: Handle Revisions
 
 **When revising:**
+
 - If notes are unclear, ask: "You said 'punchier'—can you point to specific lines that need it?"
 - Offer perspective: "I can shorten it, but you might lose [X]. Worth the trade-off?"
 - Maintain voice consistency across versions
@@ -305,6 +332,7 @@ If feedback is vague, ask for specifics:
 ### Step 7.3: Know When to Stop
 
 **Signs the session should end:**
+
 - User explicitly says they're satisfied
 - User says they'll revise themselves
 - Multiple iterations without progress (ask: "Are we getting closer, or should we try a different approach?")
@@ -314,24 +342,28 @@ If feedback is vague, ask for specifics:
 ## Session Checkpoints
 
 ### Checkpoint: After Intake
+
 - [ ] DNA document received and reviewed
 - [ ] Task clearly understood
 - [ ] All pre-draft checks completed
 - [ ] No blockers identified
 
 ### Checkpoint: Before Drafting
+
 - [ ] Voice strength preview shared
 - [ ] Task summary confirmed
 - [ ] Concerns surfaced
 - [ ] User gave go-ahead
 
 ### Checkpoint: After Output
+
 - [ ] Both drafts complete
 - [ ] Notes transparent
 - [ ] Comparison helpful
 - [ ] User has what they need to evaluate
 
 ### Checkpoint: After Feedback
+
 - [ ] Feedback clearly understood
 - [ ] DNA refinement suggestions ready
 - [ ] Clear on next steps
@@ -343,6 +375,7 @@ If feedback is vague, ask for specifics:
 ### Quick Turnaround Requests
 
 If user needs speed:
+
 - Acknowledge time pressure
 - May reduce verification steps
 - Still deliver two drafts with notes
@@ -351,6 +384,7 @@ If user needs speed:
 ### Complex/Long Pieces
 
 If piece is substantial:
+
 - Offer section-by-section workflow
 - More detailed Consistency Check
 - May need multiple iteration rounds
@@ -359,6 +393,7 @@ If piece is substantial:
 ### Follow-Up Sessions
 
 If returning with same DNA document:
+
 - Quick DNA re-read (don't need full consumption)
 - Acknowledge prior work: "Continuing from last session..."
 - May have accumulated refinement suggestions to consider
@@ -366,6 +401,7 @@ If returning with same DNA document:
 ### First-Time Users
 
 If new to ghost writing:
+
 - More explanation of process
 - Clearer expectations about 80% accuracy
 - More thorough feedback collection

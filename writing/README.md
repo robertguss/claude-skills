@@ -25,12 +25,14 @@ A pipeline for capturing and replicating a writer's authentic voice. These skill
 Capture the "genetic code" of a writer's voice through collaborative interview and sample analysis.
 
 **What It Does:**
+
 - Analyzes writing samples for distinctive patterns
 - Conducts collaborative interview to surface choices and preferences
 - Documents voice dimensions with annotated examples
 - Produces actionable Voice DNA Document for ghost-writer
 
 **Voice Dimensions Captured:**
+
 - **Sentence Rhythm** — Length variation, internal structure, emphasis placement
 - **Punctuation Personality** — Em-dashes, semicolons, parentheses, comma density
 - **Word Choice** — Vocabulary level, favorites, avoided words
@@ -56,6 +58,7 @@ Capture the "genetic code" of a writer's voice through collaborative interview a
 Produce first drafts that match a writer's authentic voice using their Voice DNA Document.
 
 **What It Does:**
+
 - Consumes Voice DNA Documents (requires writing-dna-discovery output)
 - Generates 2 meaningfully different first drafts
 - Provides 2-3 headline options per draft
@@ -66,6 +69,7 @@ Produce first drafts that match a writer's authentic voice using their Voice DNA
 **Philosophy:** Collaborative partner, not order-taker. The ghost-writer evaluates task clarity, surfaces tensions proactively, offers honest feedback, and pushes back diplomatically when it sees problems.
 
 **Draft Differences Might Include:**
+
 - Structural approach (narrative vs. analytical)
 - Opening strategy (direct hook vs. scene-setting)
 - Tone variation (within documented range)
@@ -81,11 +85,11 @@ Produce first drafts that match a writer's authentic voice using their Voice DNA
 
 Your Voice DNA Document has a readiness level that affects ghost-writer accuracy:
 
-| Level | Accuracy | What It Means |
-|-------|----------|---------------|
-| **Minimum Viable** | ~60-70% | 3-5 strong patterns, clear tone, key anti-patterns |
-| **Solid** | ~75-85% | Multiple dimensions developed, exemplar passages annotated, stress-tested |
-| **Strong** | ~85-90% | Deep analysis, validated against output, refined from feedback |
+| Level              | Accuracy | What It Means                                                             |
+| ------------------ | -------- | ------------------------------------------------------------------------- |
+| **Minimum Viable** | ~60-70%  | 3-5 strong patterns, clear tone, key anti-patterns                        |
+| **Solid**          | ~75-85%  | Multiple dimensions developed, exemplar passages annotated, stress-tested |
+| **Strong**         | ~85-90%  | Deep analysis, validated against output, refined from feedback            |
 
 ## Key Concepts
 
@@ -99,7 +103,7 @@ Your Voice DNA Document grows richer over time. Initial sessions capture the fou
 Each discovery session focuses on a single mode: blog posts, fiction prose, technical writing, etc. Create separate DNA documents for different registers if your voice varies significantly across contexts.
 
 **Anti-Patterns Are Critical**
-What you *don't* do is as important as what you do. The DNA document captures words, structures, and tones that would make readers think "that's not their writing"—including AI patterns to suppress.
+What you _don't_ do is as important as what you do. The DNA document captures words, structures, and tones that would make readers think "that's not their writing"—including AI patterns to suppress.
 
 ## Getting Started
 

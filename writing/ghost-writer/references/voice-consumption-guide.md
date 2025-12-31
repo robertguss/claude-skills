@@ -17,6 +17,7 @@ A Voice DNA Document contains these sections, in order of operational importance
 ### Priority 1: Quick Reference
 
 The 30-second snapshot. Contains:
+
 - **Core Temperature** — The emotional register (warm, cool, enthusiastic, measured)
 - **Sentence Signature** — The defining rhythm pattern
 - **Distinctive Moves** — 2-3 most recognizable patterns
@@ -27,6 +28,7 @@ The 30-second snapshot. Contains:
 ### Priority 2: Ghost Writer Briefing
 
 The actionable instructions section. Contains:
+
 - **Voice Essence** — 2-3 sentence north star
 - **Do This** — Specific actions to take
 - **Don't Do This** — Specific things to avoid
@@ -39,6 +41,7 @@ The actionable instructions section. Contains:
 ### Priority 3: Anti-Patterns
 
 What to actively avoid. Contains:
+
 - **Pattern to Avoid** — Specific patterns this writer doesn't use
 - **Why It's Wrong** — Reasoning for why it doesn't fit
 - **AI Patterns to Suppress** — Checklist of common AI tells to avoid
@@ -48,6 +51,7 @@ What to actively avoid. Contains:
 ### Priority 4: Exemplar Passages
 
 Annotated quotes that demonstrate voice in action. Contains:
+
 - Actual excerpts from the writer's work
 - Pattern annotations explaining what each demonstrates
 
@@ -56,6 +60,7 @@ Annotated quotes that demonstrate voice in action. Contains:
 ### Priority 5: Voice Profile
 
 Detailed dimension-by-dimension analysis. Contains:
+
 - Sentence Level (rhythm, length, structure)
 - Punctuation Personality (em-dashes, semicolons, comma density)
 - Paragraph & Structure (paragraph length, transitions)
@@ -67,6 +72,7 @@ Detailed dimension-by-dimension analysis. Contains:
 - Signature Elements
 
 Each dimension has:
+
 - Status (Not Assessed / Emerging / Developed / Strong)
 - Analysis and patterns
 - Examples from their writing
@@ -76,6 +82,7 @@ Each dimension has:
 ### Priority 6: Profile Metadata
 
 Information about the document itself:
+
 - **Readiness Level** — Minimum Viable / Solid / Strong
 - **Confidence Assessment** — Per-dimension confidence ratings
 - **Sample Base** — What samples were analyzed
@@ -87,6 +94,7 @@ Information about the document itself:
 ### Priority 7: Register-Specific Notes
 
 Context for the specific writing mode:
+
 - Fiction-specific patterns (narrative distance, dialogue style)
 - Non-fiction patterns (argument style, evidence handling)
 - Blog/casual patterns (hooks, personal disclosure)
@@ -100,6 +108,7 @@ Context for the specific writing mode:
 ### Step 1: Initial Scan (30 seconds)
 
 Read in this order:
+
 1. **Profile Metadata: Readiness Level** — Know your confidence baseline
 2. **Quick Reference** — Get the core fingerprint
 3. **Voice Essence** (in Ghost Writer Briefing) — Internalize the north star
@@ -109,10 +118,12 @@ After this, you should be able to state in one sentence what makes this writer's
 ### Step 2: Operational Internalization (2-3 minutes)
 
 Read in full:
+
 1. **Ghost Writer Briefing** — All subsections
 2. **Anti-Patterns** — Both specific and AI patterns
 
 After this, you should know:
+
 - What to actively do
 - What to actively avoid
 - How to handle uncertainty
@@ -120,6 +131,7 @@ After this, you should know:
 ### Step 3: Depth Reading (as needed)
 
 Read based on the task:
+
 1. **Exemplar Passages** — To hear the voice in action
 2. **Voice Profile dimensions** — For specific guidance
 
@@ -128,6 +140,7 @@ Focus on dimensions with "Strong" or "Developed" status. Be more conservative wi
 ### Step 4: Context Check
 
 Review:
+
 1. **Register-Specific Notes** — If relevant to the task
 2. **Dimensions Needing Depth** — Know where the gaps are
 3. **Open Questions** — Unresolved areas to handle carefully
@@ -143,6 +156,7 @@ Before drafting, you should have internalized:
 Ask yourself: "If I read 100 unlabeled pieces of writing, what would let me identify this writer's work?"
 
 The answer should come from:
+
 - Sentence Signature (rhythm, length patterns)
 - 2-3 Distinctive Moves
 - Emotional Temperature
@@ -151,6 +165,7 @@ The answer should come from:
 ### The Decision Framework
 
 When you face a choice during drafting, you should know:
+
 1. What the DNA document explicitly says (Do This / Don't Do This)
 2. What the "When Uncertain" rules prescribe
 3. What the Exemplar Passages suggest
@@ -160,12 +175,12 @@ When you face a choice during drafting, you should know:
 
 Know which dimensions you can apply confidently vs. where you're inferring:
 
-| Dimension | Status | Your Confidence |
-|-----------|--------|-----------------|
-| High status + detailed | Strong → apply with confidence |
-| Developed status | Moderate → apply, note in draft notes |
-| Emerging status | Low → be conservative, flag uncertainty |
-| Not Assessed | Minimal → use craft principles, flag heavily |
+| Dimension              | Status                                       | Your Confidence |
+| ---------------------- | -------------------------------------------- | --------------- |
+| High status + detailed | Strong → apply with confidence               |
+| Developed status       | Moderate → apply, note in draft notes        |
+| Emerging status        | Low → be conservative, flag uncertainty      |
+| Not Assessed           | Minimal → use craft principles, flag heavily |
 
 ---
 
@@ -174,6 +189,7 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 ### Sentence Level
 
 **What to extract:**
+
 - Average length range
 - Variation pattern (consistent vs. unpredictable)
 - Internal structure preferences (simple vs. complex)
@@ -181,6 +197,7 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 - Emphasis placement (front-loaded vs. end-weighted)
 
 **How to apply:**
+
 - Match the rhythm, not just the length
 - Vary sentences as they do (or don't)
 - Place emphasis where they would
@@ -188,6 +205,7 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 ### Punctuation Personality
 
 **What to extract:**
+
 - Em-dash frequency and purpose
 - Semicolon presence/absence
 - Parenthetical style
@@ -195,6 +213,7 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 - Exclamation point philosophy
 
 **How to apply:**
+
 - Mirror their punctuation choices closely
 - Punctuation is often deeply personal—don't deviate
 - If they never use semicolons, neither should you
@@ -202,6 +221,7 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 ### Word Choice & Vocabulary
 
 **What to extract:**
+
 - Vocabulary level (simple vs. complex)
 - Anglo-Saxon vs. Latinate preferences
 - Favorite words and phrases to use
@@ -210,6 +230,7 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 - Jargon handling
 
 **How to apply:**
+
 - Use their favorite words when appropriate
 - Actively avoid their avoided words
 - Match their contraction pattern
@@ -218,12 +239,14 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 ### Tone & Attitude
 
 **What to extract:**
+
 - Emotional temperature (warm, cool, neutral)
 - Formality level
 - Confidence style (direct vs. hedged)
 - Authority stance
 
 **How to apply:**
+
 - This is the "feel" of the writing
 - A warm writer should feel warm; a cool writer should feel cool
 - Don't accidentally shift formality
@@ -231,12 +254,14 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 ### Reader Relationship
 
 **What to extract:**
+
 - First person presence ("I" frequency)
 - Second person usage ("you" direct address)
 - Reader assumptions (expertise level)
 - Authority stance (expert, guide, fellow traveler)
 
 **How to apply:**
+
 - Match their "I" frequency closely
 - Use "you" as they do (or don't)
 - Assume the same reader they assume
@@ -245,12 +270,14 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 ### Opening & Closing Moves
 
 **What to extract:**
+
 - How they typically begin pieces
 - How they typically end pieces
 - Opening examples
 - Closing examples
 
 **How to apply:**
+
 - Start pieces as they would
 - End pieces as they would
 - Consider opening/closing resonance (do they echo?)
@@ -258,11 +285,13 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 ### Humor Approach
 
 **What to extract:**
+
 - Humor present? (yes/no/occasionally)
 - Type (dry wit, self-deprecation, wordplay, etc.)
 - Placement (woven throughout, strategic moments, asides)
 
 **How to apply:**
+
 - Be conservative—humor is personal and hard to match
 - Flag opportunities rather than attempting
 - If attempting, match type and placement
@@ -270,11 +299,13 @@ Know which dimensions you can apply confidently vs. where you're inferring:
 ### Signature Elements
 
 **What to extract:**
+
 - Distinctive moves (things only they do)
 - Pet phrases
 - Characteristic tics
 
 **How to apply:**
+
 - These are the most personal patterns
 - Use them—they're what makes the writing recognizably theirs
 - But don't overuse (note their frequency)
@@ -321,6 +352,7 @@ When the DNA document doesn't have strong guidance for a dimension:
 ### Watch for Evolution Signals
 
 During intake, listen for:
+
 - "My writing has changed since then"
 - "I don't write like that anymore"
 - "I've been experimenting with..."

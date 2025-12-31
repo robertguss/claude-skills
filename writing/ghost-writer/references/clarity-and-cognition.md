@@ -2,7 +2,7 @@
 
 Principles for writing that respects how readers think.
 
-*Inspired by Steven Pinker's "The Sense of Style"*
+_Inspired by Steven Pinker's "The Sense of Style"_
 
 ---
 
@@ -68,6 +68,7 @@ The writer isn't performing analysis. The writer is showing what's there.
 ### How Readers Process Ideas
 
 Readers build mental models. Each sentence should:
+
 1. Connect to something they already understand
 2. Add something new
 3. Create hooks for what's coming
@@ -155,16 +156,19 @@ Light: Break it apart. Use verbs.
 Every sentence has structure. The cleaner the structure, the easier to parse.
 
 **Right-branching (easier):**
+
 > "She opened the door and saw a room filled with people."
 
 The sentence extends rightward, adding information.
 
 **Left-branching (harder):**
+
 > "Filled with people, the room she saw when she opened the door was unexpected."
 
 The modifiers pile up before the main action.
 
 **Center-embedded (hardest):**
+
 > "The room that she, when she opened the door, saw was filled with people."
 
 The interruption in the middle strains working memory.
@@ -212,13 +216,13 @@ Metadiscourse creates distance. It's the writer talking about what they're going
 
 Turning verbs into nouns creates abstract, harder-to-process prose:
 
-| Zombie Noun | Living Verb |
-|-------------|-------------|
-| implementation | implement |
-| utilization | use |
-| investigation | investigate |
-| determination | determine |
-| the development of | developing |
+| Zombie Noun        | Living Verb |
+| ------------------ | ----------- |
+| implementation     | implement   |
+| utilization        | use         |
+| investigation      | investigate |
+| determination      | determine   |
+| the development of | developing  |
 
 ### Why Zombies Hurt
 
@@ -247,12 +251,15 @@ When it hides responsibility or adds confusion:
 ### When Passive Is Right
 
 **When the actor is unknown:**
+
 > "The building was constructed in 1890."
 
 **When the actor is unimportant:**
+
 > "The data was collected over three years."
 
 **When it maintains topic flow:**
+
 > "The project launched in January. It was funded by a small grant."
 
 Here, "it" (the project) stays in topic position.
@@ -268,9 +275,11 @@ Not "never use passive" but "choose active or passive deliberately."
 ### Explicit vs. Implicit Logic
 
 **Explicit (heavy):**
+
 > "First, I will discuss X. Second, I will examine Y. Third, I will consider Z."
 
 **Implicit (light):**
+
 > "Consider X. Now Y. And finally, Z."
 
 ### When to Signpost
@@ -304,6 +313,7 @@ Less information per sentence. Easier to process.
 ### Finding the Balance
 
 Match density to:
+
 - Reader expertise
 - Topic complexity
 - DNA document patterns
@@ -323,6 +333,7 @@ A distinctive voice that's unclear serves no one.
 ### DNA First, Clarity Second
 
 If the DNA document shows:
+
 - Dense, complex sentences → Allow density, but maintain structure
 - Sparse, simple sentences → Keep it light
 - Academic hedging → That's their voice; use it

@@ -26,10 +26,12 @@ Each platform has conventions shaped by how people use it. This guide covers pla
 
 **The Hook Line:**
 The first line must work before "see more":
+
 > "I got fired yesterday. Best thing that ever happened."
 
 **Line Breaks:**
 Use generous line breaks—one sentence per line is common:
+
 ```
 I spent 10 years chasing the wrong goal.
 
@@ -39,11 +41,13 @@ Here's what I learned.
 ```
 
 **Length:**
+
 - Short posts: 100-300 words
 - Standard posts: 300-700 words
 - Long posts: 700-1,300 words (max ~3,000 characters)
 
 **Structure:**
+
 - Hook
 - Short paragraphs (1-3 sentences)
 - Takeaway or question at end
@@ -51,12 +55,14 @@ Here's what I learned.
 ### Voice Adjustments
 
 **Do:**
+
 - Maintain DNA voice
 - Adapt to professional context
 - Use "I" (LinkedIn is personal)
 - Include specific details (numbers, outcomes)
 
 **Don't:**
+
 - Become generic "thought leader"
 - Lose personality for professionalism
 - Use corporate jargon unless DNA includes it
@@ -64,6 +70,7 @@ Here's what I learned.
 ### Closing
 
 End with:
+
 - A question that invites comments
 - A call to action (follow, share, DM)
 - A simple takeaway
@@ -83,22 +90,26 @@ End with:
 ### Format Conventions
 
 **Subject Line:**
+
 - Clear value or curiosity
 - Under 50 characters ideal
 - Match the DNA's tone
 
 **Opening:**
+
 - Often personal/direct
 - Acknowledge the reader relationship
 - Quick hook into content
 
 **Length:**
+
 - Quick update: 300-500 words
 - Standard issue: 600-1,000 words
 - Deep dive: 1,500-2,500 words
 
 **Structure:**
 Common patterns:
+
 - One big idea + exploration
 - 3-5 curated links with commentary
 - Personal reflection + lesson
@@ -107,12 +118,14 @@ Common patterns:
 ### Voice Adjustments
 
 **Do:**
+
 - Maintain DNA voice consistently across issues
 - Be more personal than other formats (they invited you)
 - Reference previous issues / running themes
 - Use subscriber's name if available and appropriate
 
 **Don't:**
+
 - Change voice issue to issue
 - Be overly formal (they subscribed to a person)
 - Forget the relationship aspect
@@ -120,6 +133,7 @@ Common patterns:
 ### Closing
 
 Consistent sign-off that becomes recognizable:
+
 - Signature phrase
 - CTA for reply/feedback
 - Preview of next issue
@@ -139,17 +153,20 @@ Consistent sign-off that becomes recognizable:
 ### Format Conventions
 
 **Single Tweets:**
+
 - Complete thought in 280 characters
 - No wasted words
 - Hook or insight or question
 
 **Threads:**
+
 - Tweet 1: Hook that stands alone
 - Subsequent tweets: One point each
 - Final tweet: Summary or CTA
 - Number them (1/, 2/, etc.) or use implicit flow
 
 **Thread Length:**
+
 - Short thread: 3-5 tweets
 - Standard thread: 6-10 tweets
 - Long thread: 11-15 tweets (max for retention)
@@ -157,11 +174,13 @@ Consistent sign-off that becomes recognizable:
 ### Voice Adjustments
 
 **Do:**
+
 - Compress DNA patterns (shorter sentences)
 - Keep distinctive voice markers
 - More direct, less qualified
 
 **Don't:**
+
 - Become generic Twitter voice
 - Lose the writer's personality
 - Over-thread (not everything needs 20 tweets)
@@ -169,6 +188,7 @@ Consistent sign-off that becomes recognizable:
 ### Techniques
 
 **The Hook Tweet:**
+
 > "I spent 5 years building the wrong thing. Here's what I wish I knew:"
 
 **The Thread Payoff:**
@@ -192,21 +212,25 @@ If thread isn't needed, make a great single tweet.
 ### Format Conventions
 
 **Headlines:**
+
 - Clear and specific
 - Promise value
 - Not clickbait (readers will know)
 
 **Opening:**
+
 - Can be more patient than blog
 - Readers expect substance
 - Hook still matters
 
 **Length:**
+
 - Short: 800-1,500 words
 - Standard: 1,500-3,000 words
 - Long: 3,000-6,000 words
 
 **Structure:**
+
 - Subheadings for navigation
 - Images break up text
 - Pull quotes for key insights
@@ -214,11 +238,13 @@ If thread isn't needed, make a great single tweet.
 ### Voice Adjustments
 
 **Do:**
+
 - Full expression of DNA voice
 - Depth over brevity
 - Personal perspective valued
 
 **Don't:**
+
 - Write thin content for a long-form platform
 - Pad for length
 - Forget platform readership
@@ -238,32 +264,38 @@ If thread isn't needed, make a great single tweet.
 ### Format Conventions
 
 **Subject:**
+
 - Specific to content
 - Not clickbait
 - Front-load key info
 
 **Opening:**
+
 - Brief context
 - Get to point quickly
 - Match relationship formality
 
 **Body:**
+
 - Short paragraphs
 - Bullets for lists
 - Bold key actions
 
 **Closing:**
+
 - Clear next step if applicable
 - Appropriate sign-off
 
 ### Voice Adjustments
 
 **Do:**
+
 - Match DNA voice to relationship context
 - Adjust formality to recipient
 - Be concise (email is interruption)
 
 **Don't:**
+
 - Over-perform for simple messages
 - Write essays when bullet points work
 - Forget the action item
@@ -283,12 +315,14 @@ If thread isn't needed, make a great single tweet.
 ### Format Conventions
 
 **Structure:**
+
 - Clear hierarchy (H1 → H2 → H3)
 - Table of contents for long docs
 - Consistent terminology
 - Examples for everything
 
 **Code Blocks:**
+
 ```
 // Clearly commented
 // Minimal but complete
@@ -296,6 +330,7 @@ If thread isn't needed, make a great single tweet.
 ```
 
 **Length:**
+
 - As long as needed
 - No longer
 - Split into pages if necessary
@@ -303,11 +338,13 @@ If thread isn't needed, make a great single tweet.
 ### Voice Adjustments
 
 **Do:**
+
 - Match DNA voice where possible
 - Maintain clarity over personality
 - Be consistent in terminology
 
 **Don't:**
+
 - Sacrifice accuracy for voice
 - Be so casual it's unclear
 - Ignore user's task focus
@@ -326,12 +363,14 @@ If thread isn't needed, make a great single tweet.
 ### Format Conventions
 
 **Show Notes:**
+
 - Episode summary
 - Key points / timestamps
 - Links mentioned
 - Guest info if applicable
 
 **Transcripts:**
+
 - Speaker labels
 - Minimal editing (preserve speech)
 - Headers for sections
@@ -348,6 +387,7 @@ If thread isn't needed, make a great single tweet.
 ### Voice Consistency Across Platforms
 
 The writer's voice should be recognizable across platforms, adapted but not transformed:
+
 - LinkedIn post sounds like the same person as their blog
 - Tweets are compressed, but same personality
 - Newsletter is same voice, more intimate
@@ -355,6 +395,7 @@ The writer's voice should be recognizable across platforms, adapted but not tran
 ### DNA Takes Priority
 
 If platform convention conflicts with DNA document:
+
 - DNA usually wins
 - Note the tension in draft notes
 - User can decide
@@ -362,11 +403,13 @@ If platform convention conflicts with DNA document:
 ### Adaptation vs. Abandonment
 
 **Adaptation (good):**
+
 - Shorter sentences for Twitter
 - More personal opening for newsletter
 - Professional framing for LinkedIn
 
 **Abandonment (bad):**
+
 - Losing all personality for LinkedIn
 - Becoming generic "thread person" on Twitter
 - Formality replacing warmth in email
@@ -375,11 +418,11 @@ If platform convention conflicts with DNA document:
 
 ## Quick Reference by Platform
 
-| Platform | Length | Tone | Key Convention |
-|----------|--------|------|----------------|
-| LinkedIn | 300-700 words | Professional-personal | Hook before "see more" |
-| Newsletter | 600-1,000 words | Personal, consistent | Subject line + relationship |
-| Twitter/X | 280 chars / thread | Direct, punchy | Hook tweet + clean thread |
-| Medium/Substack | 1,500-3,000 words | Full expression | Depth + subheadings |
-| Email | As short as possible | Context-appropriate | Clear action |
-| Technical docs | As needed | Clear over clever | Examples + structure |
+| Platform        | Length               | Tone                  | Key Convention              |
+| --------------- | -------------------- | --------------------- | --------------------------- |
+| LinkedIn        | 300-700 words        | Professional-personal | Hook before "see more"      |
+| Newsletter      | 600-1,000 words      | Personal, consistent  | Subject line + relationship |
+| Twitter/X       | 280 chars / thread   | Direct, punchy        | Hook tweet + clean thread   |
+| Medium/Substack | 1,500-3,000 words    | Full expression       | Depth + subheadings         |
+| Email           | As short as possible | Context-appropriate   | Clear action                |
+| Technical docs  | As needed            | Clear over clever     | Examples + structure        |

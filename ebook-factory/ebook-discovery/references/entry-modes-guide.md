@@ -454,18 +454,22 @@ When a user has massive content libraries (500+ blog posts, years of newsletters
 ### Sampling Approaches
 
 **Performance-based sampling:**
+
 - Start with top 10% by engagement metrics
 - Look for patterns in what resonated
 
 **Temporal sampling:**
+
 - Sample across different time periods
 - Look for evolution and recurring themes
 
 **Thematic sampling:**
+
 - Identify 3-5 major topic areas
 - Deep dive into each cluster separately
 
 **Recent + Classic:**
+
 - Look at last 6 months plus "evergreen" older pieces
 - Compare what you're saying now vs. then
 

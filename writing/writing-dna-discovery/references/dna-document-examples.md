@@ -30,11 +30,12 @@ The briefing should be specific enough that the ghost writer can follow it witho
 
 ## Example 1: Minimum Viable Profile (Blog Writer)
 
-*This represents the minimum acceptable profile for basic ghost writing. Good enough to produce recognizable output, but would benefit from deeper development.*
+_This represents the minimum acceptable profile for basic ghost writing. Good enough to produce recognizable output, but would benefit from deeper development._
 
 ---
 
 ### Voice DNA: Alex Chen
+
 **Mode:** Blog / Newsletter
 **Version:** 1 | Created: 2024-01-15 | Last Updated: 2024-01-15
 
@@ -47,11 +48,13 @@ The briefing should be specific enough that the ghost writer can follow it witho
 **Sentence Signature:** Short punchy sentences. Rarely more than 15 words. Paragraphs often end with 4-7 word statements.
 
 **Distinctive Moves:**
+
 - Opens sections with one-word or two-word sentences
 - Uses "Look," to begin paragraphs when getting serious
 - Ends paragraphs with concrete statements, not abstractions
 
 **Never Does:**
+
 - Long sentences with multiple clauses
 - Formal transitions ("Moreover," "Furthermore")
 - Hedging phrases ("It might be argued that...")
@@ -61,22 +64,23 @@ The briefing should be specific enough that the ghost writer can follow it witho
 #### Voice Profile
 
 **Sentence Level**
-*Status: Developed*
+_Status: Developed_
 
 Short and direct. Average sentence length is 10-12 words. Rarely exceeds 20 words. Often uses sentence fragments for emphasis ("Wrong." "Exactly." "Here's why.").
 
 Patterns:
+
 - Punchy closers at paragraph ends
 - One-word sentences for emphasis
 - Avoids compound sentences with multiple "and" conjunctions
 
 **Punctuation Personality**
-*Status: Emerging*
+_Status: Emerging_
 
 Uses em-dashes sparingly—for single dramatic pivots, not pairs. No semicolons. Light on commas.
 
 **Word Choice & Vocabulary**
-*Status: Developed*
+_Status: Developed_
 
 Anglo-Saxon preference: "start" not "commence," "help" not "facilitate," "end" not "terminate."
 
@@ -86,12 +90,12 @@ Avoided words: "utilize," "leverage," "impactful," "learnings"
 Contractions: Always. Never "do not" when "don't" works.
 
 **Tone & Attitude**
-*Status: Developed*
+_Status: Developed_
 
 Confident and direct. States opinions without "I think" qualifiers. Doesn't hedge. Warmth comes through in direct address and occasional self-deprecation, not through emotional language.
 
 **Reader Relationship**
-*Status: Emerging*
+_Status: Emerging_
 
 Heavy "you" usage. Speaks directly to reader. Assumes reader is smart but not expert. Never talks down.
 
@@ -99,14 +103,15 @@ Heavy "you" usage. Speaks directly to reader. Assumes reader is smart but not ex
 
 #### Anti-Patterns
 
-| Pattern to Avoid | Why It's Wrong for Them |
-|------------------|------------------------|
-| Long complex sentences | They never write past 20 words |
-| "However," "Moreover" | Too formal—always uses "But" |
-| Hedging ("perhaps," "arguably") | They assert directly |
-| Passive voice | Active voice only |
+| Pattern to Avoid                | Why It's Wrong for Them        |
+| ------------------------------- | ------------------------------ |
+| Long complex sentences          | They never write past 20 words |
+| "However," "Moreover"           | Too formal—always uses "But"   |
+| Hedging ("perhaps," "arguably") | They assert directly           |
+| Passive voice                   | Active voice only              |
 
 **AI Patterns to Suppress:**
+
 - [x] "It's important to note"
 - [x] "In conclusion"
 - [x] Significance puffery
@@ -121,6 +126,7 @@ Heavy "you" usage. Speaks directly to reader. Assumes reader is smart but not ex
 Direct, punchy, and warm. Like a smart friend explaining something over coffee—no BS, no jargon, just clear thinking. Gets to the point fast.
 
 **Do This:**
+
 - Keep sentences under 15 words
 - End paragraphs with punchy 4-7 word statements
 - Use "you" frequently—talk TO the reader
@@ -128,6 +134,7 @@ Direct, punchy, and warm. Like a smart friend explaining something over coffee�
 - State opinions directly without hedging
 
 **Don't Do This:**
+
 - No sentences over 20 words
 - No "However," "Moreover," "Furthermore"
 - No "I think" before opinions
@@ -135,6 +142,7 @@ Direct, punchy, and warm. Like a smart friend explaining something over coffee�
 - No "utilize," "leverage," "facilitate"
 
 **When Uncertain:**
+
 - Shorter is better
 - When in doubt, cut the adjective
 - If a sentence feels too long, split it
@@ -146,26 +154,29 @@ Direct, punchy, and warm. Like a smart friend explaining something over coffee�
 **Readiness Level:** Minimum Viable
 
 **Sample Base:**
+
 - 3 newsletter posts (~2500 words total)
 
 **Dimensions Needing Depth:**
+
 - Opening/closing moves
 - Humor approach
 - Signature elements
 
 ---
 
-*Annotation: This profile captures the essentials—sentence patterns, tone, anti-patterns. A ghost writer could produce recognizable output. But it's thin on signature elements, examples, and deeper dimensions. Good for a starting point; should be developed further.*
+_Annotation: This profile captures the essentials—sentence patterns, tone, anti-patterns. A ghost writer could produce recognizable output. But it's thin on signature elements, examples, and deeper dimensions. Good for a starting point; should be developed further._
 
 ---
 
 ## Example 2: Solid Profile (Non-Fiction Writer)
 
-*This represents a well-developed profile suitable for quality first drafts. The ghost writer has enough to work with for consistent, accurate output.*
+_This represents a well-developed profile suitable for quality first drafts. The ghost writer has enough to work with for consistent, accurate output._
 
 ---
 
 ### Voice DNA: Jordan Rivera
+
 **Mode:** Essay / Long-form Non-Fiction
 **Version:** 3 | Created: 2023-09-10 | Last Updated: 2024-02-20
 
@@ -178,12 +189,14 @@ Direct, punchy, and warm. Like a smart friend explaining something over coffee�
 **Sentence Signature:** Medium sentences (15-25 words) with occasional long complex sentences (30-40 words) for building arguments. Short sentences reserved for emphasis after complex points.
 
 **Distinctive Moves:**
+
 - Builds arguments through negation: "It's not X. It's not Y. It's Z."
 - Uses parenthetical asides for secondary observations (often ironic)
 - Ends sections with questions that open new territory
 - Opens with concrete scenes or observations, never abstractions
 
 **Never Does:**
+
 - Starts with "In today's world" or similar throat-clearing
 - Uses exclamation points (except in quoted dialogue)
 - Writes in second person (almost never addresses reader as "you")
@@ -194,7 +207,7 @@ Direct, punchy, and warm. Like a smart friend explaining something over coffee�
 #### Voice Profile
 
 **Sentence Level**
-*Status: Strong*
+_Status: Strong_
 
 Complex sentence architecture. Comfortable with dependent clauses, embedded qualifications, and parenthetical insertions. Sentences often have multiple parts but remain clear through careful punctuation and parallel structure.
 
@@ -203,10 +216,11 @@ Average: 20-22 words. Range: 6-45.
 Characteristic pattern: Complex sentence (25-35 words) → Short punch (5-10 words) → Medium elaboration (15-20 words).
 
 Example:
+
 > "The assumption that technology inevitably improves our lives—an assumption so pervasive we rarely pause to examine it—collapses under even minimal scrutiny. The evidence is everywhere. We simply choose not to see it."
 
 **Punctuation Personality**
-*Status: Strong*
+_Status: Strong_
 
 - Em-dashes: Moderate use, always for parenthetical insertions (pairs), rarely single
 - Semicolons: Regular use for connecting related independent clauses
@@ -215,14 +229,14 @@ Example:
 - Exclamation points: Never (would feel like shouting)
 
 **Paragraph & Structure**
-*Status: Developed*
+_Status: Developed_
 
 Longer paragraphs (5-8 sentences typical). Topic sentence usually first but sometimes delayed for effect. Paragraphs end with implications or questions, not summaries.
 
 Transitions through concept-bridging rather than explicit markers. Never uses "However" or "Moreover"—instead, repeats a key word from previous paragraph or uses "But" or "And" to open.
 
 **Word Choice & Vocabulary**
-*Status: Strong*
+_Status: Strong_
 
 Precise, somewhat elevated vocabulary. Comfortable with Latinate words when they're more precise ("epistemic" not "knowledge-related"). Avoids jargon but uses technical terms when appropriate, usually with subtle definition.
 
@@ -232,7 +246,7 @@ Avoided: "impactful," "journey," "space" (as in "the wellness space"), "navigate
 Contractions: Selective. Uses them in casual moments to shift register. Formal arguments typically avoid them.
 
 **Tone & Attitude**
-*Status: Strong*
+_Status: Strong_
 
 **Confidence:** High but not arrogant. States positions firmly but acknowledges limits of knowledge. Never hedges with "perhaps" or "arguably"—if uncertain, says so directly: "I don't know."
 
@@ -241,20 +255,22 @@ Contractions: Selective. Uses them in casual moments to shift register. Formal a
 **Authority stance:** Expert with humility. Teaches but doesn't lecture. Admits being wrong in the past. Positions self as someone who has thought carefully, not someone with final answers.
 
 **Opening & Closing Moves**
-*Status: Developed*
+_Status: Developed_
 
 **Openings:** Always concrete—a scene, observation, or example. Never opens with abstraction, thesis statement, or "In today's world." Thesis emerges from opening scene/example.
 
 Example opening:
+
 > "Last Tuesday, I watched a man cross three lanes of traffic while staring at his phone. He didn't die. I kept watching him until he disappeared around a corner, still looking down."
 
 **Closings:** Questions that open rather than summarize. Or concrete images that embody the argument. Never "In conclusion." Never restates thesis.
 
 Example closing:
+
 > "What would it mean to take that seriously? I'm not sure anyone knows. But I'm increasingly certain we'll have to find out."
 
 **Signature Elements**
-*Status: Developed*
+_Status: Developed_
 
 - **Negation builds:** "It's not X. It's not Y either. It's something else entirely."
 - **Parenthetical irony:** "(though calling it a 'solution' requires a certain optimism I can no longer muster)"
@@ -267,26 +283,27 @@ Example closing:
 
 > "We tend to imagine attention as a resource we spend—as if each of us wakes with a fixed amount, depleting it through the day like fuel in a tank. This metaphor is comforting but wrong. Attention isn't a quantity; it's a relationship. And like all relationships, it can be damaged in ways that defy simple accounting."
 >
-> — *Demonstrates: Thesis through negation, medium-long sentences, metaphor examined and discarded, colon before key statement*
+> — _Demonstrates: Thesis through negation, medium-long sentences, metaphor examined and discarded, colon before key statement_
 
 > "The trouble is not that we lack information—we are drowning in it—but that we have forgotten how to want less of it. (Or perhaps we never knew, and the scarcity that preceded abundance protected us from discovering our own appetites.)"
 >
-> — *Demonstrates: Parenthetical aside with ironic qualification, em-dash pairs, complex sentence with embedded clauses*
+> — _Demonstrates: Parenthetical aside with ironic qualification, em-dash pairs, complex sentence with embedded clauses_
 
 ---
 
 #### Anti-Patterns
 
-| Pattern to Avoid | Why It's Wrong for Them |
-|------------------|------------------------|
+| Pattern to Avoid              | Why It's Wrong for Them                       |
+| ----------------------------- | --------------------------------------------- |
 | "In today's fast-paced world" | Never opens with abstraction; always concrete |
-| Exclamation points | Would feel like shouting; voice is measured |
-| "You should..." | Rarely addresses reader directly |
-| Bullet-point lists | Always prose, even for complex ideas |
-| "In conclusion" | Never summarizes; ends with opening questions |
-| "Journey" (metaphorical) | Avoided cliché |
+| Exclamation points            | Would feel like shouting; voice is measured   |
+| "You should..."               | Rarely addresses reader directly              |
+| Bullet-point lists            | Always prose, even for complex ideas          |
+| "In conclusion"               | Never summarizes; ends with opening questions |
+| "Journey" (metaphorical)      | Avoided cliché                                |
 
 **AI Patterns to Suppress:**
+
 - [x] Significance puffery
 - [x] "It's important to note"
 - [x] "Despite challenges..." formula
@@ -302,6 +319,7 @@ Example closing:
 A precise, measured intellectual voice. Cool but not cold. Builds arguments carefully through observation, complication, and occasional pivot. Thinks on the page without rushing to conclusions. Takes ideas seriously but not himself.
 
 **Do This:**
+
 - Open with concrete scenes or observations
 - Build arguments through "It's not X, it's Y" structures
 - Use parenthetical asides for ironic qualifications
@@ -311,6 +329,7 @@ A precise, measured intellectual voice. Cool but not cold. Builds arguments care
 - Use colons before important statements
 
 **Don't Do This:**
+
 - Never open with abstractions or "In today's world"
 - Never use exclamation points
 - Avoid "you" and second person
@@ -320,6 +339,7 @@ A precise, measured intellectual voice. Cool but not cold. Builds arguments care
 - Don't rush to conclusions; complicate instead
 
 **When Uncertain:**
+
 - Prefer the more precise word even if longer
 - When making a point, first show what it's NOT
 - End with questions rather than statements
@@ -327,6 +347,7 @@ A precise, measured intellectual voice. Cool but not cold. Builds arguments care
 - Trust the reader to follow complexity
 
 **Structural Guidance:**
+
 - Paragraphs: 5-8 sentences, end with implications
 - Transitions: Through repeated concepts, not "However"
 - Overall: Open concrete → Build argument → Pivot/complicate → End with question
@@ -339,23 +360,25 @@ A precise, measured intellectual voice. Cool but not cold. Builds arguments care
 
 **Confidence Assessment:**
 
-| Dimension | Confidence |
-|-----------|-----------|
-| Sentence Level | High |
-| Punctuation | High |
-| Word Choice | High |
-| Tone | High |
-| Structure | Medium-High |
-| Signature Elements | Medium |
-| Anti-Patterns | High |
-| Ghost Writer Briefing | High |
+| Dimension             | Confidence  |
+| --------------------- | ----------- |
+| Sentence Level        | High        |
+| Punctuation           | High        |
+| Word Choice           | High        |
+| Tone                  | High        |
+| Structure             | Medium-High |
+| Signature Elements    | Medium      |
+| Anti-Patterns         | High        |
+| Ghost Writer Briefing | High        |
 
 **Sample Base:**
+
 - 5 published essays (15,000 words total)
 - 2 draft pieces (4,000 words)
 - Interview confirmation completed
 
 **Dimensions Needing Depth:**
+
 - Humor (present but not fully mapped)
 - How voice shifts by topic (politics vs. culture vs. tech)
 
@@ -363,25 +386,26 @@ A precise, measured intellectual voice. Cool but not cold. Builds arguments care
 
 #### Session History
 
-| Date | Version | Focus | Key Updates |
-|------|---------|-------|-------------|
-| 2023-09-10 | 1 | Initial discovery | Core patterns from 3 essays |
-| 2023-11-05 | 2 | Deep dive | Sentence architecture, signature elements |
-| 2024-02-20 | 3 | Refinement | Anti-patterns expanded, ghost writer testing |
+| Date       | Version | Focus             | Key Updates                                  |
+| ---------- | ------- | ----------------- | -------------------------------------------- |
+| 2023-09-10 | 1       | Initial discovery | Core patterns from 3 essays                  |
+| 2023-11-05 | 2       | Deep dive         | Sentence architecture, signature elements    |
+| 2024-02-20 | 3       | Refinement        | Anti-patterns expanded, ghost writer testing |
 
 ---
 
-*Annotation: This profile has depth across most dimensions. Sentence patterns are precisely captured with examples. Signature elements identified. Anti-patterns thorough. Ghost Writer Briefing is actionable. A ghost writer could produce accurate first drafts. Remaining gaps (humor, topic variation) could be developed in future sessions.*
+_Annotation: This profile has depth across most dimensions. Sentence patterns are precisely captured with examples. Signature elements identified. Anti-patterns thorough. Ghost Writer Briefing is actionable. A ghost writer could produce accurate first drafts. Remaining gaps (humor, topic variation) could be developed in future sessions._
 
 ---
 
 ## Example 3: Strong Profile (Fiction Writer)
 
-*This represents a fully developed profile with high confidence across dimensions. Register-specific elements captured. Ready for high-accuracy ghost writing.*
+_This represents a fully developed profile with high confidence across dimensions. Register-specific elements captured. Ready for high-accuracy ghost writing._
 
 ---
 
 ### Voice DNA: Casey Morgan
+
 **Mode:** Fiction (Literary Short Stories)
 **Version:** 5 | Created: 2023-04-20 | Last Updated: 2024-03-10
 
@@ -394,6 +418,7 @@ A precise, measured intellectual voice. Cool but not cold. Builds arguments care
 **Sentence Signature:** Medium-length declarative sentences. Subject-verb-object structure. Minimal adjectives. Heavy on concrete nouns and active verbs. Rhythm: regular pulse with occasional pauses created by fragments.
 
 **Distinctive Moves:**
+
 - Describes emotional states through physical sensations
 - Uses object details as emotional indicators
 - Dialogue without tags—action beats only
@@ -401,6 +426,7 @@ A precise, measured intellectual voice. Cool but not cold. Builds arguments care
 - Present tense throughout
 
 **Never Does:**
+
 - Adverbs (especially in dialogue: "she said angrily")
 - Elaborate metaphors or similes
 - Interior monologue in quotes
@@ -412,7 +438,7 @@ A precise, measured intellectual voice. Cool but not cold. Builds arguments care
 #### Voice Profile
 
 **Sentence Level**
-*Status: Strong*
+_Status: Strong_
 
 Declarative, subject-verb-object dominant. Average 12-16 words. Maximum rarely exceeds 25. Almost never starts with dependent clauses.
 
@@ -421,7 +447,7 @@ Minimal modification—one adjective maximum per noun, and often zero. Prefers n
 Fragments used for rhythm: Complete sentence. Fragment. Complete sentence.
 
 **Punctuation Personality**
-*Status: Strong*
+_Status: Strong_
 
 - Periods dominate. Short sentences separated by periods, not linked by commas.
 - Em-dashes rare. Used only for interrupted dialogue or thought.
@@ -430,7 +456,7 @@ Fragments used for rhythm: Complete sentence. Fragment. Complete sentence.
 - Quotation marks for dialogue only. Never for emphasis or "scare quotes."
 
 **Word Choice & Vocabulary**
-*Status: Strong*
+_Status: Strong_
 
 **Nouns:** Concrete, specific, physical. "The kitchen" not "the room." "Coffee" not "drink." "Oak" not "tree."
 
@@ -444,7 +470,7 @@ Favorite verbs: "pressed," "shifted," "held," "watched," "waited"
 Avoided: anything that tells rather than shows feeling
 
 **Paragraph & Structure**
-*Status: Strong*
+_Status: Strong_
 
 Short paragraphs in scenes—often 2-3 sentences. Longer paragraphs (5-7 sentences) only for sustained description.
 
@@ -457,7 +483,7 @@ Dialogue: Own paragraph for each speaker. Action beats instead of tags. No "he s
 #### Register-Specific: Fiction Elements
 
 **Narrative Distance**
-*Status: Strong*
+_Status: Strong_
 
 Close third, limited. Single POV character per scene. Never enters other characters' heads. POV character's sensations and observations only—no omniscient insights.
 
@@ -466,7 +492,7 @@ Interior thoughts: Rendered directly without italics or "she thought." Blend int
 > "She watched him leave. He would not come back. She knew this the way she knew rain was coming—something in the pressure, the quality of light."
 
 **Dialogue Style**
-*Status: Strong*
+_Status: Strong_
 
 - **Tags:** Avoided. "Said" only when necessary. Never adverb-modified.
 - **Beats:** Physical actions between lines.
@@ -474,6 +500,7 @@ Interior thoughts: Rendered directly without italics or "she thought." Blend int
 - **Dialect:** Never rendered phonetically. Register shifts through word choice.
 
 Example:
+
 > "You're leaving." She set her cup in the sink.
 >
 > "I have to."
@@ -487,7 +514,7 @@ Example:
 > She turned off the water.
 
 **Description Density**
-*Status: Strong*
+_Status: Strong_
 
 Sparse. Only details that matter—emotionally or for action. No atmospheric scene-setting for its own sake.
 
@@ -496,9 +523,10 @@ Objects carry weight. If an object is described, it matters. Chekhov's gun, alwa
 Physical over abstract. Weather is physical: "Rain hit the windows" not "It was a stormy night."
 
 **Interiority Access**
-*Status: Strong*
+_Status: Strong_
 
 Limited. Physical sensations used for emotional states:
+
 - Anger: "Her jaw tightened."
 - Fear: "Something cold moved through her chest."
 - Sadness: "The weight settled behind her eyes."
@@ -511,11 +539,11 @@ Never names the emotion directly in narration. The reader infers.
 
 > "She found him in the kitchen. He was holding a cup of coffee that had gone cold. She could tell by the way he held it—not drinking, just holding. The morning light came through the window and fell across his hands."
 >
-> — *Demonstrates: Concrete nouns, object as emotional indicator, physical detail carrying meaning, close third limited, no stated feelings*
+> — _Demonstrates: Concrete nouns, object as emotional indicator, physical detail carrying meaning, close third limited, no stated feelings_
 
 > "They didn't talk about it. They talked about other things—the weather, the neighbor's dog, whether the gutters needed cleaning. The other thing stayed between them, a weight neither of them would lift."
 >
-> — *Demonstrates: Subtext, what's not said, emotional weight through metaphor (rare but controlled), dialogue summary rather than scene*
+> — _Demonstrates: Subtext, what's not said, emotional weight through metaphor (rare but controlled), dialogue summary rather than scene_
 
 > "'I saw your mother yesterday.'
 >
@@ -525,23 +553,24 @@ Never names the emotion directly in narration. The reader infers.
 >
 > He nodded. His hands stayed on the newspaper. She watched his hands."
 >
-> — *Demonstrates: Dialogue without tags, action beats, subtext, period instead of question mark for flat question, physical focus*
+> — _Demonstrates: Dialogue without tags, action beats, subtext, period instead of question mark for flat question, physical focus_
 
 ---
 
 #### Anti-Patterns
 
-| Pattern to Avoid | Why It's Wrong for Them |
-|------------------|------------------------|
-| Adverbs on dialogue | "Said quietly" etc.—never |
-| Naming emotions | "She felt sad"—never; show physically |
-| Metaphor clusters | One metaphor maximum per page |
-| Backstory dumps | Information emerges through action/dialogue |
-| Omniscient insights | Strict POV limits |
-| Phonetic dialect | "Gonna" "wanna"—never |
-| Italics for thoughts | Thoughts blend into narration |
+| Pattern to Avoid     | Why It's Wrong for Them                     |
+| -------------------- | ------------------------------------------- |
+| Adverbs on dialogue  | "Said quietly" etc.—never                   |
+| Naming emotions      | "She felt sad"—never; show physically       |
+| Metaphor clusters    | One metaphor maximum per page               |
+| Backstory dumps      | Information emerges through action/dialogue |
+| Omniscient insights  | Strict POV limits                           |
+| Phonetic dialect     | "Gonna" "wanna"—never                       |
+| Italics for thoughts | Thoughts blend into narration               |
 
 **AI Patterns to Suppress:**
+
 - [x] Evaluative adjectives ("terrible," "wonderful")
 - [x] Adverbs (especially on dialogue)
 - [x] Explaining feelings
@@ -558,6 +587,7 @@ Never names the emotion directly in narration. The reader infers.
 Restrained literary realism. Hemingway's iceberg—most meaning is below the surface. Physical details carry emotional weight. Characters act and speak; their feelings are inferred, not stated. Every sentence earns its place.
 
 **Do This:**
+
 - Physical details: concrete nouns, active verbs
 - Show emotion through sensation: "Her chest tightened"
 - Dialogue without tags—action beats between lines
@@ -567,6 +597,7 @@ Restrained literary realism. Hemingway's iceberg—most meaning is below the sur
 - Present tense
 
 **Don't Do This:**
+
 - No adverbs, especially on dialogue tags
 - Never name emotions: no "she felt angry"
 - No elaborate metaphors or similes
@@ -577,6 +608,7 @@ Restrained literary realism. Hemingway's iceberg—most meaning is below the sur
 - No italics for interior thoughts
 
 **When Uncertain:**
+
 - Cut the adjective
 - Cut the adverb
 - Make it physical, not abstract
@@ -584,12 +616,14 @@ Restrained literary realism. Hemingway's iceberg—most meaning is below the sur
 - If in doubt, the character doesn't say it—subtext
 
 **Sentence-Level Guidance:**
+
 - Average: 12-16 words
 - Structure: Subject-verb-object dominant
 - Fragments: After complete sentences for emphasis
 - Rhythm: Regular pulse with occasional pauses
 
 **Dialogue Guidance:**
+
 - No tags when speaker is clear
 - "Said" only when necessary, never modified
 - Action beats between lines
@@ -603,19 +637,20 @@ Restrained literary realism. Hemingway's iceberg—most meaning is below the sur
 
 **Confidence Assessment:**
 
-| Dimension | Confidence |
-|-----------|-----------|
-| Sentence Level | High |
-| Punctuation | High |
-| Word Choice | High |
-| Narrative Distance | High |
-| Dialogue Style | High |
-| Description | High |
-| Interiority | High |
-| Anti-Patterns | High |
-| Ghost Writer Briefing | High |
+| Dimension             | Confidence |
+| --------------------- | ---------- |
+| Sentence Level        | High       |
+| Punctuation           | High       |
+| Word Choice           | High       |
+| Narrative Distance    | High       |
+| Dialogue Style        | High       |
+| Description           | High       |
+| Interiority           | High       |
+| Anti-Patterns         | High       |
+| Ghost Writer Briefing | High       |
 
 **Sample Base:**
+
 - 7 published short stories (35,000 words)
 - 3 story drafts (12,000 words)
 - 2 interview sessions
@@ -626,17 +661,17 @@ Restrained literary realism. Hemingway's iceberg—most meaning is below the sur
 
 #### Session History
 
-| Date | Version | Focus | Key Updates |
-|------|---------|-------|-------------|
-| 2023-04-20 | 1 | Initial discovery | Core patterns from 3 stories |
-| 2023-06-15 | 2 | Deep dive | Dialogue style, interiority |
-| 2023-09-01 | 3 | Refinement | Anti-patterns, description density |
-| 2024-01-10 | 4 | Ghost writer test | Feedback integration |
-| 2024-03-10 | 5 | Polish | Final validation |
+| Date       | Version | Focus             | Key Updates                        |
+| ---------- | ------- | ----------------- | ---------------------------------- |
+| 2023-04-20 | 1       | Initial discovery | Core patterns from 3 stories       |
+| 2023-06-15 | 2       | Deep dive         | Dialogue style, interiority        |
+| 2023-09-01 | 3       | Refinement        | Anti-patterns, description density |
+| 2024-01-10 | 4       | Ghost writer test | Feedback integration               |
+| 2024-03-10 | 5       | Polish            | Final validation                   |
 
 ---
 
-*Annotation: This is a fully developed profile ready for high-accuracy ghost writing. All dimensions have high confidence. Register-specific elements (fiction) are thoroughly captured. Multiple examples demonstrate each pattern. Anti-patterns are comprehensive. The profile has been validated against actual ghost writer output and refined based on feedback. This is the target state for Voice DNA Documents.*
+_Annotation: This is a fully developed profile ready for high-accuracy ghost writing. All dimensions have high confidence. Register-specific elements (fiction) are thoroughly captured. Multiple examples demonstrate each pattern. Anti-patterns are comprehensive. The profile has been validated against actual ghost writer output and refined based on feedback. This is the target state for Voice DNA Documents._
 
 ---
 

@@ -50,9 +50,11 @@ The music of their prose—how sentences flow, where emphasis lands, the relatio
 - "Do you consciously vary your sentence length, or does it happen naturally?"
 
 **Strong Capture Example:**
+
 > "Favors medium-length sentences (12-20 words) punctuated by occasional single-clause punches (4-7 words) for emphasis. End-weighted structure—saves the key word for the final position. Rarely uses compound sentences with 'and'; prefers sequences of shorter sentences."
 
 **Weak Capture Example:**
+
 > "Uses varied sentence lengths." (Too vague—applies to everyone)
 
 ---
@@ -88,9 +90,11 @@ Their relationship with punctuation—which marks they favor, avoid, and how the
 - "Do you use parenthetical asides?"
 
 **Strong Capture Example:**
+
 > "Heavy em-dash user—deploys them for parenthetical insertions (pairs) and dramatic pivots (singles). Never uses semicolons. Light comma usage; prefers shorter sentences to heavy comma-separated clauses. Exclamation points only in dialogue, never in prose."
 
 **Weak Capture Example:**
+
 > "Uses standard punctuation." (Meaningless)
 
 ---
@@ -123,6 +127,7 @@ How they begin sentences—a subtle but distinctive fingerprint.
 - "Do you consciously vary your sentence openings?"
 
 **Strong Capture Example:**
+
 > "Rarely starts with 'I' (less than 5% of sentences). Frequently uses 'And' to begin sentences for rhythm. Avoids formal transitions ('However,' 'Moreover')—prefers 'But' for contrast. Often opens with concrete nouns or action verbs."
 
 ---
@@ -149,6 +154,7 @@ How they build paragraphs—length, internal logic, topic sentence placement.
 - "How long do your paragraphs tend to run?"
 
 **Strong Capture Example:**
+
 > "Short paragraphs (2-4 sentences typical). Topic sentence usually first, but occasionally saves the point for a punchline ending. Uses single-sentence paragraphs liberally for emphasis—often follows a longer paragraph with a one-liner that lands the point."
 
 ---
@@ -173,6 +179,7 @@ How they move between ideas and sections.
 - "How do you signal to readers that you're shifting topics?"
 
 **Strong Capture Example:**
+
 > "Avoids formal transitions entirely—no 'However,' 'Moreover,' 'Furthermore.' Creates flow through repeated concepts and question-answer patterns. Uses paragraph breaks liberally rather than transitional phrases. Occasionally deploys 'But' for sharp contrast."
 
 ---
@@ -198,6 +205,7 @@ How they begin pieces—the hook, the first impression.
 - "What makes a good opening for you?"
 
 **Strong Capture Example:**
+
 > "Opens with concrete action or image—never with context-setting or throat-clearing. First sentence is always short (under 10 words). Avoids questions as openers. Anecdotes are rare; prefers observation or assertion."
 
 ---
@@ -223,6 +231,7 @@ How they end pieces—the last impression.
 - "Do you ever call back to your opening?"
 
 **Strong Capture Example:**
+
 > "Ends with concrete image or action, not abstraction. Never summarizes or restates the point. Occasional callbacks to opening for structural satisfaction. Avoids calls to action except in explicitly promotional content."
 
 ---
@@ -249,6 +258,7 @@ The flavor of their word choices—simple or complex, concrete or abstract, narr
 - "How technical or specialized does your vocabulary get?"
 
 **Strong Capture Example:**
+
 > "Strongly Anglo-Saxon—prefers 'start' to 'commence,' 'help' to 'facilitate,' 'end' to 'terminate.' Concrete and specific: names things precisely rather than using generic terms. Vocabulary is narrow but intentional—repeats key words rather than synonym-swapping."
 
 ---
@@ -272,6 +282,7 @@ Their verbal fingerprints—words and phrases they return to.
 - "Are there words that just feel like 'you'?"
 
 **Strong Capture Example:**
+
 > "Returns to: 'actually,' 'genuinely,' 'the thing is.' Uses 'look' as a paragraph opener when being direct. Favors 'but' over 'however,' 'so' over 'therefore.' Characteristic construction: 'The point isn't X, it's Y.'"
 
 ---
@@ -295,6 +306,7 @@ Words they consciously or unconsciously avoid—often more distinctive than favo
 - "Are there clichés you refuse to use?"
 
 **Strong Capture Example:**
+
 > "Never uses: 'utilize' (always 'use'), 'leverage' (too corporate), 'impactful' (fake word), 'learnings' (plural that shouldn't exist). Avoids: 'very' (too vague), 'really' (unless in dialogue), 'just' (weakens statements)."
 
 ---
@@ -318,6 +330,7 @@ Their use of contractions—a major tone indicator.
 - "Are there specific contractions you avoid?"
 
 **Strong Capture Example:**
+
 > "Heavy contraction user—'don't,' 'won't,' 'isn't,' 'I'm,' 'you're' throughout. Never uses 'cannot' (always 'can't'). Exception: avoids contractions in formal argument moments for emphasis ('This is not acceptable' vs. 'This isn't acceptable')."
 
 ---
@@ -343,6 +356,7 @@ The warmth or coolness of their prose—their baseline emotional register.
 - "When do you let emotion in, and when do you stay analytical?"
 
 **Strong Capture Example:**
+
 > "Warm but measured. Personal anecdotes appear once or twice per piece. Uses 'I' comfortably but not excessively. Shows enthusiasm through specific detail rather than exclamation. Avoids sentimentality; prefers understated emotion."
 
 ---
@@ -366,6 +380,7 @@ How they assert vs. hedge—their relationship with uncertainty.
 - "Do you say 'I think' before opinions, or just state them?"
 
 **Strong Capture Example:**
+
 > "States opinions directly without 'I think' qualifiers. Hedges only on genuinely uncertain claims. Never uses 'arguably' or 'somewhat.' Uses 'might' sparingly and specifically. Certainty comes through assertion, not through words like 'clearly' or 'obviously.'"
 
 ---
@@ -390,6 +405,7 @@ Where they sit on the formal-casual spectrum.
 - "Are you comfortable with slang or colloquialisms?"
 
 **Strong Capture Example:**
+
 > "Conversational but not sloppy. Uses contractions freely, addresses reader directly, but avoids slang. Sentences are clear and accessible, never academic. Would never write 'heretofore' but also wouldn't write 'gonna.'"
 
 ---
@@ -413,6 +429,7 @@ If and how they use humor.
 - "When does humor appear—throughout, or at specific moments?"
 
 **Strong Capture Example:**
+
 > "Dry wit appears in parenthetical asides, never as the main focus. Self-deprecating when sharing personal failures. Avoids puns and wordplay. Humor is always in service of a point, never just for laughs. Sarcasm is rare and subtle."
 
 ---
@@ -436,6 +453,7 @@ How they position themselves relative to the reader.
 - "How much do you admit uncertainty or learning?"
 
 **Strong Capture Example:**
+
 > "Guide stance—more experienced than the reader but not lecturing from above. Shares personal mistakes freely. Uses 'we' to include reader in shared challenges. Authoritative on specific claims but humble about broader questions."
 
 ---
@@ -461,6 +479,7 @@ How much "I" shows up and in what contexts.
 - "Do you ever avoid 'I' intentionally?"
 
 **Strong Capture Example:**
+
 > "Moderate 'I' usage—present but not dominant. Uses 'I' for experiences and specific opinions, not for obvious observations ('I think the sky is blue'). Occasionally writes 'we' to include reader. Never uses impersonal constructions ('one might argue') as 'I' substitute."
 
 ---
@@ -484,6 +503,7 @@ Their direct address of the reader.
 - "Do you ask your readers questions?"
 
 **Strong Capture Example:**
+
 > "Direct 'you' address throughout—conversational relationship with reader. Occasional imperatives ('Consider...', 'Notice...') but not bossy. Asks rhetorical questions to engage reader thinking. Never uses 'one' as formal 'you' substitute."
 
 ---
@@ -507,6 +527,7 @@ What they assume readers know—the implicit contract.
 - "Do you write for beginners, experts, or somewhere between?"
 
 **Strong Capture Example:**
+
 > "Assumes reader is intelligent but not expert. Explains industry jargon on first use but doesn't over-explain common concepts. References (books, ideas, people) are often unexplained—trusts reader to look them up if curious. Doesn't talk down."
 
 ---
@@ -532,6 +553,7 @@ Things they do that are recognizably theirs—their fingerprints.
 - "What would a parody of your writing exaggerate?"
 
 **Strong Capture Example:**
+
 > "Ends paragraphs with concrete images, not abstractions. Uses em-dashes as rhythm tool, not parenthetical. Opens sections with single-word sentences. Makes lists in running prose rather than bullet points. Tendency to build arguments through negation: 'It's not X. It's not Y. It's Z.'"
 
 ---
@@ -549,6 +571,7 @@ Phrases they return to repeatedly—verbal habits.
 - Habitual constructions
 
 **Strong Capture Example:**
+
 > "'The thing is...' (to introduce key point), 'Here's what I mean' (to introduce example), 'Look' (paragraph opener for directness), 'Not to mention...' (to add secondary point), 'But here's the problem' (to introduce complication)."
 
 ---
@@ -566,6 +589,7 @@ Unconscious patterns—things they might not realize they do.
 - Punctuation quirks
 
 **Strong Capture Example:**
+
 > "Starts many sentences with 'And' or 'But' without realizing frequency. Tends toward three-beat rhythms in lists. Uses comma before 'too' at end of sentences. Puts 'actually' mid-sentence rather than at start."
 
 ---
@@ -590,6 +614,7 @@ Patterns, structures, words they avoid—as distinctive as what they do.
 - "Are there rules you consciously break?"
 
 **Strong Capture Example:**
+
 > "Never uses passive voice except for specific emphasis. Never starts with 'In conclusion' or 'In summary.' Avoids semicolons entirely. Never uses 'utilize' (always 'use'). Won't write numbered lists in running prose. Never addresses reader as 'dear reader.'"
 
 ---
@@ -600,6 +625,7 @@ Patterns, structures, words they avoid—as distinctive as what they do.
 Patterns that would break the spell—make readers think "that doesn't sound like them."
 
 **Strong Capture Example:**
+
 > "Excessive formality would feel off—'heretofore,' 'subsequently,' 'pursuant to.' Sentimental language would jar—'touched my heart,' 'brought tears to my eyes.' Corporate jargon would be wrong—'leverage,' 'synergize,' 'circle back.' Heavy hedging would feel unlike them—'arguably,' 'it might be suggested.'"
 
 ---

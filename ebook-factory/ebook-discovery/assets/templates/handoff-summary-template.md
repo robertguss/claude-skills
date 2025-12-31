@@ -68,4 +68,4 @@
 
 ---
 
-*This candidate is ready for the Ebook Concept Development skill.*
+_This candidate is ready for the Ebook Concept Development skill._

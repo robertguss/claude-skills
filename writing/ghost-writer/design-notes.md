@@ -230,43 +230,33 @@ The ghost writer must avoid these AI tells. Full details in `writing-dna-discove
 ### The 11 Pattern Categories
 
 1. **Significance Puffery**
-
    - "stands as a testament," "plays a vital role," "underscores its importance"
 
 2. **Superficial Analysis**
-
    - "-ing" phrases: "highlighting," "emphasizing," "reflecting," "showcasing"
 
 3. **Promotional Language**
-
    - "rich tapestry," "nestled," "in the heart of," "vibrant," "stunning"
 
 4. **Formulaic Structures**
-
    - "It's important to note," "Despite challenges...," "In conclusion"
 
 5. **Hedging Patterns**
-
    - "various," "numerous," "significant," "some critics argue"
 
 6. **Elegant Variation**
-
    - Excessive synonym-swapping from repetition penalty
 
 7. **Rule of Three Overuse**
-
    - Every list having exactly three items
 
 8. **False Ranges**
-
    - "from X to Y" constructions without real scale
 
 9. **Negative Parallelisms**
-
    - "Not only... but also" without genuine contrast
 
 10. **Common AI Words**
-
     - "delve," "navigate," "landscape," "multifaceted," "utilize," "leverage"
 
 11. **Structural Tells**
@@ -401,21 +391,18 @@ ghost-writer/
 ### Key Behaviors to Implement
 
 1. **DNA Document Parsing**
-
    - Extract Ghost Writer Briefing section
    - Identify readiness level
    - Build pattern checklist from Do/Don't sections
    - Note anti-patterns to suppress
 
 2. **Generation Mode**
-
    - Apply sentence-level guidance
    - Follow structural guidance
    - Check against anti-patterns continuously
    - Use "When Uncertain" rules for ambiguous cases
 
 3. **Quality Assurance**
-
    - Scan output for AI patterns
    - Verify adherence to documented patterns
    - Flag confidence level

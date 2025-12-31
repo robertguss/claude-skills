@@ -21,21 +21,23 @@ The subject receives the action rather than performing it.
 
 **Examples:**
 
-| Passive | Active |
-|---------|--------|
+| Passive                           | Active                     |
+| --------------------------------- | -------------------------- |
 | The book was read by the students | The students read the book |
-| Mistakes were made | We made mistakes |
-| The decision was reached | We reached a decision |
-| It was determined that | We determined |
-| The data is shown in Figure 1 | Figure 1 shows the data |
+| Mistakes were made                | We made mistakes           |
+| The decision was reached          | We reached a decision      |
+| It was determined that            | We determined              |
+| The data is shown in Figure 1     | Figure 1 shows the data    |
 
 **Why It's Weak:**
+
 - Obscures who is acting
 - Adds words
 - Reduces directness
 - Can feel evasive ("mistakes were made")
 
 **When Passive Is Fine:**
+
 - Actor unknown: "The building was constructed in 1885"
 - Actor unimportant: "The samples were collected over three months"
 - Deliberate emphasis on recipient: "Kennedy was assassinated"
@@ -52,18 +54,19 @@ Turning verbs into nouns, often adding wordiness.
 
 **Examples:**
 
-| Nominalized | Verbal |
-|-------------|--------|
-| made a decision | decided |
+| Nominalized                | Verbal       |
+| -------------------------- | ------------ |
+| made a decision            | decided      |
 | conducted an investigation | investigated |
-| gave a presentation | presented |
-| reached an agreement | agreed |
-| made an improvement | improved |
-| provided an explanation | explained |
-| performed an analysis | analyzed |
-| achieved a reduction | reduced |
+| gave a presentation        | presented    |
+| reached an agreement       | agreed       |
+| made an improvement        | improved     |
+| provided an explanation    | explained    |
+| performed an analysis      | analyzed     |
+| achieved a reduction       | reduced      |
 
 **Why It's Weak:**
+
 - Adds words
 - Buries the action
 - Creates abstract, bureaucratic tone
@@ -83,6 +86,7 @@ Find the buried verb. Use it directly.
 Words that soften statements, reduce commitment.
 
 **Common Hedge Words:**
+
 - very
 - really
 - quite
@@ -107,21 +111,23 @@ Words that soften statements, reduce commitment.
 
 **Examples:**
 
-| Hedged | Direct |
-|--------|--------|
-| It seems to be very important | It's important |
-| I think this is basically the issue | This is the issue |
-| The results were quite significant | The results were significant |
-| It's sort of a problem | It's a problem |
-| She tends to be rather late | She's often late |
+| Hedged                              | Direct                       |
+| ----------------------------------- | ---------------------------- |
+| It seems to be very important       | It's important               |
+| I think this is basically the issue | This is the issue            |
+| The results were quite significant  | The results were significant |
+| It's sort of a problem              | It's a problem               |
+| She tends to be rather late         | She's often late             |
 
 **Why They're Weak:**
+
 - Undermine confidence
 - Add words without meaning
 - Make writer seem uncertain
 - Dilute impact
 
 **When Hedging Is Appropriate:**
+
 - Genuine uncertainty: "The data suggests..." (when you can't prove)
 - Appropriate caution: "In some cases..."
 - DNA document shows hedging is part of voice
@@ -137,6 +143,7 @@ Cut the hedge. Make the claim. If you can't make it confidently, reconsider whet
 Introductory phrases that delay the point.
 
 **Examples:**
+
 - "In order to understand X, we must first consider..."
 - "When it comes to X, there are many things to say..."
 - "It goes without saying that..."
@@ -149,6 +156,7 @@ Introductory phrases that delay the point.
 - "In this article/essay/piece..."
 
 **Why They're Weak:**
+
 - Delay the point
 - State the obvious
 - Sound generic
@@ -170,6 +178,7 @@ Or even better: Start with something specific and interesting.
 Verbs that don't carry meaning, often requiring adverbs.
 
 **Weak Verbs:**
+
 - is/was/were/be
 - has/have/had
 - get/got
@@ -179,17 +188,18 @@ Verbs that don't carry meaning, often requiring adverbs.
 
 **Examples:**
 
-| Weak | Strong |
-|------|--------|
-| walked quickly | strode / hurried / rushed |
-| said loudly | shouted / bellowed / exclaimed |
-| looked at angrily | glared |
-| is important | matters |
-| get better | improve / recover |
-| make a change | change / alter / revise |
-| had an impact | affected / influenced / shaped |
+| Weak              | Strong                         |
+| ----------------- | ------------------------------ |
+| walked quickly    | strode / hurried / rushed      |
+| said loudly       | shouted / bellowed / exclaimed |
+| looked at angrily | glared                         |
+| is important      | matters                        |
+| get better        | improve / recover              |
+| make a change     | change / alter / revise        |
+| had an impact     | affected / influenced / shaped |
 
 **Why They're Weak:**
+
 - Don't paint pictures
 - Require adverbs to do the work
 - Feel generic
@@ -206,17 +216,18 @@ Relying on adverbs to do work the verb should do.
 
 **Examples:**
 
-| Adverb-Dependent | Strong Verb |
-|------------------|-------------|
-| ran quickly | sprinted / dashed |
-| talked quietly | whispered / murmured |
-| fell suddenly | plummeted / dropped |
-| ate quickly | devoured / wolfed |
-| worked hard | labored / toiled |
-| very big | enormous / massive |
-| really tired | exhausted |
+| Adverb-Dependent | Strong Verb          |
+| ---------------- | -------------------- |
+| ran quickly      | sprinted / dashed    |
+| talked quietly   | whispered / murmured |
+| fell suddenly    | plummeted / dropped  |
+| ate quickly      | devoured / wolfed    |
+| worked hard      | labored / toiled     |
+| very big         | enormous / massive   |
+| really tired     | exhausted            |
 
 **Why It's Weak:**
+
 - Two words doing one word's job
 - Shows lazy word choice
 - Reduces impact
@@ -233,24 +244,25 @@ Saying the same thing twice.
 
 **Examples:**
 
-| Redundant | Clean |
-|-----------|-------|
-| past history | history |
-| future plans | plans |
-| true fact | fact |
-| end result | result |
-| free gift | gift |
-| completely unanimous | unanimous |
-| advance planning | planning |
-| new innovation | innovation |
-| basic fundamentals | fundamentals |
-| final outcome | outcome |
-| join together | join |
-| repeat again | repeat |
-| postpone until later | postpone |
-| surrounded on all sides | surrounded |
+| Redundant               | Clean        |
+| ----------------------- | ------------ |
+| past history            | history      |
+| future plans            | plans        |
+| true fact               | fact         |
+| end result              | result       |
+| free gift               | gift         |
+| completely unanimous    | unanimous    |
+| advance planning        | planning     |
+| new innovation          | innovation   |
+| basic fundamentals      | fundamentals |
+| final outcome           | outcome      |
+| join together           | join         |
+| repeat again            | repeat       |
+| postpone until later    | postpone     |
+| surrounded on all sides | surrounded   |
 
 **Why It's Weak:**
+
 - Wastes words
 - Shows careless thinking
 - Undermines trust in precision
@@ -267,15 +279,16 @@ Sentences starting with "It is," "There is," or "There are" when these words don
 
 **Examples:**
 
-| Expletive | Direct |
-|-----------|--------|
-| There are many people who believe | Many people believe |
-| It is important that we consider | We should consider |
-| There is a need for improvement | Improvement is needed / We need to improve |
-| It was decided that | We decided |
-| There exists a possibility | A possibility exists / X might happen |
+| Expletive                         | Direct                                     |
+| --------------------------------- | ------------------------------------------ |
+| There are many people who believe | Many people believe                        |
+| It is important that we consider  | We should consider                         |
+| There is a need for improvement   | Improvement is needed / We need to improve |
+| It was decided that               | We decided                                 |
+| There exists a possibility        | A possibility exists / X might happen      |
 
 **Why They're Weak:**
+
 - Delay the true subject
 - Add words
 - Create passive feel
@@ -291,14 +304,17 @@ Find the real subject. Start with it.
 Chains of prepositional phrases that clutter sentences.
 
 **Example:**
+
 > "The book on the table in the corner of the room by the window near the door was old."
 
 **Why It's Weak:**
+
 - Hard to parse
 - Buries main elements
 - Creates choppy rhythm
 
 **Fix:**
+
 - Break into multiple sentences
 - Restructure to reduce prepositions
 - Choose more specific nouns
@@ -313,17 +329,20 @@ Chains of prepositional phrases that clutter sentences.
 Combining incompatible figurative images.
 
 **Examples:**
+
 - "We need to get all our ducks on the same page"
 - "He's burning the midnight oil at both ends"
 - "That's a tough road to swallow"
 - "Let's nip this in the bud before it snowballs"
 
 **Why They're Weak:**
+
 - Create absurd mental images
 - Distract from meaning
 - Undermine credibility
 
 **Fix:**
+
 - Choose one metaphor
 - Follow it consistently
 - Or drop metaphors entirely
@@ -336,6 +355,7 @@ Combining incompatible figurative images.
 Overused expressions that have lost impact.
 
 **Examples:**
+
 - at the end of the day
 - think outside the box
 - it is what it is
@@ -350,11 +370,13 @@ Overused expressions that have lost impact.
 - deep dive
 
 **Why They're Weak:**
+
 - Generic
 - Don't paint fresh pictures
 - Suggest lazy thinking
 
 **Fix:**
+
 - Say what you mean directly
 - Find a fresh expression
 - Use specific details instead
@@ -367,15 +389,18 @@ Overused expressions that have lost impact.
 Pronouns with ambiguous antecedents.
 
 **Example:**
+
 > "When John met Bob, he said he was tired."
-(Who said? Who was tired?)
+> (Who said? Who was tired?)
 
 **Why It's Weak:**
+
 - Confuses readers
 - Forces re-reading
 - Breaks flow
 
 **Fix:**
+
 - Use the noun instead of pronoun
 - Restructure to clarify
 
@@ -404,11 +429,13 @@ During self-editing, scan for:
 ## Priority Fixes
 
 **High priority (fix always):**
+
 - Unclear pronoun reference
 - Mixed metaphors
 - Passive voice obscuring responsibility
 
 **Medium priority (fix usually):**
+
 - Nominalizations
 - Hedge words
 - Weak verbs + adverbs
@@ -416,10 +443,12 @@ During self-editing, scan for:
 - Redundancy
 
 **Low priority (fix if easy):**
+
 - Prepositional pile-up
 - Clichés (unless DNA shows writer avoids them)
 
 **Context-dependent:**
+
 - Throat-clearing (some writers warm up deliberately)
 - Passive voice (depends on purpose)
 
@@ -428,6 +457,7 @@ During self-editing, scan for:
 ## DNA Override
 
 All of these are default guidelines. If the DNA document shows:
+
 - Writer loves adverbs → use them
 - Writer hedges deliberately → hedge
 - Writer uses clichés ironically → use them

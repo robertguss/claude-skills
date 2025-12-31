@@ -17,6 +17,7 @@ Long-form essays (2,000+ words) require different approaches than short-form con
 ### Reader Commitment
 
 Long-form asks readers to invest significant time. They must:
+
 - Trust the writer has something worthwhile
 - Believe the journey will pay off
 - Stay engaged across thousands of words
@@ -24,6 +25,7 @@ Long-form asks readers to invest significant time. They must:
 ### Writer Responsibility
 
 The writer must:
+
 - Earn the length (no padding)
 - Maintain voice consistency
 - Vary rhythm to prevent fatigue
@@ -100,12 +102,14 @@ The writer must:
 Long-form needs pace variation:
 
 **Fast sections:**
+
 - Action scenes
 - Key arguments
 - Punchy insights
 - Lists and summaries
 
 **Slow sections:**
+
 - Exploration
 - Context building
 - Character development
@@ -116,6 +120,7 @@ Alternate between fast and slow. Relentless speed exhausts; relentless slowness 
 ### Section Length
 
 Vary section length as well:
+
 - Short section (200-400 words)
 - Medium section (500-800 words)
 - Long section (1,000-1,500 words)
@@ -125,6 +130,7 @@ Pattern example: Short → Long → Medium → Short → Long
 ### Paragraph Rhythm
 
 Within sections, vary paragraph length:
+
 - Long paragraph (5-7 sentences) for complex ideas
 - Short paragraph (1-2 sentences) for emphasis
 - Medium paragraphs for most content
@@ -134,6 +140,7 @@ Avoid: Five consecutive paragraphs of the same length.
 ### Sentence Rhythm
 
 Vary sentence length constantly:
+
 > "She worked for thirty years. Every day, the same routine. Coffee at 6, desk by 7, lunch at her station, home by 6. It never changed. And then one morning, it did—completely and without warning, everything she had built collapsed into a single email that arrived at 6:47 a.m."
 
 The rhythm creates interest even in summary.
@@ -145,6 +152,7 @@ The rhythm creates interest even in summary.
 ### The Re-Grounding Technique
 
 At section breaks, mentally re-read the DNA document's core patterns:
+
 - Sentence signature
 - Tone temperature
 - Distinctive moves
@@ -154,6 +162,7 @@ Ensure the new section matches.
 ### Consistency Markers
 
 Check periodically:
+
 - Is punctuation usage consistent?
 - Is formality level consistent?
 - Are "I" and "you" used at the same frequency?
@@ -162,6 +171,7 @@ Check periodically:
 ### Drift Causes
 
 Voice can drift when:
+
 - Topic becomes technical
 - Writer (ghost) is fatigued
 - New section introduces new ideas
@@ -176,11 +186,13 @@ Watch for these moments.
 ### Section Transitions
 
 Between major sections, establish:
+
 - Where we've been
 - Where we're going
 - Why we're moving
 
 **Techniques:**
+
 - Summary sentence before transition
 - Question that launches next section
 - Thematic bridge
@@ -189,6 +201,7 @@ Between major sections, establish:
 ### Paragraph Transitions
 
 Within sections, connect paragraphs:
+
 - Echo a word from the previous paragraph
 - Use a pronoun referring back
 - Explicit connectors (However, Moreover, Still)
@@ -197,9 +210,11 @@ Within sections, connect paragraphs:
 ### Invisible vs. Visible Transitions
 
 **Invisible (preferred):**
+
 > "The morning light suggested spring. But winter wasn't done yet."
 
 **Visible (when needed):**
+
 > "That explains the problem. Now, the solution."
 
 Use visible transitions sparingly.
@@ -211,6 +226,7 @@ Use visible transitions sparingly.
 ### Earning Length
 
 Every section should:
+
 - Add new information or insight
 - Advance the argument or narrative
 - Provide necessary context
@@ -227,6 +243,7 @@ If a section doesn't do one of these, cut it.
 ### Compression Technique
 
 After drafting, ask of each paragraph:
+
 - Can this be one sentence?
 - Can this be cut entirely?
 - Can this merge with another paragraph?
@@ -297,6 +314,7 @@ Understated finish after intense exploration.
 ### Complex Ideas
 
 For difficult concepts:
+
 1. State the simple version first
 2. Add nuance progressively
 3. Use concrete examples
@@ -306,6 +324,7 @@ For difficult concepts:
 ### Multiple Perspectives
 
 When presenting different viewpoints:
+
 - Make each perspective genuine (not straw men)
 - Signal whose view is being expressed
 - Be clear where you stand (if appropriate)
@@ -314,6 +333,7 @@ When presenting different viewpoints:
 ### Counterarguments
 
 When addressing opposition:
+
 - State the counterargument fairly
 - Acknowledge what's valid in it
 - Then respond with your position
@@ -326,11 +346,13 @@ When addressing opposition:
 ### Headings in Long-Form
 
 **When to use:**
+
 - Clear section breaks
 - Topic shifts
 - Reader needs navigation
 
 **When to avoid:**
+
 - Narrative essays (can break flow)
 - Short sections (feels choppy)
 - When flow is more important than navigation
@@ -344,6 +366,7 @@ When addressing opposition:
 ### Pull Quotes (if applicable)
 
 Highlight key insights:
+
 > "The question wasn't whether we could afford to act. It was whether we could afford not to."
 
 ---

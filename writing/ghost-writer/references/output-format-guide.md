@@ -7,6 +7,7 @@ How to structure ghost writer output for clarity and usefulness.
 ## Purpose
 
 Consistent output format helps the user:
+
 - Quickly assess confidence and context
 - Read drafts without interruption
 - Understand your decisions and reasoning
@@ -47,6 +48,7 @@ Every ghost writer output follows this structure:
 ### Content Guidelines
 
 **Profile Readiness**
+
 - Use the exact level from the DNA document's Profile Metadata
 - If DNA document doesn't specify, assess yourself:
   - Minimum Viable: Basic patterns, some gaps
@@ -54,10 +56,12 @@ Every ghost writer output follows this structure:
   - Strong: Comprehensive, validated
 
 **Profile Freshness**
+
 - Calculate from the "Created" or "Last Updated" date
 - Flag if older than 6 months: "Note: Profile may benefit from refresh"
 
 **Estimated Accuracy**
+
 - Base on readiness level:
   - Minimum Viable: ~60-70%
   - Solid: ~75-85%
@@ -65,6 +69,7 @@ Every ghost writer output follows this structure:
 - Adjust for specific gaps or challenges
 
 **Key Uncertainties**
+
 - List 2-5 specific areas where:
   - DNA document had "Emerging" or "Not Assessed" status
   - You had to infer patterns
@@ -93,6 +98,7 @@ Every ghost writer output follows this structure:
 ## Draft A: [Brief Descriptor]
 
 ### Headlines
+
 1. [Headline option 1]
 2. [Headline option 2]
 3. [Headline option 3]
@@ -105,10 +111,12 @@ Every ghost writer output follows this structure:
 ### Content Guidelines
 
 **Brief Descriptor**
+
 - 2-5 words describing the approach
 - Examples: "Analytical Deep-Dive," "Personal Narrative," "Direct & Punchy," "Exploratory Essay"
 
 **Headlines**
+
 - Always 3 options (unless 2 is specifically appropriate)
 - Follow DNA document headline patterns if documented
 - If not documented, offer variety:
@@ -117,6 +125,7 @@ Every ghost writer output follows this structure:
   - One benefit-focused or provocative
 
 **Content**
+
 - Clean, uninterrupted prose
 - No bracketed comments unless research placeholders: `[STAT: specific data needed]`
 - Fully readable as a standalone piece
@@ -136,37 +145,44 @@ Every ghost writer output follows this structure:
 **Approach:** [1-2 sentences on the strategy for this draft]
 
 **Patterns Applied:**
+
 - [Pattern name]: [How it was applied, with brief example from draft]
-- [Pattern name]: [How it was applied] — *inferred*
+- [Pattern name]: [How it was applied] — _inferred_
 - [Pattern name]: [How it was applied]
 
 **Decisions Made:**
+
 - [Decision point]: [What you chose and why]
 - [Decision point]: [What you chose and why]
 
 **Uncertainties:**
+
 - [Area]: [What you did and why, given the gap in documentation]
 ```
 
 ### Content Guidelines
 
 **Approach**
+
 - Explain the strategic choice for this draft
 - How does it interpret the voice?
 - What aspect of the voice does it emphasize?
 
 **Patterns Applied**
+
 - List 4-6 key patterns you applied
 - Give a brief example from the draft for each
-- Mark inferred patterns with "— *inferred*"
+- Mark inferred patterns with "— _inferred_"
 - Be specific: "Short sentences averaging 12 words" not just "Short sentences"
 
 **Decisions Made**
+
 - List 2-4 meaningful choices
 - Explain the reasoning
 - Reference DNA document where applicable
 
 **Uncertainties**
+
 - List 1-3 areas where you lacked clear guidance
 - Explain what you did and why
 - Be honest—this helps the user review efficiently
@@ -179,16 +195,19 @@ Every ghost writer output follows this structure:
 **Approach:** Leads with the personal angle, building to the analytical point. Emphasizes conversational warmth.
 
 **Patterns Applied:**
+
 - Short sentences (avg 14 words): "The code worked. Then it didn't. Three hours later, I found the bug hiding in plain sight."
 - Direct address ("you"): Used frequently as per DNA, e.g., "You've probably seen this yourself."
 - Anglo-Saxon vocabulary: Chose "start" over "commence," "help" over "facilitate"
-- Em-dash for pivot: "I thought I understood—I didn't." — *inferred frequency*
+- Em-dash for pivot: "I thought I understood—I didn't." — _inferred frequency_
 
 **Decisions Made:**
+
 - Opening with anecdote: DNA shows preference for scene-setting; chose personal story over thesis-first
 - Length: Erred toward abundance (~1,400 words) per general guidance
 
 **Uncertainties:**
+
 - Technical jargon: DNA doesn't specify. Used sparingly with brief explanations. Review if too much/little.
 - Closing: Limited examples in DNA. Ended with question callback to opening.
 ```
@@ -207,6 +226,7 @@ Same as Draft A:
 ## Draft B: [Brief Descriptor—how it differs from A]
 
 ### Headlines
+
 1. [Headline option 1]
 2. [Headline option 2]
 3. [Headline option 3]
@@ -219,14 +239,17 @@ Same as Draft A:
 ### Content Guidelines
 
 **Brief Descriptor**
+
 - Should contrast with Draft A
 - Make the difference clear: "Analytical & Direct" vs. Draft A's "Personal Narrative"
 
 **Headlines**
+
 - Different from Draft A options
 - Should fit this draft's approach
 
 **Content**
+
 - Meaningfully different from Draft A—not just minor word changes
 - Different structure, opening, emphasis, or angle
 - Same voice, different execution
@@ -279,17 +302,20 @@ Same structure as Draft A Notes, but emphasize differences:
 ### Content Guidelines
 
 **Emphasizes**
+
 - Be specific about what each draft prioritizes
 - Voice aspects: warmth, directness, formality
 - Approach: narrative vs. analytical, personal vs. objective
 - Topic handling: depth vs. breadth, example-heavy vs. concept-focused
 
 **When to use**
+
 - Practical guidance
 - Specific scenarios where each draft shines
 - Audience considerations
 
 **Observations**
+
 - This is where you share perspective even if not asked
 - Honest concerns: "Both drafts may be too long for mobile readers"
 - Suggestions: "You might combine A's opening with B's structure"
@@ -323,6 +349,7 @@ Same structure as Draft A Notes, but emphasize differences:
 **Voice consistency:** [Overall assessment]
 
 **Sections that may have drifted:**
+
 - [Section/paragraph range]: [What feels different and why]
 
 **Rhythm notes:** [Any monotony concerns]
@@ -338,18 +365,22 @@ Same structure as Draft A Notes, but emphasize differences:
 ### Content Guidelines
 
 **Voice consistency**
+
 - Overall assessment: consistent, minor drift, or notable drift
 
 **Sections that may have drifted**
+
 - Identify specific sections
 - Explain what feels different
 - Suggest why (topic shift, fatigue, complexity)
 
 **Rhythm notes**
+
 - Flag monotonous stretches
 - Note any lack of sentence/paragraph variation
 
 **Recommendation**
+
 - Actionable guidance
 - Which sections to review most carefully
 
@@ -368,15 +399,15 @@ Same structure as Draft A Notes, but emphasize differences:
 
 ### Length Guidelines
 
-| Section | Target Length |
-|---------|---------------|
-| Confidence Header | 4-6 lines |
-| Draft Descriptor | 2-5 words |
-| Headlines | 3 options, each 5-12 words |
-| Draft Content | As needed by task |
-| Draft Notes | 150-300 words |
-| Comparison | 100-200 words |
-| Consistency Check | 50-150 words |
+| Section           | Target Length              |
+| ----------------- | -------------------------- |
+| Confidence Header | 4-6 lines                  |
+| Draft Descriptor  | 2-5 words                  |
+| Headlines         | 3 options, each 5-12 words |
+| Draft Content     | As needed by task          |
+| Draft Notes       | 150-300 words              |
+| Comparison        | 100-200 words              |
+| Consistency Check | 50-150 words               |
 
 ### Clarity Principles
 
@@ -430,6 +461,7 @@ Same structure as Draft A Notes, but emphasize differences:
 ## Summary
 
 Good output format is:
+
 - **Consistent** — Same structure every time
 - **Clear** — User can quickly find what they need
 - **Honest** — Confidence, uncertainties, and concerns are visible

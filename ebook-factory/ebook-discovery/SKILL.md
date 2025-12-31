@@ -64,14 +64,17 @@ Dive deep into the selected mode. See `references/entry-modes-guide.md` for deta
 ### Candidate Management
 
 **During exploration:**
+
 - Apply light viability pressure as candidates surface
 - Flag concerns early: "This feels more like a blog post—I'd note it as low priority unless you see something I'm missing"
 
 **At session transitions:**
+
 - Batch review surfaced candidates
 - Stack-rank with reasoning: "Of these 6 candidates, here's how I'd prioritize them and why..."
 
 **In the tracker:**
+
 - Rate each candidate High/Med/Low with reasoning
 - Flag time-sensitive candidates
 - Capture patterns in the Patterns & Insights section
@@ -99,23 +102,16 @@ When user returns with existing tracker:
 Claude introduces modes progressively with reasoning. User can request the full list anytime.
 
 **Content-Based** (mine what you've published):
+
 1. **Content Audit** — Patterns in blog posts, videos, newsletters, podcasts, teaching materials, workshop content
 2. **Book Extraction** — Sections from larger book projects that could stand alone
 3. **Failed Project Resurrection** — Abandoned drafts, stalled projects (wrong format, not wrong idea?)
 
-**Audience-Based** (learn from your readers/viewers):
-4. **Repeated Questions Analysis** — YouTube comments, email replies, questions after talks
+**Audience-Based** (learn from your readers/viewers): 4. **Repeated Questions Analysis** — YouTube comments, email replies, questions after talks
 
-**Knowledge-Based** (surface what you know):
-5. **Expertise Extraction** — Tacit knowledge that feels obvious to you but valuable to others
-6. **Contrarian Positions** — Views that push against mainstream thinking
-7. **Translation Bridges** — Things you explain between worlds you inhabit
-8. **Personal Systems** — Workflows, processes, disciplines you've developed
+**Knowledge-Based** (surface what you know): 5. **Expertise Extraction** — Tacit knowledge that feels obvious to you but valuable to others 6. **Contrarian Positions** — Views that push against mainstream thinking 7. **Translation Bridges** — Things you explain between worlds you inhabit 8. **Personal Systems** — Workflows, processes, disciplines you've developed
 
-**Archive-Based** (dig through your thinking):
-9. **Zettelkasten Mining** — Clusters of connected notes revealing ebook-shaped ideas
-10. **Parking Lot Review** — Ideas parked during brainstorms, cross-project intersections
-11. **Deep Archive Mining** — Book marginalia, reading responses, long emails, "I wish this existed" frustrations
+**Archive-Based** (dig through your thinking): 9. **Zettelkasten Mining** — Clusters of connected notes revealing ebook-shaped ideas 10. **Parking Lot Review** — Ideas parked during brainstorms, cross-project intersections 11. **Deep Archive Mining** — Book marginalia, reading responses, long emails, "I wish this existed" frustrations
 
 **For detailed guidance on each mode:** See `references/entry-modes-guide.md`
 

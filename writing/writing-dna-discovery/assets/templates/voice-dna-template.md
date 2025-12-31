@@ -36,9 +36,7 @@
 **Patterns Identified:**
 
 -
--
-
-**Examples from Their Writing:**
+- **Examples from Their Writing:**
 
 > "[Quote demonstrating pattern]"
 
@@ -69,13 +67,9 @@
 **Paragraph Tendencies:**
 
 -
--
+- **Transition Style:**
 
-**Transition Style:**
-
--
-
----
+- ***
 
 ### Word Choice & Vocabulary
 
@@ -87,19 +81,15 @@
 
 -
 -
--
-
-**Avoided Words/Phrases:**
+- **Avoided Words/Phrases:**
 
 -
 -
--
+- **Contraction Usage:** [Always / Often / Sometimes / Rarely / Never]
 
-**Contraction Usage:** [Always / Often / Sometimes / Rarely / Never]
+  **Jargon Comfort:** [Defines terms / Uses casually / Avoids]
 
-**Jargon Comfort:** [Defines terms / Uses casually / Avoids]
-
----
+  ***
 
 ### Tone & Attitude
 
@@ -167,19 +157,13 @@
 **Distinctive Moves:**
 
 -
--
-
-**Pet Phrases:**
+- **Pet Phrases:**
 
 -
--
-
-**Characteristic Tics:**
+- **Characteristic Tics:**
 
 -
--
-
----
+- ***
 
 ## Register-Specific Notes
 
@@ -309,16 +293,16 @@
 
 **Confidence Assessment:**
 
-| Dimension              | Confidence |
-| ---------------------- | ---------- |
-| Sentence Level         |            |
-| Punctuation            |            |
-| Word Choice            |            |
-| Tone                   |            |
-| Reader Relationship    |            |
-| Signature Elements     |            |
-| Anti-Patterns          |            |
-| Ghost Writer Briefing  |            |
+| Dimension             | Confidence |
+| --------------------- | ---------- |
+| Sentence Level        |            |
+| Punctuation           |            |
+| Word Choice           |            |
+| Tone                  |            |
+| Reader Relationship   |            |
+| Signature Elements    |            |
+| Anti-Patterns         |            |
+| Ghost Writer Briefing |            |
 
 **Sample Base:**
 
@@ -329,22 +313,18 @@
 **Dimensions Needing Depth:**
 
 -
--
-
-**Open Questions:**
+- **Open Questions:**
 
 -
--
-
----
+- ***
 
 ## Session History
 
-| Date | Version | Focus                    | Key Updates                      |
-| ---- | ------- | ------------------------ | -------------------------------- |
-|      |         |                          |                                  |
-|      |         |                          |                                  |
-|      |         |                          |                                  |
+| Date | Version | Focus | Key Updates |
+| ---- | ------- | ----- | ----------- |
+|      |         |       |             |
+|      |         |       |             |
+|      |         |       |             |
 
 ---
 

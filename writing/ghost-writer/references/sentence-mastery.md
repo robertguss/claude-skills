@@ -2,7 +2,7 @@
 
 Principles for crafting sentences that create rhythm, clarity, and voice.
 
-*Inspired by Verlyn Klinkenborg's "Several Short Sentences About Writing"*
+_Inspired by Verlyn Klinkenborg's "Several Short Sentences About Writing"_
 
 ---
 
@@ -154,19 +154,20 @@ Five sentences starting with "The" or "I" in a row creates monotony.
 
 ### Vary Your Openings
 
-| Type | Example |
-|------|---------|
-| Subject | "The project succeeded." |
-| Time | "Eventually, the project succeeded." |
+| Type          | Example                                    |
+| ------------- | ------------------------------------------ |
+| Subject       | "The project succeeded."                   |
+| Time          | "Eventually, the project succeeded."       |
 | Prepositional | "Against all odds, the project succeeded." |
-| Gerund | "Working through the night, we succeeded." |
-| Infinitive | "To succeed, we worked through the night." |
-| Transitional | "However, the project still failed." |
-| Inverted | "Never had we worked so hard." |
+| Gerund        | "Working through the night, we succeeded." |
+| Infinitive    | "To succeed, we worked through the night." |
+| Transitional  | "However, the project still failed."       |
+| Inverted      | "Never had we worked so hard."             |
 
 ### Opening Words to Watch
 
 Be conscious of which words you start with:
+
 - "It" — often leads to expletive construction ("It is important...")
 - "There" — often weak ("There are many reasons...")
 - "The" — fine but monotonous if overused
@@ -233,6 +234,7 @@ Untangle:
 The period is definitive. It ends. It creates silence. The next sentence begins fresh.
 
 Short sentences with periods create rhythm:
+
 > "We tried. We failed. We tried again."
 
 ### The Comma
@@ -273,6 +275,7 @@ Use sparingly; they can make prose feel cluttered.
 ### Read Aloud
 
 Reading aloud reveals:
+
 - Where you stumble (structural problem)
 - Where you run out of breath (too long)
 - Where rhythm breaks (needs variation)
@@ -280,6 +283,7 @@ Reading aloud reveals:
 ### Read One at a Time
 
 Cover the surrounding text. Read only one sentence. Does it:
+
 - Make sense?
 - Sound complete?
 - Have weight?
@@ -340,6 +344,7 @@ Break it up.
 ### Match the Documented Rhythm
 
 If DNA shows:
+
 - Short sentences: Keep average low, resist extending
 - Long sentences: Allow more complexity
 - Varied: Consciously alternate
@@ -347,6 +352,7 @@ If DNA shows:
 ### Match the Documented Structure
 
 If DNA shows:
+
 - Simple structures: Fewer clauses, more periods
 - Complex structures: More clauses, semicolons appropriate
 - Lists and parallel structures: Use them
@@ -354,6 +360,7 @@ If DNA shows:
 ### Match the Documented Openings
 
 If DNA shows patterns:
+
 - Starts with action verbs: Do that
 - Starts with "I" frequently: Do that
 - Rarely starts with "The": Avoid it

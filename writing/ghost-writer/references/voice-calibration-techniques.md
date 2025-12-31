@@ -49,6 +49,7 @@ Watch for these throughout.
 ### The Sentence Check
 
 After each sentence, quick check:
+
 - Length: Within documented range?
 - Words: Vocabulary level match?
 - Structure: Matches rhythm pattern?
@@ -58,6 +59,7 @@ If no, revise before continuing.
 ### The Paragraph Check
 
 After each paragraph, ask:
+
 - Length: Matches documented paragraph patterns?
 - Opening: Strong enough for their voice?
 - Closing: Lands with appropriate weight?
@@ -66,6 +68,7 @@ After each paragraph, ask:
 ### The Anti-Pattern Scan
 
 Periodically scan for documented anti-patterns:
+
 - Any forbidden words used?
 - Any forbidden structures appearing?
 - Any AI patterns creeping in?
@@ -79,17 +82,20 @@ Fix immediately.
 ### Sentence Rhythm
 
 **If DNA shows short sentences:**
+
 - Draft short, then check
 - Break long sentences after drafting
 - Target the documented average
 - Count words if needed
 
 **If DNA shows long, flowing sentences:**
+
 - Allow sentences to extend
 - Use clauses, parentheticals
 - Watch for run-ons (still need structure)
 
 **If DNA shows varied rhythm:**
+
 - Consciously alternate lengths
 - Follow a long with a short
 - Break patterns to prevent monotony
@@ -97,55 +103,65 @@ Fix immediately.
 ### Punctuation
 
 **Em-dashes:**
+
 - If DNA shows heavy usage: Use them for asides, pivots, emphasis
 - If DNA shows minimal: Avoid or use sparingly
 - If DNA shows never: Find alternatives (parentheses, commas, separate sentences)
 
 **Semicolons:**
+
 - If DNA shows usage: Connect related clauses
 - If DNA shows avoidance: Use periods instead
 
 **Comma density:**
+
 - High comma density: More pauses, more clauses
 - Low comma density: Fewer pauses, simpler structures
 
 ### Word Choice
 
 **Vocabulary calibration:**
+
 - Pull 5-10 words from "Favorite Words" in DNA
 - Actively use them where appropriate
 - Pull words from "Avoided Words"
 - Never use them
 
 **Anglo-Saxon vs. Latinate:**
+
 - If Anglo-Saxon: "start" not "commence," "use" not "utilize"
 - If Latinate: More formal vocabulary appropriate
 
 **Contractions:**
+
 - If DNA shows always: Don't → don't, cannot → can't
 - If DNA shows never: Expand all contractions
 
 ### Tone
 
 **Warm voice calibration:**
+
 - Include more personal markers
 - Use "you" directly
 - Allow enthusiasm where appropriate
 - Softer transitions
 
 **Cool voice calibration:**
+
 - More measured statements
 - Fewer exclamations
 - More analytical structure
 - Distance in pronouns
 
 **Direct voice calibration:**
+
 - Lead with conclusions
 - Fewer qualifiers
 - Active voice throughout
 - Shorter sentences
 
 **Exploratory voice calibration:**
+
 - Allow questions
 - Permit uncertainty
 - Show the thinking
@@ -154,21 +170,25 @@ Fix immediately.
 ### Reader Relationship
 
 **Heavy "I" presence:**
+
 - Personal anecdotes
 - First-person reflections
 - "I think," "I believe," "I've found"
 
 **Light "I" presence:**
+
 - Focus on ideas, not personal
 - Passive or "we" constructions
 - Third-person framing
 
 **Heavy "you" presence:**
+
 - Direct address
 - "You might notice," "Consider your own..."
 - Reader is participant
 
 **Light "you" presence:**
+
 - Ideas stand alone
 - Reader is observer
 - Less direct address
@@ -191,8 +211,8 @@ The DNA document contains Exemplar Passages. Use them as calibration tools:
 
 Put exemplar and draft side by side:
 
-| Exemplar | Draft |
-|----------|-------|
+| Exemplar                              | Draft                                           |
+| ------------------------------------- | ----------------------------------------------- |
 | "The code was wrong. Simple as that." | "The code contained errors that needed fixing." |
 
 Ask: Do these sound like the same person?
@@ -206,19 +226,23 @@ If not: Revise the draft.
 When a word or phrase doesn't match the voice:
 
 ### Step 1: Identify the Mismatch
+
 > "The methodology was implemented..."
 
 Feels too formal for a casual voice.
 
 ### Step 2: Check DNA for Alternatives
+
 - Favorite words list
 - Vocabulary level guidance
 - Exemplar passages
 
 ### Step 3: Substitute
+
 > "We tried the approach..."
 
 ### Step 4: Verify
+
 Does it now match the voice?
 
 ---
@@ -230,11 +254,13 @@ Voice has an emotional "temperature." Periodically check:
 ### Is the Temperature Right?
 
 **If DNA is warm:**
+
 - Are there personal touches?
 - Does it feel approachable?
 - Is there any coldness creeping in?
 
 **If DNA is cool:**
+
 - Is it measured and analytical?
 - Are there inappropriate moments of warmth?
 - Is the distance consistent?
@@ -242,12 +268,14 @@ Voice has an emotional "temperature." Periodically check:
 ### Adjusting Temperature
 
 **Warming up:**
+
 - Add personal pronouns
 - Soften language
 - Include relatable details
 - Show enthusiasm where appropriate
 
 **Cooling down:**
+
 - Remove excessive qualifiers
 - Reduce personal anecdotes
 - More objective framing
@@ -272,6 +300,7 @@ The DNA document may have explicit guidance.
 ### Step 3: Pick and Document
 
 If truly ambiguous:
+
 - Pick the more conservative option
 - Note the choice in draft notes
 - Flag for user feedback
@@ -283,11 +312,13 @@ If truly ambiguous:
 When creating two drafts, calibrate differently:
 
 ### Draft A: Emphasize One Pattern Set
+
 - Lean into narrative patterns
 - More personal approach
 - Longer, flowing sentences
 
 ### Draft B: Emphasize Another Pattern Set
+
 - Lean into analytical patterns
 - More structured approach
 - Shorter, punchier sentences

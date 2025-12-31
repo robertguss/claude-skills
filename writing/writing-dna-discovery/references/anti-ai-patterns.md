@@ -252,6 +252,7 @@ AI strongly prefers capitalizing all major words in headings ("The Impact Of Tec
 AI trained on readmes and listicles bolds key terms mechanically.
 
 **Numbered Lists with Inline Headers:**
+
 > "1. **Historical Context:** The world was changing..."
 > "2. **Key Figures:** Edward Teller advocated..."
 

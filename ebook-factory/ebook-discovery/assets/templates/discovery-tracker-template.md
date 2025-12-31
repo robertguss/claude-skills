@@ -24,8 +24,8 @@
 ## Exploration Log
 
 | Mode | Status | Depth | Key Findings | Date |
-|------|--------|-------|--------------|------|
-| | | | | |
+| ---- | ------ | ----- | ------------ | ---- |
+|      |        |       |              |      |
 
 **Status options:** Not started, In progress, Complete, Skipped (N/A)
 **Depth options:** Light scan, Moderate, Deep dive, Exhaustive
@@ -87,20 +87,24 @@ Explicitly rejected ideas with reasoning (prevents re-surfacing):
 Modes not yet explored (with notes on potential relevance):
 
 **Content-Based:**
+
 - [ ] Content Audit — [notes on relevance given user's content]
 - [ ] Book Extraction — [notes]
 - [ ] Failed Project Resurrection — [notes]
 
 **Audience-Based:**
+
 - [ ] Repeated Questions Analysis — [notes]
 
 **Knowledge-Based:**
+
 - [ ] Expertise Extraction — [notes]
 - [ ] Contrarian Positions — [notes]
 - [ ] Translation Bridges — [notes]
 - [ ] Personal Systems — [notes]
 
 **Archive-Based:**
+
 - [ ] Zettelkasten Mining — [notes]
 - [ ] Parking Lot Review — [notes]
 - [ ] Deep Archive Mining — [notes]

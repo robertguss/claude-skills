@@ -19,18 +19,21 @@ Dedicated support for the harder discovery path. Use when working with users who
 ## Why This Path Is Harder
 
 **Content Audit path:**
+
 - Material exists externally
 - Patterns are visible
 - Validation signals may exist
-- The work is about *seeing* what's there
+- The work is about _seeing_ what's there
 
 **Expertise Extraction path:**
+
 - Material exists only in the user's head
 - Claude must extract through conversation
 - No validation signals yet
-- The work is about *surfacing* what's hidden
+- The work is about _surfacing_ what's hidden
 
 This path requires:
+
 - More active questioning
 - Recognition of expertise indicators
 - Building user confidence
@@ -45,27 +48,31 @@ This path requires:
 Experts can't remember what it was like not to know. What feels "obvious" to them is often the exact thing that would be valuable to teach.
 
 **Signs of the curse:**
+
 - "Everyone knows this"
 - "It's just common sense"
 - "There's nothing special about what I do"
 - Skipping foundational steps when explaining
 
 **How to address it:**
+
 - Ask them to explain as if to a complete beginner
 - Point out when they skip steps: "You jumped from A to D—what's B and C?"
 - Use contrast: "How would someone without your experience approach this?"
 
 ### Tacit vs. Explicit Knowledge
 
-Much expertise is *tacit*—knowledge that's hard to articulate because it's embedded in intuition and practice.
+Much expertise is _tacit_—knowledge that's hard to articulate because it's embedded in intuition and practice.
 
 **Signs of tacit knowledge:**
+
 - "I just know when it's right"
 - "It's hard to explain, I just do it"
 - "You develop a feel for it"
 - Difficulty breaking down their process
 
 **How to surface it:**
+
 - Ask about specific decisions: "Walk me through the last time you did this"
 - Focus on exceptions: "What do you do when the normal approach doesn't work?"
 - Ask about mistakes: "What errors do beginners make that you've learned to avoid?"
@@ -75,12 +82,14 @@ Much expertise is *tacit*—knowledge that's hard to articulate because it's emb
 Even genuine experts often dismiss their expertise.
 
 **Signs:**
+
 - "I'm still learning"
 - "There are people who know way more than me"
 - "I'm not really an expert"
 - Deflecting compliments about expertise
 
 **How to address it:**
+
 - Use external evidence: "What do people come to you for?"
 - Normalize the feeling: "Most experts feel this way"
 - Focus on relative advantage: "Compared to someone starting out..."
@@ -238,30 +247,35 @@ Not all expertise is ebook-worthy. Test for genuine differentiation:
 Expertise that often translates well to ebooks:
 
 ### Professional Process Expertise
+
 - Workflows refined over years
 - Industry-specific knowledge
 - Career stage transitions (what you learned at each level)
 - Tools and systems mastery
 
 ### Hard-Won Lesson Expertise
+
 - Mistakes you made and recovered from
 - Things that took too long to learn
 - What you'd do differently knowing what you know
 - Expensive lessons you could help others avoid
 
 ### Translation Expertise
+
 - Bridging technical and non-technical
 - Explaining industry X to industry Y
 - Academic to practical translation
 - Cross-cultural or cross-domain knowledge
 
 ### System-Building Expertise
+
 - Personal productivity systems
 - Decision-making frameworks
 - Habit and routine design
 - Information management
 
 ### Teaching Expertise
+
 - How you explain complex things simply
 - What clicks for learners and why
 - Common confusion points and how to address them
@@ -282,6 +296,7 @@ Expertise is often too broad. Find the specific slice:
 - Not your full expertise but the part with clearest transformation
 
 **Questions to find the slice:**
+
 - If you could only teach ONE thing, what would it be?
 - What's the smallest piece that would make the biggest difference?
 - Where does most of the value come from?
@@ -295,6 +310,7 @@ Expertise alone isn't an ebook. The reader needs a journey:
 - **The bridge:** What expertise gets them from before to after?
 
 **Questions to find the transformation:**
+
 - What can they DO after learning this?
 - How does their behavior change?
 - What problem goes away?
@@ -310,6 +326,7 @@ Expertise needs a specific reader:
 - Who can you picture reading it?
 
 **Questions to find the reader:**
+
 - Who do you most want to help?
 - Who asks you these questions?
 - Who struggles with this the most?
@@ -372,6 +389,7 @@ When there's no content to analyze, audience signals must come from elsewhere:
 ### Building an Audience Profile Without Data
 
 Even without metrics, describe:
+
 - Their situation (job, life stage, problem context)
 - Their current struggles
 - What they've already tried

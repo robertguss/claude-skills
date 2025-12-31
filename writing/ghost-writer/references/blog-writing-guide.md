@@ -17,6 +17,7 @@ Blog posts have distinct conventions shaped by how people read online. This guid
 ### Online Reading Behavior
 
 **Key patterns:**
+
 - Scan first, read later (if at all)
 - F-pattern eye tracking (top, left side, occasional horizontal scans)
 - Decide within 3-5 seconds whether to continue
@@ -41,12 +42,14 @@ Blog posts have distinct conventions shaped by how people read online. This guid
 The first 100 words decide whether readers stay.
 
 **Must accomplish:**
+
 - Signal what the piece is about
 - Establish why they should care
 - Promise value worth their time
 - Sound like a human (not AI)
 
 **Techniques:**
+
 - Lead with the insight, not the setup
 - Start with action, conflict, or surprise
 - Avoid throat-clearing ("In today's world...")
@@ -54,12 +57,14 @@ The first 100 words decide whether readers stay.
 ### Headings
 
 **Use headings to:**
+
 - Break content into scannable sections
 - Signal what each section covers
 - Let readers jump to what interests them
 - Create visual rhythm
 
 **Heading guidelines:**
+
 - Use sentence case (not Title Case)
 - Be descriptive, not clever
 - Front-load key words
@@ -68,12 +73,14 @@ The first 100 words decide whether readers stay.
 ### Paragraphs
 
 **Online paragraph guidelines:**
+
 - 2-4 sentences typical
 - Single-sentence paragraphs for emphasis
 - One idea per paragraph
 - Break on transitions
 
 **Why shorter paragraphs:**
+
 - Easier to scan
 - More white space
 - Less intimidating
@@ -82,12 +89,14 @@ The first 100 words decide whether readers stay.
 ### Lists
 
 **When to use lists:**
+
 - Presenting options
 - Summarizing steps
 - Highlighting key points
 - Improving scannability
 
 **List guidelines:**
+
 - Lead-in sentence before the list
 - Parallel structure for items
 - 3-7 items optimal
@@ -100,20 +109,25 @@ The first 100 words decide whether readers stay.
 ### Strong Blog Openings
 
 **Problem-solution hook:**
+
 > "Your git history is a mess. Here's how to fix it in ten minutes."
 
 **Bold claim:**
+
 > "Most career advice is wrong. Here's what actually works."
 
 **Personal hook:**
+
 > "Last week, I made a mistake that cost me three hours. Here's what I learned."
 
 **Counter-intuitive:**
+
 > "I stopped setting goals. My productivity doubled."
 
 ### Weak Blog Openings
 
 **Avoid:**
+
 - "In this post, I will discuss..."
 - "Have you ever wondered about..."
 - "Let me tell you about..."
@@ -168,11 +182,13 @@ N. Summary or call to action
 ### Bold Text
 
 **Use for:**
+
 - Key terms on first use
 - Words readers might scan for
 - Essential points in paragraphs
 
 **Don't:**
+
 - Bold entire sentences
 - Bold too much (loses meaning)
 - Bold for emphasis in running prose
@@ -202,15 +218,19 @@ Keep examples minimal
 ### Effective Blog Closings
 
 **Call to action:**
+
 > "Try this technique today. Let me know how it goes."
 
 **Question:**
+
 > "What's your approach? I'd love to hear in the comments."
 
 **Forward-looking:**
+
 > "Next week, I'll cover the advanced version of this."
 
 **The kicker:**
+
 > "The experts were wrong. Now you know."
 
 ### Avoid
@@ -226,21 +246,23 @@ Keep examples minimal
 
 ### Word Count by Type
 
-| Type | Typical Length |
-|------|----------------|
-| Quick tip | 300-500 words |
-| Standard post | 800-1,500 words |
-| Deep dive | 2,000-3,000 words |
+| Type                | Typical Length    |
+| ------------------- | ----------------- |
+| Quick tip           | 300-500 words     |
+| Standard post       | 800-1,500 words   |
+| Deep dive           | 2,000-3,000 words |
 | Comprehensive guide | 3,000-5,000 words |
 
 ### Length Considerations
 
 **Shorter when:**
+
 - Single focused insight
 - Busy audience
 - Mobile-first readers
 
 **Longer when:**
+
 - Comprehensive coverage needed
 - SEO matters (depth signals)
 - Topic deserves exploration
@@ -257,16 +279,19 @@ Is every word earning its place? Cut until no more can be cut.
 The DNA document defines voice. Apply it to blog conventions:
 
 **If DNA shows formal voice:**
+
 - Keep formality but tighten paragraphs
 - Use headings (even if writer doesn't typically)
 - Maintain vocabulary but improve scannability
 
 **If DNA shows casual voice:**
+
 - Lean into conversational hooks
 - Use contractions, direct address
 - Short paragraphs feel natural
 
 **If DNA shows analytical voice:**
+
 - Front-load conclusions
 - Evidence remains, but more concise
 - Headings help reader navigate logic
@@ -274,6 +299,7 @@ The DNA document defines voice. Apply it to blog conventions:
 ### Personalness Level
 
 Check DNA for:
+
 - First-person usage (how much "I")
 - Personal disclosure level
 - Anecdote usage

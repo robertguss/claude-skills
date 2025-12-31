@@ -13,12 +13,15 @@ Good transitions are invisible—readers don't notice them. Bad transitions crea
 ## The Three Levels of Transition
 
 ### 1. Sentence-to-Sentence
+
 Movement within paragraphs.
 
 ### 2. Paragraph-to-Paragraph
+
 Movement within sections.
 
 ### 3. Section-to-Section
+
 Movement between major parts.
 
 Each level has different techniques.
@@ -55,15 +58,15 @@ Use "this," "that," "these," "those":
 
 Use explicit connectors when logic requires it:
 
-| Relationship | Connectors |
-|--------------|------------|
-| Addition | also, moreover, furthermore, in addition |
-| Contrast | however, but, yet, still, nevertheless |
-| Cause | because, since, therefore, thus, so |
-| Example | for instance, for example, specifically |
-| Time | then, next, afterward, meanwhile |
-| Emphasis | indeed, in fact, certainly |
-| Concession | although, while, granted, admittedly |
+| Relationship | Connectors                               |
+| ------------ | ---------------------------------------- |
+| Addition     | also, moreover, furthermore, in addition |
+| Contrast     | however, but, yet, still, nevertheless   |
+| Cause        | because, since, therefore, thus, so      |
+| Example      | for instance, for example, specifically  |
+| Time         | then, next, afterward, meanwhile         |
+| Emphasis     | indeed, in fact, certainly               |
+| Concession   | although, while, granted, admittedly     |
 
 **Use sparingly.** Overusing connectors creates mechanical prose.
 
@@ -219,12 +222,15 @@ Reader: "Wait, how did we get here?"
 Mix invisible, light, and heavy transitions:
 
 **Invisible (no connector):**
+
 > "The first test passed. The second revealed the flaw."
 
 **Light (echo or pronoun):**
+
 > "The problem was obvious. **It** had been there all along."
 
 **Heavy (explicit connector):**
+
 > "**Despite this setback**, the team pressed on."
 
 If all transitions are heavy, prose feels mechanical.
@@ -239,36 +245,42 @@ For every explicit connector, have roughly three implicit transitions.
 ## Transition Types by Purpose
 
 ### Continuing the Same Idea
+
 - also, moreover, furthermore
 - in addition, additionally
 - similarly, likewise
 - indeed, in fact
 
 ### Contrasting
+
 - but, yet, however
 - on the other hand
 - nevertheless, nonetheless
 - in contrast, conversely
 
 ### Showing Cause/Effect
+
 - so, thus, therefore
 - because, since
 - as a result, consequently
 - hence
 
 ### Giving Examples
+
 - for instance, for example
 - specifically, particularly
 - such as, like
 - namely
 
 ### Showing Time/Sequence
+
 - then, next, after
 - first, second, finally
 - meanwhile, subsequently
 - eventually, ultimately
 
 ### Concluding
+
 - finally, in the end
 - ultimately, at last
 - in conclusion (use sparingly—often AI-sounding)
@@ -280,6 +292,7 @@ For every explicit connector, have roughly three implicit transitions.
 ### Checking Transition Patterns
 
 The DNA document may specify:
+
 - Transition frequency (lots of explicit connectors vs. minimal)
 - Preferred connectors ("but" vs. "however")
 - Section break style
@@ -290,6 +303,7 @@ If documented, follow the DNA.
 ### Default Behavior
 
 If DNA is silent on transitions:
+
 - Lean toward invisible and light transitions
 - Use explicit connectors for genuine logic shifts
 - Match formality to overall voice temperature
@@ -301,6 +315,7 @@ If DNA is silent on transitions:
 ### The Flow Read
 
 Read the piece aloud (mentally). Notice:
+
 - Where you stumble
 - Where ideas feel disconnected
 - Where transitions feel forced
@@ -312,6 +327,7 @@ Cover the first sentence of each paragraph. Does the paragraph still make sense?
 ### The Logic Test
 
 For each transition, ask: Is the relationship clear?
+
 - If yes: Transition can be lighter
 - If no: Transition needs to clarify the relationship
 
@@ -319,12 +335,12 @@ For each transition, ask: Is the relationship clear?
 
 ## Quick Reference
 
-| You Want To... | Consider Using... |
-|----------------|-------------------|
-| Continue smoothly | Echo, pronoun, invisible |
-| Signal contrast | But, however, yet |
-| Show causation | So, therefore, because |
-| Give example | For instance, specifically |
-| Move through time | Then, next, afterward |
-| Shift scope | Meanwhile, in contrast |
-| Change sections | Signpost, summary-launch, white space |
+| You Want To...    | Consider Using...                     |
+| ----------------- | ------------------------------------- |
+| Continue smoothly | Echo, pronoun, invisible              |
+| Signal contrast   | But, however, yet                     |
+| Show causation    | So, therefore, because                |
+| Give example      | For instance, specifically            |
+| Move through time | Then, next, afterward                 |
+| Shift scope       | Meanwhile, in contrast                |
+| Change sections   | Signpost, summary-launch, white space |

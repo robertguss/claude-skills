@@ -155,7 +155,7 @@ Run through this checklist before delivering drafts. Catching issues before deli
 
 - [ ] **Approach explained** — Clear strategy for this draft
 - [ ] **Patterns listed** — With examples
-- [ ] **Inferred patterns marked** — "— *inferred*"
+- [ ] **Inferred patterns marked** — "— _inferred_"
 - [ ] **Decisions explained** — With reasoning
 - [ ] **Uncertainties flagged** — What you did and why
 
@@ -209,33 +209,36 @@ If any no: Fix before delivering.
 
 ## Common Issues to Catch
 
-| Issue | How to Spot | How to Fix |
-|-------|-------------|------------|
-| AI-sounding opening | "In today's world...", "It's important to note..." | Rewrite in their voice |
-| Monotonous rhythm | 5+ similar-length sentences in a row | Vary sentence length |
-| Wrong formality | Too stiff or too casual for DNA | Adjust temperature |
-| Missing voice markers | No signature elements | Add documented distinctive moves |
-| Weak closing | Trails off, generic conclusion | Strengthen with DNA pattern |
-| Excessive hedging | "Somewhat," "perhaps," "might" overused | Cut or commit |
-| Passive voice heavy | "Was done by," "has been seen" | Activate verbs |
-| Jargon mismatch | Too much/little technical language | Match DNA guidance |
+| Issue                 | How to Spot                                        | How to Fix                       |
+| --------------------- | -------------------------------------------------- | -------------------------------- |
+| AI-sounding opening   | "In today's world...", "It's important to note..." | Rewrite in their voice           |
+| Monotonous rhythm     | 5+ similar-length sentences in a row               | Vary sentence length             |
+| Wrong formality       | Too stiff or too casual for DNA                    | Adjust temperature               |
+| Missing voice markers | No signature elements                              | Add documented distinctive moves |
+| Weak closing          | Trails off, generic conclusion                     | Strengthen with DNA pattern      |
+| Excessive hedging     | "Somewhat," "perhaps," "might" overused            | Cut or commit                    |
+| Passive voice heavy   | "Was done by," "has been seen"                     | Activate verbs                   |
+| Jargon mismatch       | Too much/little technical language                 | Match DNA guidance               |
 
 ---
 
 ## When to Revise Before Delivery
 
 **Always revise if:**
+
 - Any AI tell detected
 - Voice feels noticeably off
 - Missing major content element
 - Drafts aren't meaningfully different
 
 **Consider revising if:**
+
 - Minor rhythm issues
 - One section feels weaker
 - Uncertainty about a pattern choice
 
 **Okay to deliver and note if:**
+
 - DNA document has gaps you worked around
 - Topic pushed into undocumented territory
 - Minor concerns that user can address in revision

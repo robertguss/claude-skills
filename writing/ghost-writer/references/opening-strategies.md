@@ -20,14 +20,17 @@ Strong openings hook readers immediately. This reference provides 18 opening str
 Lead with a provocative, definitive claim.
 
 **Example:**
+
 > "Most career advice is terrible."
 
 **When to Use:**
+
 - Opinion pieces
 - Arguments against conventional wisdom
 - When writer's voice is confident/direct
 
 **When to Avoid:**
+
 - If DNA shows writer hedges
 - Topics requiring nuance from the start
 - When claim can't be supported
@@ -40,14 +43,17 @@ Lead with a provocative, definitive claim.
 Start with a particular moment or scene.
 
 **Example:**
+
 > "At 3 a.m. on a Tuesday, I found myself debugging a script I'd written three years ago. I had no memory of writing it."
 
 **When to Use:**
+
 - Personal essays
 - Blog posts where personal connection matters
 - Writers whose DNA shows personal disclosure
 
 **When to Avoid:**
+
 - Technical writing (usually)
 - When anecdote doesn't connect to point
 - If DNA shows writer is impersonal
@@ -60,14 +66,17 @@ Start with a particular moment or scene.
 Open with a question that captures the core tension.
 
 **Example:**
+
 > "What if everything you know about productivity is wrong?"
 
 **When to Use:**
+
 - Exploratory pieces
 - Challenge-the-reader articles
 - When DNA shows question openings
 
 **When to Avoid:**
+
 - If DNA specifically avoids question openings (some writers see this as clickbait)
 - When the question is obvious or rhetorical
 
@@ -79,14 +88,17 @@ Open with a question that captures the core tension.
 Lead with a number that surprises or reframes.
 
 **Example:**
+
 > "Seventy percent of startups fail within two years. I've been in three of them."
 
 **When to Use:**
+
 - Data-driven pieces
 - When scale matters
 - Pieces about trends or patterns
 
 **When to Avoid:**
+
 - When statistic is common knowledge
 - When it feels manipulative
 - If DNA shows writer doesn't use data
@@ -99,14 +111,17 @@ Lead with a number that surprises or reframes.
 Open by juxtaposing two ideas that seem incompatible.
 
 **Example:**
+
 > "I'm a productivity expert who rarely finishes anything."
 
 **When to Use:**
+
 - Personal essays exploring complexity
 - Pieces about nuance
 - When writer's voice embraces contradiction
 
 **When to Avoid:**
+
 - When contradiction feels forced
 - Straightforward how-to content
 
@@ -118,14 +133,17 @@ Open by juxtaposing two ideas that seem incompatible.
 Drop the reader into the middle of action.
 
 **Example:**
+
 > "The server crashed at 5:47 p.m. on Christmas Eve. Three engineers stared at terminals, coffee going cold."
 
 **When to Use:**
+
 - Narrative pieces
 - Case studies
 - When drama matters
 
 **When to Avoid:**
+
 - Abstract or conceptual pieces
 - When action isn't actually interesting
 - Short-form where context is needed fast
@@ -138,14 +156,17 @@ Drop the reader into the middle of action.
 Question or redefine a common term.
 
 **Example:**
+
 > "'Success' is a useless word. It means everything and nothing."
 
 **When to Use:**
+
 - Pieces about abstract concepts
 - Reframing arguments
 - When challenging assumptions
 
 **When to Avoid:**
+
 - When the definition isn't actually contested
 - Simple how-to content
 
@@ -157,14 +178,17 @@ Question or redefine a common term.
 Establish temporal contrast or journey.
 
 **Example:**
+
 > "Five years ago, I was afraid to publish anything. Now I can't stop."
 
 **When to Use:**
+
 - Transformation narratives
 - Before/after pieces
 - Personal evolution stories
 
 **When to Avoid:**
+
 - When time isn't relevant to the point
 - Pieces about timeless concepts
 
@@ -176,14 +200,17 @@ Establish temporal contrast or journey.
 Open with an admission, vulnerability, or mistake.
 
 **Example:**
+
 > "I spent $50,000 on a degree I've never used. Here's what I learned anyway."
 
 **When to Use:**
+
 - Personal essays
 - Pieces where credibility comes from honesty
 - When DNA shows vulnerability in voice
 
 **When to Avoid:**
+
 - If DNA shows writer maintains authority
 - Professional/formal contexts
 - When confession overshadows point
@@ -196,14 +223,17 @@ Open with an admission, vulnerability, or mistake.
 Start with a quoted conversation.
 
 **Example:**
+
 > "'You can't do that,' my boss said. 'It's never been done.' Six months later, it was done."
 
 **When to Use:**
+
 - Narrative pieces
 - When interaction captures the tension
 - Pieces about relationships or conflict
 
 **When to Avoid:**
+
 - When dialogue is mundane
 - Purely conceptual pieces
 - When quotes are unverified
@@ -216,14 +246,17 @@ Start with a quoted conversation.
 Open with a sensory description.
 
 **Example:**
+
 > "The office smelled like burnt coffee and regret. Fluorescent lights hummed their endless drone."
 
 **When to Use:**
+
 - Evocative essays
 - Place-based pieces
 - When mood matters
 
 **When to Avoid:**
+
 - Practical how-to content
 - Fast-paced information pieces
 - If DNA shows spare, direct style
@@ -236,14 +269,17 @@ Open with a sensory description.
 Speak directly to the reader.
 
 **Example:**
+
 > "You're about to make the same mistake I did."
 
 **When to Use:**
+
 - When DNA shows second-person usage
 - Advice pieces
 - When establishing reader relationship
 
 **When to Avoid:**
+
 - If DNA avoids "you"
 - Academic or formal contexts
 - When it feels presumptuous
@@ -256,14 +292,17 @@ Speak directly to the reader.
 Open with a quick series of items.
 
 **Example:**
+
 > "Docker. Kubernetes. Terraform. CI/CD pipelines. None of them will save you if your fundamentals are broken."
 
 **When to Use:**
+
 - Technical pieces
 - Trend analysis
 - When accumulation creates effect
 
 **When to Avoid:**
+
 - When list feels random
 - Narrative pieces
 - If DNA shows writer avoids lists
@@ -276,14 +315,17 @@ Open with a quick series of items.
 Set up one expectation, then pivot.
 
 **Example:**
+
 > "Everyone told me to follow my passion. So I did. It was a disaster."
 
 **When to Use:**
+
 - Counterintuitive arguments
 - Pieces challenging conventional wisdom
 - When subversion is the point
 
 **When to Avoid:**
+
 - When pivot feels cheap
 - Straightforward explanatory pieces
 - If DNA is earnest/direct
@@ -296,14 +338,17 @@ Set up one expectation, then pivot.
 Open with someone else's words.
 
 **Example:**
+
 > "'The best time to plant a tree was twenty years ago. The second best time is now.' I'm planting trees."
 
 **When to Use:**
+
 - When quote captures theme perfectly
 - Pieces in dialogue with existing ideas
 - When authority matters
 
 **When to Avoid:**
+
 - Overused quotes
 - When quote doesn't connect to piece
 - If DNA shows originality over reference
@@ -316,14 +361,17 @@ Open with someone else's words.
 Directly state the issue you'll address.
 
 **Example:**
+
 > "Teams waste 40% of their time in meetings that accomplish nothing. Here's how to fix it."
 
 **When to Use:**
+
 - Solution-focused pieces
 - How-to content
 - When audience has the problem
 
 **When to Avoid:**
+
 - When problem is obvious
 - Exploratory pieces
 - If DNA shows narrative preference
@@ -336,14 +384,17 @@ Directly state the issue you'll address.
 Establish context before action.
 
 **Example:**
+
 > "It's 2008. The iPhone is a year old. Nobody knows what an 'app' is yet. I'm about to find out."
 
 **When to Use:**
+
 - Historical or retrospective pieces
 - When context matters for impact
 - Longer-form essays
 
 **When to Avoid:**
+
 - Short-form content
 - When reader knows the context
 - If DNA is direct/immediate
@@ -356,14 +407,17 @@ Establish context before action.
 State your main argument immediately.
 
 **Example:**
+
 > "Remote work is overrated. Here's why in-person collaboration still wins."
 
 **When to Use:**
+
 - Argument pieces
 - Busy audiences
 - When DNA shows directness
 
 **When to Avoid:**
+
 - When buildup creates more impact
 - Narrative pieces
 - Exploratory essays
@@ -374,29 +428,30 @@ State your main argument immediately.
 
 ### By Format
 
-| Format | Recommended Strategies |
-|--------|------------------------|
-| Blog post | Anecdote, Question, Bold Statement, Problem Statement |
-| Newsletter | Direct Address, Confession, Time Shift |
-| Essay | Scene Setting, In Media Res, Imagery, Contradiction |
-| LinkedIn | Bold Statement, Statistic, Problem Statement |
-| Technical article | Problem Statement, Thesis First, List Launch |
+| Format            | Recommended Strategies                                |
+| ----------------- | ----------------------------------------------------- |
+| Blog post         | Anecdote, Question, Bold Statement, Problem Statement |
+| Newsletter        | Direct Address, Confession, Time Shift                |
+| Essay             | Scene Setting, In Media Res, Imagery, Contradiction   |
+| LinkedIn          | Bold Statement, Statistic, Problem Statement          |
+| Technical article | Problem Statement, Thesis First, List Launch          |
 
 ### By DNA Patterns
 
-| DNA Shows | Consider |
-|-----------|----------|
-| Warm, personal | Anecdote, Confession, Direct Address |
-| Cool, analytical | Thesis First, Problem Statement, Statistic |
-| Narrative tendency | In Media Res, Scene Setting, Dialogue |
-| Direct/punchy | Bold Statement, Thesis First, The Pivot |
-| Exploratory | Question, Contradiction, Definition Challenge |
+| DNA Shows          | Consider                                      |
+| ------------------ | --------------------------------------------- |
+| Warm, personal     | Anecdote, Confession, Direct Address          |
+| Cool, analytical   | Thesis First, Problem Statement, Statistic    |
+| Narrative tendency | In Media Res, Scene Setting, Dialogue         |
+| Direct/punchy      | Bold Statement, Thesis First, The Pivot       |
+| Exploratory        | Question, Contradiction, Definition Challenge |
 
 ### For Draft Differentiation
 
 When creating two drafts, use different opening strategies:
 
 **Pair examples:**
+
 - Draft A: Anecdote → Draft B: Thesis First
 - Draft A: Bold Statement → Draft B: Question
 - Draft A: Scene Setting → Draft B: Problem Statement
@@ -408,22 +463,27 @@ This creates meaningful difference between drafts.
 ## Opening Weaknesses to Avoid
 
 **Throat-clearing:**
+
 > "In today's fast-paced world..."
 > "When it comes to X..."
 > "Many people believe..."
 
 **Meta-commentary:**
+
 > "In this article, I will..."
 > "Let me tell you about..."
 
 **Dictionary definition:**
+
 > "Webster's defines success as..."
 
 **Obvious statements:**
+
 > "Communication is important."
 > "Technology has changed everything."
 
 **Unearned drama:**
+
 > "What happened next changed everything." (without context)
 
 ---
@@ -446,12 +506,12 @@ This creates meaningful difference between drafts.
 
 Consider how the opening might connect to the closing:
 
-| Opening | Possible Closing Echo |
-|---------|----------------------|
-| Anecdote | Return to the scene, resolution |
-| Question | Answer revealed, question reframed |
+| Opening        | Possible Closing Echo                      |
+| -------------- | ------------------------------------------ |
+| Anecdote       | Return to the scene, resolution            |
+| Question       | Answer revealed, question reframed         |
 | Bold Statement | Statement validated, nuanced, or subverted |
-| Imagery | Same image, transformed |
-| Time Shift | Full circle, or projection forward |
+| Imagery        | Same image, transformed                    |
+| Time Shift     | Full circle, or projection forward         |
 
 Creating opening/closing resonance makes pieces feel complete. Note this in draft notes when you use it.

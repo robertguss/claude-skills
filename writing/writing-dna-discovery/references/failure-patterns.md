@@ -39,9 +39,11 @@ The ghost writer has nothing distinctive to work with. Output will be generic be
 ### Example
 
 **Generic (Bad):**
+
 > "Uses a conversational tone with varied sentence lengths. Addresses the reader directly. Clear and accessible prose."
 
 **Specific (Good):**
+
 > "Short punchy sentences (5-10 words) followed by one longer unwinder (20-30 words). Never uses 'however'—always 'but.' Addresses reader as 'you' at least once per paragraph. Ends paragraphs with concrete images, never abstractions."
 
 ### Intervention Questions
@@ -87,6 +89,7 @@ The ghost writer can't satisfy contradictory instructions. Output will be incons
 ### Resolution
 
 Either:
+
 1. **Separate registers:** Create different DNA documents for each mode
 2. **Identify dominant pattern:** Capture the primary pattern with the variant as contextual
 3. **Capture evolution:** Document the current preference while noting history
@@ -170,6 +173,7 @@ The ghost writer can mimic surface features but misses the deeper patterns that 
 ### Resolution
 
 Go deeper on:
+
 - Signature elements (what's uniquely theirs)
 - Distinctive moves (things only they do)
 - Anti-patterns (what they never do)
@@ -198,9 +202,11 @@ Writing has natural variation. An over-specified profile forces the ghost writer
 ### Example
 
 **Over-Specified (Bad):**
+
 > "Sentences must be 8-15 words. Never start with 'The.' Always use contractions. Never use semicolons. Every paragraph must have 3-4 sentences. Never use words over 3 syllables."
 
 **Appropriately Specified (Good):**
+
 > "Tends toward shorter sentences (8-15 words typical) but occasionally uses longer ones for flow. Prefers contractions in casual contexts. Avoids semicolons. Paragraphs usually 3-4 sentences but can vary."
 
 ### Intervention Questions
@@ -212,6 +218,7 @@ Writing has natural variation. An over-specified profile forces the ghost writer
 ### Resolution
 
 Convert rigid rules to:
+
 - Tendencies with ranges
 - Context-dependent patterns
 - Primary patterns with noted exceptions
@@ -237,6 +244,7 @@ Patterns are captured from samples but haven't been validated as generalizable. 
 ### Why It Fails
 
 The samples might be unrepresentative:
+
 - Written for unusual contexts
 - Heavily edited by others
 - Written in a mode the user doesn't normally use

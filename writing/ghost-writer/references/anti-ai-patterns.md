@@ -19,6 +19,7 @@ Large language models regress to the mean—they produce statistically likely te
 AI tends to inflate the importance of subjects with grand, empty language.
 
 **Words to Watch:**
+
 - stands as / serves as / is a testament to
 - plays a vital/significant/crucial role
 - underscores/highlights its importance
@@ -29,6 +30,7 @@ AI tends to inflate the importance of subjects with grand, empty language.
 - profound heritage
 
 **Examples (Avoid):**
+
 > "Berry Hill today **stands as a symbol** of community resilience."
 
 > "This approach **plays a significant role** in modern development."
@@ -37,6 +39,7 @@ AI tends to inflate the importance of subjects with grand, empty language.
 Facts don't "underscore" or "highlight" anything. This is the AI narrator making unsupported claims about significance. Real writers either let importance speak for itself or argue for it explicitly.
 
 **How to Fix:**
+
 - State facts directly without inflating
 - Let the reader judge significance
 - If arguing for importance, make the argument
@@ -48,6 +51,7 @@ Facts don't "underscore" or "highlight" anything. This is the AI narrator making
 AI attaches shallow analytical phrases—often present participles (-ing)—to make statements seem more substantive.
 
 **Words to Watch:**
+
 - ensuring...
 - highlighting...
 - emphasizing...
@@ -58,6 +62,7 @@ AI attaches shallow analytical phrases—often present participles (-ing)—to m
 - contributing to...
 
 **Examples (Avoid):**
+
 > "The company was recognized, **highlighting its role** in the industry."
 
 > "This partnership **reflects the organization's commitment** to excellence."
@@ -66,6 +71,7 @@ AI attaches shallow analytical phrases—often present participles (-ing)—to m
 The participle phrase adds no information—it's the AI asserting what something means rather than showing it. Human writers let readers draw conclusions or make arguments explicitly.
 
 **How to Fix:**
+
 - Cut the participle phrase entirely
 - If the meaning matters, state it directly
 - Show, don't tell
@@ -77,6 +83,7 @@ The participle phrase adds no information—it's the AI asserting what something
 AI trained on marketing copy produces tourism-brochure prose even for mundane subjects.
 
 **Words to Watch:**
+
 - rich/vibrant tapestry
 - artistic/cultural/literary landscape
 - boasts a
@@ -89,6 +96,7 @@ AI trained on marketing copy produces tourism-brochure prose even for mundane su
 - diverse attractions
 
 **Examples (Avoid):**
+
 > "**Nestled** within the **breathtaking** region, the town **stands as a vibrant** community with **rich cultural heritage**."
 
 > "The company **acts as a gateway** to **diverse opportunities**."
@@ -97,6 +105,7 @@ AI trained on marketing copy produces tourism-brochure prose even for mundane su
 This reads like advertising, not informative writing. The adjectives are empty calories. Real writers use specific details rather than generic enthusiasm.
 
 **How to Fix:**
+
 - Replace promotional adjectives with specific details
 - Cut "nestled," "vibrant," "rich tapestry"
 - State facts without cheerleading
@@ -108,19 +117,23 @@ This reads like advertising, not informative writing. The adjectives are empty c
 AI relies on predictable templates, especially for complex topics.
 
 **The "Important to Note" Pattern:**
+
 - It's important to note/remember/consider
 - However, it should be noted that
 - It's worth mentioning that
 
 **The "Despite Challenges" Formula:**
+
 > "Despite its [positive attributes], [subject] faces challenges including... Despite these challenges, [subject] continues to thrive."
 
 **The Summary Conclusion:**
+
 - In summary...
 - In conclusion...
 - Overall...
 
 **Examples (Avoid):**
+
 > "**It's important to note** that the regulations remain unclear."
 
 > "**Despite its challenges**, the company **continues to thrive**."
@@ -131,6 +144,7 @@ AI relies on predictable templates, especially for complex topics.
 These are templates, not thoughts. Real writers structure arguments based on specific content, not generic formulas. The "despite challenges" pattern is especially mechanical.
 
 **How to Fix:**
+
 - Cut "It's important to note"—just state the thing
 - Restructure "despite challenges" with actual argument
 - End pieces without announcing the ending
@@ -142,6 +156,7 @@ These are templates, not thoughts. Real writers structure arguments based on spe
 AI uses vague quantifiers to avoid commitment.
 
 **Words to Watch:**
+
 - various
 - numerous
 - significant
@@ -152,6 +167,7 @@ AI uses vague quantifiers to avoid commitment.
 - industry reports suggest
 
 **Examples (Avoid):**
+
 > "He made **various** contributions to **numerous** fields."
 
 > "**Some critics argue** that the methodology has limitations."
@@ -160,6 +176,7 @@ AI uses vague quantifiers to avoid commitment.
 These words carry almost no information. "Various contributions to numerous fields" could describe anyone. Real writers either specify or omit.
 
 **How to Fix:**
+
 - Be specific: "three contributions" or "contributions to linguistics and philosophy"
 - Commit to a claim or don't make it
 - Cut empty quantifiers entirely
@@ -171,12 +188,14 @@ These words carry almost no information. "Various contributions to numerous fiel
 AI has repetition penalties that cause excessive synonym use, especially for key terms.
 
 **Example (Avoid):**
+
 > "**Artists** facing constraints... **non-conformist artists** expressed... **like-minded artists** shared... **Russian avant-garde artists**... **the diverse yet united front of non-conformist artists**..."
 
 **Why It's a Problem:**
 The constant substitution draws attention to itself. Natural repetition is less distracting than forced variation.
 
 **How to Fix:**
+
 - Repeat key terms naturally
 - Only vary when there's a meaningful reason
 - Trust the reader to handle repetition
@@ -188,6 +207,7 @@ The constant substitution draws attention to itself. Natural repetition is less 
 AI loves triple constructions, often using them to pad superficial analysis.
 
 **Examples (Avoid):**
+
 > "The event features **keynote sessions, panel discussions, and networking opportunities**."
 
 > "His work reflects **passion, dedication, and artistic vision**."
@@ -196,6 +216,7 @@ AI loves triple constructions, often using them to pad superficial analysis.
 The rule of three is a legitimate rhetorical device, but AI uses it mechanically. When every list has exactly three items, it becomes a tell.
 
 **How to Fix:**
+
 - Vary list lengths (2, 4, 5 items)
 - Use three only when genuinely rhetorical
 - Be willing to have just two items
@@ -207,6 +228,7 @@ The rule of three is a legitimate rhetorical device, but AI uses it mechanically
 AI uses "from X to Y" constructions that don't form meaningful scales.
 
 **Examples (Avoid):**
+
 > "Breakthroughs, **from** fundamental physics **to** medicine and neuroscience..."
 
 > "**From** problem-solving **to** artistic expression..."
@@ -215,6 +237,7 @@ AI uses "from X to Y" constructions that don't form meaningful scales.
 Real ranges have identifiable midpoints and logical progression. "From soup to nuts" works (courses in a meal). "From problem-solving to artistic expression" has no coherent middle ground.
 
 **How to Fix:**
+
 - Only use ranges with logical scales
 - Consider listing instead of ranging
 - Cut the range structure if it doesn't work
@@ -226,6 +249,7 @@ Real ranges have identifiable midpoints and logical progression. "From soup to n
 AI overuses "not only... but also" and similar constructions.
 
 **Examples (Avoid):**
+
 > "**Not only** a work of art, **but** a historical document."
 
 > "**It's not just about** efficiency; **it's** part of the larger vision."
@@ -234,6 +258,7 @@ AI overuses "not only... but also" and similar constructions.
 These constructions create false drama. They imply revelation ("you might think X, but actually Y!") where none exists.
 
 **How to Fix:**
+
 - Use simple conjunction: "both X and Y"
 - Reserve for genuine contrasts
 - Cut when there's no real revelation
@@ -245,6 +270,7 @@ These constructions create false drama. They imply revelation ("you might think 
 Certain words appear disproportionately in AI output.
 
 **High-Frequency AI Words:**
+
 - delve / delve into
 - navigate (especially "navigate the complexities")
 - landscape (especially "cultural landscape," "media landscape")
@@ -266,6 +292,7 @@ Certain words appear disproportionately in AI output.
 They're formal-sounding without being specific. They appear frequently in professional/academic prose that dominates training data.
 
 **How to Fix:**
+
 - Replace with simpler alternatives: "use" not "utilize"
 - Be specific instead of vague: "the tech industry" not "the technology landscape"
 - Cut entirely when they add nothing
@@ -281,12 +308,14 @@ AI strongly prefers capitalizing all major words ("The Impact Of Technology On S
 AI trained on documentation bolds key terms mechanically.
 
 **Numbered Lists with Inline Headers:**
+
 > "1. **Historical Context:** The world was changing..."
 
 **Why It's a Problem:**
 These formatting choices come from specific genres (documentation, sales materials) and feel out of place in prose.
 
 **How to Fix:**
+
 - Use sentence case unless publication style requires otherwise
 - Bold sparingly and with purpose
 - Integrate information into prose rather than listing
@@ -298,6 +327,7 @@ These formatting choices come from specific genres (documentation, sales materia
 ### Active Monitoring
 
 While generating, watch for:
+
 - Reaching for significance inflation
 - Adding -ing phrases that don't add information
 - Using "important to note" or similar
@@ -307,6 +337,7 @@ While generating, watch for:
 ### Immediate Revision
 
 When you catch yourself writing an AI pattern:
+
 1. Stop
 2. Consider what you actually meant
 3. Rewrite in the writer's voice
@@ -315,6 +346,7 @@ When you catch yourself writing an AI pattern:
 ### Pre-Delivery Check
 
 Before delivering, scan for:
+
 - [ ] Significance puffery
 - [ ] Superficial -ing phrases
 - [ ] Promotional adjectives
@@ -349,22 +381,22 @@ Apply both baseline (this document) and DNA-specific anti-patterns.
 
 Some humans use these patterns genuinely. If the DNA document shows the writer actually uses "however, it should be noted" or loves em-dashes, follow their voice, not this list.
 
-The DNA document captures what's authentic for *this* writer. This reference captures what's typically artificial. When they conflict, the DNA document wins.
+The DNA document captures what's authentic for _this_ writer. This reference captures what's typically artificial. When they conflict, the DNA document wins.
 
 ---
 
 ## Quick Reference
 
-| Pattern | Example to Avoid | Quick Fix |
-|---------|-----------------|-----------|
-| Significance puffery | "stands as a testament" | State directly |
-| Superficial -ing | "highlighting its importance" | Cut the phrase |
-| Promotional | "rich tapestry," "nestled" | Specific details |
-| Template | "It's important to note" | Just say it |
-| Hedging | "various," "numerous" | Be specific |
-| Synonym swap | Constant variation | Natural repetition |
-| Rule of three | Every list = 3 items | Vary lengths |
-| False range | "from X to Y" without scale | List or cut |
-| Empty contrast | "not only... but also" | Simple conjunction |
-| AI words | "delve," "leverage" | Simpler alternatives |
-| Formatting | Title Case headers | Sentence case |
+| Pattern              | Example to Avoid              | Quick Fix            |
+| -------------------- | ----------------------------- | -------------------- |
+| Significance puffery | "stands as a testament"       | State directly       |
+| Superficial -ing     | "highlighting its importance" | Cut the phrase       |
+| Promotional          | "rich tapestry," "nestled"    | Specific details     |
+| Template             | "It's important to note"      | Just say it          |
+| Hedging              | "various," "numerous"         | Be specific          |
+| Synonym swap         | Constant variation            | Natural repetition   |
+| Rule of three        | Every list = 3 items          | Vary lengths         |
+| False range          | "from X to Y" without scale   | List or cut          |
+| Empty contrast       | "not only... but also"        | Simple conjunction   |
+| AI words             | "delve," "leverage"           | Simpler alternatives |
+| Formatting           | Title Case headers            | Sentence case        |

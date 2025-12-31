@@ -41,14 +41,14 @@ This skill has a full arsenal of voice dimensions but deploys them thoughtfully.
 
 ## Session Types
 
-| Type | Signal | Approach |
-|------|--------|----------|
-| **Initial Discovery** | New user, no existing DNA doc | Full discovery flow |
-| **Sample Addition** | New samples + existing DNA doc | Analyze new samples, compare to profile, integrate |
-| **Dimension Deep-Dive** | "I want to go deeper on X" | Focus on specific dimension |
-| **Refinement from Feedback** | "The ghost writer keeps doing X wrong" | Convert feedback to anti-patterns |
-| **Evolution Update** | "My writing has changed" | Compare old vs. new, update profile |
-| **New Register** | "I want to add my fiction voice" | New discovery for different mode |
+| Type                         | Signal                                 | Approach                                           |
+| ---------------------------- | -------------------------------------- | -------------------------------------------------- |
+| **Initial Discovery**        | New user, no existing DNA doc          | Full discovery flow                                |
+| **Sample Addition**          | New samples + existing DNA doc         | Analyze new samples, compare to profile, integrate |
+| **Dimension Deep-Dive**      | "I want to go deeper on X"             | Focus on specific dimension                        |
+| **Refinement from Feedback** | "The ghost writer keeps doing X wrong" | Convert feedback to anti-patterns                  |
+| **Evolution Update**         | "My writing has changed"               | Compare old vs. new, update profile                |
+| **New Register**             | "I want to add my fiction voice"       | New discovery for different mode                   |
 
 ## Discovery Methodology
 
@@ -74,20 +74,25 @@ Update the DNA document at meaningful milestones, not constantly. Capture patter
 Beyond standard Q&A, use these to surface voice:
 
 **Comparative Choices**
+
 > "Would you write 'He walked into the room' or 'He stepped into the room' or something else?"
 
 **Contrastive Examples**
+
 > "This reads more Hemingway than David Foster Wallace. Where do you see yourself on that spectrum?"
 
 **Elimination Exercises**
+
 > "Which of these words would you NEVER use: utilize, leverage, facilitate, synergize?"
 
 **Completion Prompts**
 Give a sentence starter; see how they naturally finish it.
+
 > "The problem with most writing advice is..."
 
 **Rewrite Exercises**
 Show generic AI-sounding text; ask them to rewrite it in their voice.
+
 > "Transform this: 'This methodology provides a comprehensive framework for understanding the complex dynamics at play.'"
 
 ### When User Has No/Few Samples
@@ -104,26 +109,26 @@ Show generic AI-sounding text; ask them to rewrite it in their voice.
 
 These should be addressed in every discovery session:
 
-| Dimension | What It Captures |
-|-----------|------------------|
-| **Sentence Rhythm** | Length variation, internal structure, emphasis placement, cadence |
-| **Punctuation Personality** | Em-dashes, semicolons, parentheses, comma density, exclamations |
-| **Word Choice** | Vocabulary level, Anglo-Saxon vs. Latinate, favorites, avoided words |
-| **Tone & Temperature** | Warm/cool, formal/casual, confident/hedging, measured/enthusiastic |
-| **Reader Relationship** | First person presence, direct address, assumed knowledge, authority stance |
+| Dimension                   | What It Captures                                                           |
+| --------------------------- | -------------------------------------------------------------------------- |
+| **Sentence Rhythm**         | Length variation, internal structure, emphasis placement, cadence          |
+| **Punctuation Personality** | Em-dashes, semicolons, parentheses, comma density, exclamations            |
+| **Word Choice**             | Vocabulary level, Anglo-Saxon vs. Latinate, favorites, avoided words       |
+| **Tone & Temperature**      | Warm/cool, formal/casual, confident/hedging, measured/enthusiastic         |
+| **Reader Relationship**     | First person presence, direct address, assumed knowledge, authority stance |
 
 ### Extended Dimensions (Surface as Relevant)
 
 Explore these when they emerge as distinctive or when going deeper:
 
-| Dimension | What It Captures |
-|-----------|------------------|
-| **Opening Moves** | How they begin pieces: in media res, hooks, questions, scene-setting |
-| **Closing Moves** | How they end: callbacks, questions, definitive statements, quiet landings |
-| **Structural Patterns** | Paragraph construction, transitions, section organization |
-| **Confidence/Hedging** | "Perhaps" vs. direct assertion, qualifier density, uncertainty handling |
-| **Humor Approach** | If present: dry wit, self-deprecation, wordplay, sarcasm, or absent |
-| **Signature Elements** | Distinctive moves, pet phrases, characteristic tics |
+| Dimension               | What It Captures                                                          |
+| ----------------------- | ------------------------------------------------------------------------- |
+| **Opening Moves**       | How they begin pieces: in media res, hooks, questions, scene-setting      |
+| **Closing Moves**       | How they end: callbacks, questions, definitive statements, quiet landings |
+| **Structural Patterns** | Paragraph construction, transitions, section organization                 |
+| **Confidence/Hedging**  | "Perhaps" vs. direct assertion, qualifier density, uncertainty handling   |
+| **Humor Approach**      | If present: dry wit, self-deprecation, wordplay, sarcasm, or absent       |
+| **Signature Elements**  | Distinctive moves, pet phrases, characteristic tics                       |
 
 ### Anti-Patterns (Always Capture)
 
@@ -138,6 +143,7 @@ Critical for the ghost writer skill:
 Surface these based on the register being captured:
 
 **Fiction:**
+
 - Narrative distance (close third, distant third, intimate first)
 - Dialogue style (tags, beats, dialect rendering)
 - Description density and approach
@@ -145,18 +151,21 @@ Surface these based on the register being captured:
 - Interiority access
 
 **Non-Fiction/Essays:**
+
 - Argument structure (build-up vs. thesis-first)
 - Evidence presentation style
 - Concession patterns (handling counterarguments)
 - Abstraction level
 
 **Blog/Casual:**
+
 - Hook patterns
 - Personal anecdote integration
 - Conversational asides
 - Call-to-action style
 
 **Technical:**
+
 - Instruction structure
 - Example density
 - Assumed reader competence
@@ -167,18 +176,23 @@ Surface these based on the register being captured:
 Don't just respond—actively contribute:
 
 **Pattern Spotting**
+
 > "I notice you never start sentences with 'I' in these posts, but you do frequently in personal essays. Is that intentional, or am I seeing two different registers?"
 
 **Contradiction Flagging**
+
 > "These two samples show different approaches to paragraph length. Your essay has long, flowing paragraphs while your blog posts are choppy. Which is more 'you,' or are these genuinely different modes?"
 
 **Gap Identification**
+
 > "We have a solid handle on your sentence patterns and tone, but I don't have a sense of how you handle humor. Do you use it? If so, what kind?"
 
 **Strength Highlighting**
+
 > "Your most distinctive feature is how you end paragraphs—almost always with a concrete image rather than an abstraction. The ghost writer should definitely preserve this."
 
 **AI-Pattern Warnings**
+
 > "I notice you used 'it's important to note' in this piece—is that typical for you, or was this edited by someone else? I ask because it's a common AI pattern we'd want to exclude."
 
 ## Readiness Criteria
@@ -190,7 +204,7 @@ Don't just respond—actively contribute:
 - [ ] Key anti-patterns documented
 - [ ] User validation ("yes, that's me")
 
-*Ghost writer accuracy: ~60-70%*
+_Ghost writer accuracy: ~60-70%_
 
 ### Solid Profile (Ready for Quality First Drafts)
 
@@ -200,7 +214,7 @@ Don't just respond—actively contribute:
 - [ ] Anti-patterns with reasoning
 - [ ] Stress-tested against user's instincts
 
-*Ghost writer accuracy: ~75-85%*
+_Ghost writer accuracy: ~75-85%_
 
 ### Strong Profile (High-Accuracy Output)
 
@@ -209,9 +223,10 @@ Don't just respond—actively contribute:
 - [ ] Refined based on feedback
 - [ ] Register-specific nuances captured
 
-*Ghost writer accuracy: ~85-90%*
+_Ghost writer accuracy: ~85-90%_
 
 Communicate readiness clearly:
+
 > "This profile is solid enough for first drafts. The ghost writer should capture your voice about 80% of the time. Want to go deeper, or is this good for now?"
 
 ## Session Flow
@@ -219,12 +234,14 @@ Communicate readiness clearly:
 ### Start Phase
 
 **For New Users:**
+
 1. What register/mode are we capturing? (blog, fiction, technical, etc.)
 2. Do they have writing samples to share?
 3. What's their goal? (general capture vs. specific project)
 4. Any influences or writers they identify with?
 
 **For Returning Users:**
+
 1. Request current DNA document
 2. Review: What's developed vs. needs depth?
 3. What brings them back? (new samples, feedback, evolution, deep dive)
@@ -250,7 +267,7 @@ Communicate readiness clearly:
 
 ### Aspirational vs. Actual Voice
 
-Sometimes users want the ghost writer to write like they *wish* they wrote, not how they actually write.
+Sometimes users want the ghost writer to write like they _wish_ they wrote, not how they actually write.
 
 > "I'm noticing a gap between how you describe your ideal voice and what I see in these samples. Do you want me to capture how you currently write, how you aspire to write, or both?"
 
@@ -259,6 +276,7 @@ Document which is which. The ghost writer can either match them or help them mov
 ### Limited Samples
 
 If the user has only one short piece:
+
 - Acknowledge lower confidence
 - Lean more heavily on interview
 - Note which patterns are confirmed vs. tentative
@@ -267,6 +285,7 @@ If the user has only one short piece:
 ### Inconsistent Samples
 
 If samples show conflicting patterns:
+
 - Is this multiple registers? (Capture separately)
 - Is this evolution? (Capture current preference)
 - Is this situational? (Document when each applies)
@@ -274,6 +293,7 @@ If samples show conflicting patterns:
 ### Edited/Collaborative Work
 
 If samples may have been edited by others:
+
 - Ask about editorial involvement
 - Focus on patterns the user confirms as "theirs"
 - Note uncertainty where relevant
@@ -291,14 +311,14 @@ Use `assets/templates/voice-dna-template.md` for the living Voice DNA Document.
 
 Load these as needed, not upfront:
 
-| File | When to Use |
-|------|-------------|
-| `references/anti-ai-patterns.md` | When discussing what the ghost writer should avoid |
-| `references/voice-dimension-catalog.md` | For deep dives into specific dimensions |
-| `references/interview-question-bank.md` | For structured discovery questions |
-| `references/sample-analysis-guide.md` | When systematically analyzing samples |
-| `references/dna-document-examples.md` | To show what "good" profiles look like |
-| `references/failure-patterns.md` | When something seems off or profile feels weak |
+| File                                    | When to Use                                        |
+| --------------------------------------- | -------------------------------------------------- |
+| `references/anti-ai-patterns.md`        | When discussing what the ghost writer should avoid |
+| `references/voice-dimension-catalog.md` | For deep dives into specific dimensions            |
+| `references/interview-question-bank.md` | For structured discovery questions                 |
+| `references/sample-analysis-guide.md`   | When systematically analyzing samples              |
+| `references/dna-document-examples.md`   | To show what "good" profiles look like             |
+| `references/failure-patterns.md`        | When something seems off or profile feels weak     |
 
 ## Key Reminders
 
