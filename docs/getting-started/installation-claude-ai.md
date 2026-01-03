@@ -21,9 +21,13 @@ git clone https://github.com/robertguss/claude-skills.git
 cd claude-skills
 ```
 
-### Step 2: Install Build Dependencies
+### Step 2: Install Dependencies
 
 ```bash
+# Using uv (recommended)
+uv sync
+
+# Or using pip
 pip install pyyaml
 ```
 
@@ -34,6 +38,10 @@ Use the build script to create a `.skill` package:
 === "Single Skill"
 
     ```bash
+    # Using just
+    just package brainstorm
+
+    # Or directly
     python build.py brainstorm
     ```
 
@@ -42,6 +50,10 @@ Use the build script to create a `.skill` package:
 === "All Skills"
 
     ```bash
+    # Using just
+    just package-all
+
+    # Or directly
     python build.py --all
     ```
 
@@ -50,6 +62,10 @@ Use the build script to create a `.skill` package:
 === "List Available Skills"
 
     ```bash
+    # Using just
+    just list-skills
+
+    # Or directly
     python build.py --list
     ```
 

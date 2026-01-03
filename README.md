@@ -36,12 +36,25 @@ python build.py brainstorm
 - [All Skills](https://robertguss.github.io/claude-skills/skills/)
 - [Developer Guide](https://robertguss.github.io/claude-skills/developer-guide/)
 
-## Local Documentation
+## Development
+
+This project uses [uv](https://docs.astral.sh/uv/) for dependency management and [just](https://github.com/casey/just) as a command runner.
 
 ```bash
-pip install -r requirements-docs.txt
-mkdocs serve
-# Visit http://localhost:8000
+# Install dependencies
+just install
+
+# Serve docs locally at http://localhost:8000
+just docs-serve
+
+# Deploy docs to GitHub Pages
+just docs-deploy
+
+# Package a skill
+just package brainstorm
+
+# See all commands
+just
 ```
 
 ## License
