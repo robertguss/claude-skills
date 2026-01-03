@@ -51,4 +51,4 @@ list-skills:
 
 # Clean build artifacts
 clean:
-    rm -rf dist/ site/ .venv/
+    rm -rf dist/ site/
